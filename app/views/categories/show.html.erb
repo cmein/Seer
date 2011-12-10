@@ -1,0 +1,10 @@
+This category's feeds:<br />
+
+<% if !@category.feeds.blank? %>
+	<% for item in @feeds %>
+		<%= item.name %> - <%= item.url %> <br />
+	<% end %>
+<% else %>
+	No feeds
+<% end %>
+

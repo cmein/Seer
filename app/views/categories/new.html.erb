@@ -1,0 +1,22 @@
+Enter new category information
+<hr />
+<%= form_for @category do |f| %>
+	<%= f.label :name %><br />
+	<%= f.text_field :name %><br />
+
+	<%= f.hidden_field :iteration, :value => "0" %>
+
+	<%= f.submit %>
+<% end %>
+
+<hr />
+All categories list:<br />
+
+<% if !@categories.blank? %>
+	<% for item in @categories %>
+		<%= item.name %> - <%= item.iteration %> - <%= link_to "Feeds", :controller => :feeds, :action => :new, :id => item.id %>  <br />
+	<% end %>
+<% else %>
+	No categories
+<% end %>
+
