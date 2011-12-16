@@ -14,13 +14,28 @@ class CategoriesController < ApplicationController
 	end
 
 	def create
+		@categories = Category.find(:all)
 		@category = Category.new(params[:category])
 		respond_to do |format|
 		  if @category.save
 			format.html { redirect_to new_category_path }
 		  else     
-			format.html { redirect_to new_category_path }
+			format.html { render action: "new" }
 		  end
+		end
+	end
+
+	def edit
+		@category = Category.find(params[:id])
+	end
+
+	def update
+		@category = Category.find(params[:id])
+		if @category.update_attributes(params[:category])
+			flash[:notice] = "Successfully updated category."
+			redirect_to category_url(@category)
+		else
+			render :action => 'edit'
 		end
 	end
 

@@ -1,0 +1,28 @@
+<div id="category_main">
+
+	<%= render "feed_header", :feed => @feed, :category => @category %>
+	
+	<h3>Most Recent Feed Entries</h3>
+	<h5 class="feed_bit"><%= link_to sanitize("See More Feed Entries &raquo;"), category_feed_feed_entries_path(@category, @feed) %></h5>
+	<h5 class="feed_bit"><%= link_to "Update This Feed", {:controller => "feeds", :action => "updatefeed"}%></h5>
+
+<% if !@feed.feed_entries.blank? %>
+	<% for item in @feed.feed_entries %>
+		<% if !item.name.blank? and !item.url.blank? %>
+			<div class="feed_entry">
+				<h2><a href="<%= item.url %>"><%= item.name %></a></h2>
+				<h5 class="feed_entry_time"><%= item.published_at %></h5><br />
+				<%= !item.content.nil? ? sanitize(item.content) : sanitize(item.summary) %><br />
+				<br />
+			</div>
+		<% end %>
+	<% end %>
+<% else %>
+	No feed entries yet
+<% end %>
+
+</div><!-- #category_main -->
+
+
+
+<%= render "shared/feeds_list", :category => @category %>

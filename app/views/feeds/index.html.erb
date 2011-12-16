@@ -1,0 +1,18 @@
+<%= @category.name %>'s feeds: <%= link_to "Back", categories_path %>
+
+<hr />
+All feeds for this category:<br />
+
+<% if !@category.feeds.blank? %>
+	<% for item in @category.feeds %>
+		<% if !item.name.blank? and !item.url.blank? %>
+			<%= item.name %> - <%= item.url %>  ~ <%= link_to 'Edit', edit_category_feed_path(@category, item) %> <%= link_to 'Delete', [@category, item], confirm: 'Are you sure?', method: :delete %> <%= link_to 'Show', category_feed_path(@category, item) %> <%= link_to "See Feed Entries", category_feed_feed_entries_path(@category, item) %> <br />
+		<% end %>
+	<% end %>
+<% else %>
+	No feeds yet
+<% end %>
+
+<br /><br />
+<%= link_to "Add New Feed", new_category_feed_path(@category) %> <br />
+

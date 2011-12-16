@@ -1,22 +1,15 @@
-Enter new category information
-<hr />
-<%= form_for @category do |f| %>
-	<%= f.label :name %><br />
-	<%= f.text_field :name %><br />
+<div id="category_main">
 
-	<%= f.hidden_field :iteration, :value => "0" %>
-
-	<%= f.submit %>
-<% end %>
+<div id="category_info" class="header_info">
+	<h1>Create new category</h1> 
+</div>
 
 <hr />
-All categories list:<br />
 
-<% if !@categories.blank? %>
-	<% for item in @categories %>
-		<%= item.name %> - <%= item.iteration %> - <%= link_to "Feeds", :controller => :feeds, :action => :new, :id => item.id %>  <br />
-	<% end %>
-<% else %>
-	No categories
-<% end %>
+	<%= render 'form' %>
+
+
+</div><!-- #category_main -->
+
+<%= render "shared/categories_list", :categories => @categories %>
 

@@ -8,7 +8,37 @@
 </head>
 <body>
 
-<%= yield %>
+<header>
+	<%= link_to "SEER", categories_path %>
+</header>
+
+<div id="main">
+	<%= yield %>
+</div>
+
+<div style="clear:both;"></div>
 
 </body>
+
+<script>
+
+	$(function() {
+
+		function setSizes() {
+			var winHeight = $(window).height();
+			var winWidth = $(window).width();
+			var sidebarWidth = $('#sidebar').width();
+			$('#main').height(winHeight-74);
+			$('#category_main').width(winWidth - 291);
+		}
+		setSizes();
+
+		$(window).resize(function() {
+			setSizes();	
+		});
+
+	});
+
+</script>
+
 </html>

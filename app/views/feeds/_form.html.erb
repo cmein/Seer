@@ -1,0 +1,11 @@
+<%= form_for [@category, @feed], :html => {:class => "gen_form feed_form"} do |f| %>
+
+	<%= render "shared/error_messages", :target => @feed %>
+
+	<%= f.label :name %><br />
+	<%= f.text_field :name %><br /><br />
+	<%= f.label :url %><br />
+	<%= f.text_field :url %><br /><br />
+
+	<%= f.submit %>
+<% end %>

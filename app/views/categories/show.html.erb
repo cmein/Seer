@@ -1,10 +1,7 @@
-This category's feeds:<br />
+<div id="category_main">
+	<%= render "category_header", :category => @category %>	
+</div><!-- #category_main -->
 
-<% if !@category.feeds.blank? %>
-	<% for item in @feeds %>
-		<%= item.name %> - <%= item.url %> <br />
-	<% end %>
-<% else %>
-	No feeds
-<% end %>
+<%= render "shared/feeds_list", :category => @category %>
+
 

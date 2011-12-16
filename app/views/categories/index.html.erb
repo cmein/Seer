@@ -1,11 +1,6 @@
-All categories list:<br />
+<div id="category_main">
 
-<% if !@categories.blank? %>
-	<% for item in @categories %>
-		<%= link_to item.name, item %> - <%= item.iteration %> - <%= link_to "Feeds", :controller => :feeds, :action => :new, :id => item.id %>  <br />
-	<% end %>
-<% else %>
-	No categories
-<% end %>
+</div>
 
-<%= link_to "New Category", new_category_path %>
+<%= render "shared/categories_list", :categories => @categories %>
+

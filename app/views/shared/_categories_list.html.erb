@@ -1,0 +1,21 @@
+<div id="sidebar">
+	<h1>Categories</h1>	
+
+	<ul>
+		<% if !categories.blank? %>
+			<% for item in categories %>
+				<% if !item.name.blank? %>
+					<li>
+						<%= link_to item.name, item %>
+						<h5><%= link_to [item.feeds.count, "feeds,", item.iteration, "hours"].join(' '), item %></h5>
+					</li>
+				<% end %>
+			<% end %>
+		<% else %>
+			No categories
+		<% end %>
+	</ul>
+
+	<br /><br />
+	<%= link_to "+ Add New Category", new_category_path, :class => "category_add_new button" %> <br />
+</div> <!-- #categories_list -->

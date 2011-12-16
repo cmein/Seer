@@ -1,0 +1,11 @@
+<%= form_for @category, :html => {:class => "gen_form category_form"} do |f| %>
+
+	<%= render "shared/error_messages", :target => @category %>	
+
+	<%= f.label :name %><br />
+	<%= f.text_field :name %><br /><br />
+
+	<%= f.hidden_field :iteration, :value => "0" %>
+
+	<%= f.submit %>
+<% end %>

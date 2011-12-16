@@ -1,0 +1,10 @@
+<div id="category_main">
+
+	<%= render "feed_header", :feed => @feed, :category => @category %>
+
+	<%= render 'form' %>
+
+</div><!-- #category_main -->
+
+<%= render "shared/feeds_list", :category => @category %>
+

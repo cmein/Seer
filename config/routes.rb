@@ -1,8 +1,12 @@
 Seer::Application.routes.draw do
 
-	resources :categories
-	resources :feeds
-
+	resources :categories do
+		resources :feeds do
+			get :updatefeed, :on => :member
+			resources :feed_entries
+		end
+	end
+  
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

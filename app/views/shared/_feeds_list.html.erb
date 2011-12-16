@@ -1,0 +1,19 @@
+<div id="sidebar">
+	<h1><%= category.feeds.count %> feeds</h1>	
+
+	<ul>
+		<% if !category.feeds.blank? %>
+			<% for item in category.feeds %>
+				<% if !item.name.blank? and !item.url.blank? %>
+					<%= sanitize(current_page?(:id => item.id) ? "<li class='feed_selected'>" : "<li>") %>
+					<%= link_to item.name, category_feed_path(category, item) %></li>
+				<% end %>
+			<% end %>
+		<% else %>
+			No feeds
+		<% end %>
+	</ul>
+
+	<br /><br />
+	<%= link_to "+ Add New Feed", new_category_feed_path(category), :class => "feed_add_new button" %> <br />
+</div> <!-- #feeds_list -->

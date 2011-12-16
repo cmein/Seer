@@ -1,0 +1,11 @@
+<div id="category_info" class="header_info">
+	<h1><%= link_to category.name, category %></h1> 
+</div>
+
+<div id="category_controls" class="header_controls">
+	<%= link_to image_tag("ui/edit.png", :alt => "Edit", :title => "Edit"), edit_category_path(category) %> 
+	<%= link_to image_tag("ui/delete.png", :alt => "Delete", :title => "Delete"), [category], confirm: 'Are you sure?', method: :delete %>
+</div>
+
+<hr />
+

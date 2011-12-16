@@ -1,26 +1,15 @@
-Enter new feed information for category: <%= @category.name %> (<%= link_to "back", new_category_path %>)
-<hr />
-<%= form_for @feed, :url => { :action => :create, :id => @category.id }  do |f| %>
-	<%= f.label :name %><br />
-	<%= f.text_field :name %><br />
-	<%= f.label :url %><br />
-	<%= f.text_field :url %><br />
+<div id="category_main">
 
-	<%= f.select(:format, options_for_select([['RSS', 1], ['Atom', 2]])) %>
-
-	<%= f.submit %>
-<% end %>
+<div id="feed_info" class="header_info">
+	<h1>Create new feed</h1> 
+</div>
 
 <hr />
-All feeds for this category:<br />
 
-<% if !@category.feeds.blank? %>
-	<% for item in @category.feeds %>
-		<% if !item.name.nil? %>
-			<%= item.name %> - <%= item.url %> - <%= item.format %> <br />
-		<% end %>
-	<% end %>
-<% else %>
-	No feeds yet
-<% end %>
+	<%= render 'form' %>
+
+
+</div><!-- #category_main -->
+
+<%= render "shared/feeds_list", :category => @category %>
 

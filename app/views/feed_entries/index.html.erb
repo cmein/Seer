@@ -1,0 +1,19 @@
+<%= @feed.name %>'s feed entries: 
+
+<hr />
+All feed entries for this feed:<br />
+
+<% if !@feed.feed_entries.blank? %>
+	<% for item in @feed.feed_entries %>
+		<% if !item.name.blank? and !item.url.blank? %>
+			<b><a href="<%= item.url %>"><%= item.name %></a></b> - <%= item.published_at %><br />
+			<%= item.content %><br />
+			<br />
+		<% end %>
+	<% end %>
+<% else %>
+	No feed entries yet
+<% end %>
+
+<br /><br />
+
