@@ -1,3 +1,2 @@
-this is some test text for the text splitter ruby file THIS IS ALL CAPS!
-blah blah blah blah
-dooooooo
+This is some text, text is good. The word is is used a lot is is is is is is is
+cat dog monkey pig rooster chicken hen blah blah
