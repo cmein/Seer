@@ -13,6 +13,7 @@ gem 'whenever'
 gem 'feedzirra', :git => 'https://github.com/pauldix/feedzirra.git'
 gem 'daemons'
 gem "sanitize", "~> 2.0.3"
+gem 'lazy_high_charts'
 
 # Gems used only for assets and not required
 # in production environments by default.
