@@ -1,2 +1,6 @@
 This is some text, text is good. The word is is used a lot is is is is is is is
 cat dog monkey pig rooster chicken hen blah blah
+
+<a href="poop">this is wrapped in a href tag</a>
+
+this-is-hyphenated!
