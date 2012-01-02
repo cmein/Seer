@@ -38,8 +38,28 @@ Unresolved Issues:
 -Alternate spellings & misspellings
 -Acronyms
 -Special characters
+-Plurals
+-Conjugations
 
 
 Future Features:
 -----------------------------
 -Get full posts from feeds that only show summaries (like: http://fulltextrssfeed.com/ & http://www.wizardrss.com/)
+
+
+Development Roadmap:
+-----------------------------
+-Feedzirra error handling (i.e. can't reach server)
+-Proper merging of sample means into population moving average
+-Word & feed trial periods. Start with some training data or just a training period?
+-Finish basic feed parsing & analysis functions, test
+-Figure out/test automated blacklisting
+-Automated feed pruning
+-Develop "conceptual maps"/"relational maps" for words using Wikipedia database, and weighting based on those maps
+-Implement code into rails
+-Incorporating presence of HTML tags in weighting word importance?
+-Determine ideal p threshold. If this is even the best approach?
+-Feed weighting according to significant correlation with "trending" words?
+-Automated article recommendations based on trending words
+-Automated feed discovery
+-Phrase detection with markov chains (or a better approach)
