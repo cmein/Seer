@@ -1,0 +1,37 @@
+<div id="storyText">
+
+
+
+<p>Images of ultra-Orthodox Jews dressing up as Nazi concentration camp inmates during a protest drew widespread condemnation Sunday and added a new twist to a simmering battle over growing extremism inside Israel's insular ultra-Orthodox community.</p>
+<p>Religious extremists are facing increasing criticism for their efforts to separate men and women in public spaces, and Saturday's protest, in which a child mimicked an iconic photo of a terrified Jewish boy in the Warsaw Ghetto, added to the outrage.</p>
+<p>Thousands of ultra-Orthodox Jews gathered Saturday night in Jerusalem to protest what they say is a nationwide campaign directed against their lifestyle. The protesters called Israeli policemen Nazis, wore yellow Star of David patches with the word "Jude" — German for Jew — dressed their children in striped black-and-white uniforms associated with Nazi concentration camps and transported them in the back of a truck.</p>
+<p>Israel's Yad Vashem Holocaust memorial denounced the use of Nazi imagery as "disgraceful," and several other survivors' groups and politicians condemned the acts.</p>
+<p>"We must leave the Holocaust and its symbols outside the arguments in Israeli society," said Moshe Zanbar, chairman of the main umbrella group for Holocaust survivors in Israel. "This harms the memory of the Holocaust."</p>
+<div class="rel_container g_4" id="rel_image_feature">
+<div class="rel_content">
+<div class="rel_thumb"><a href="javascript:void(0);" onclick="leftRail.showStoryPhoto('rel_image_feature');" name="lpos=widget[Left_Rail_Image]&amp;lid=view[Image]" id="lpos=widget[Left_Rail_Image]&amp;lid=view[Image]"><img src="http://a.abcnews.com/images/International/ap_orthodox_jews_rally_jt_120101_wg.jpg" width="199" height="112" class="c2" border="0" alt="PHOTO: Holocaust survivors blast Nazi garb at protest" title="" /><span class="image_icon"></span></a></div>
+<div class="rel_headline">
+<p>Bernat Armangue/AP Photo</p>
+<div class="photo_caption">Orthodox Jewish children, wearing a Star of... <a href="javascript:void(0);" onclick="leftRail.showStoryPhoto('rel_image_feature');" name="lpos=widget[Left_Rail_Image]&amp;lid=view[Image]" id="lpos=widget[Left_Rail_Image]&amp;lid=view[Image]">View Full Size</a></div>
+</div>
+</div>
+<div class="rel_inactive"><img src="http://a.abcnews.com/images/International/ap_orthodox_jews_rally_jt_120101_wg.jpg" width="640" height="360" class="c1" border="0" alt="PHOTO: Holocaust survivors blast Nazi garb at protest" title="" />
+</div>
+</div>
+
+<p>Six million Jews were killed by German Nazis and their collaborators during World War II. About 200,000 aging survivors of the Holocaust live in Israel.</p>
+<p>Ultra-Orthodox Jews make up 10 percent of Israel's population. In the past, they have generally confined their strict lifestyle to their own neighborhoods. But they have become increasingly aggressive in trying to impose their ways on others, as their population has grown and spread to new areas.</p>
+<p>Extremist sects within the ultra-Orthodox community have been under fire of late for their attempts to ban mixing of the sexes on buses, sidewalks and other public spaces.</p>
+<p>In one city, extremists have jeered and spit at girls walking to school, saying they were dressed immodestly. They've also battled with police over street signs calling for segregation and attacked journalists who have covered their neighborhoods. In recent weeks, a few young Israeli women have caused nationwide uproars for refusing the orders of religious men to move to the back of public buses.</p>
+<p>These practices, albeit by a fringe sect, have unleashed a backlash against the ultra-Orthodox in general, the climax of which came last week in a large demonstration where protesters held signs reading, "Free Israel from religious coercion," and "Stop Israel from becoming Iran."</p>
+<p>Rabbi Yitzhak Weiss, one of the organizers of Saturday's protest, said the use of Nazi symbols was intentional and aimed at highlighting what he said was a campaign by the secular media against his community.</p>
+<p>"The idea was to convey a clear and simple message: that wild incitement against the ultra-Orthodox community will not be tolerated," he told The Associated Press. "The Israeli media's incitement is reminiscent of the German media's before World War II."</p>
+<p>One of the protesters, Yaakov Israel, told Channel 2 TV that his community feels "persecuted" by the Israeli establishment. "We feel what is being done to us here is a spiritual Holocaust," he said.</p>
+<div id="social-bar">
+
+<div class="sbText">on Twitter, become a fan on <a href="http://www.facebook.com/abcnews" class="fb">Facebook</a></div>
+
+</div>
+
+
+</div><img src="http://pixel.quantserve.com/pixel/p-89EKCgBk8MZdE.gif" border="0" height="1" width="1" />

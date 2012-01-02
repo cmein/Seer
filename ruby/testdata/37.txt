@@ -1,0 +1,58 @@
+<div id="storyText">
+
+
+
+
+<p>Dozens of dead blackbirds have fallen from the sky over a small Arkansas town for the second year in a row.</p>
+<p>That the town of Beebe has seen this before, however, doesn't make the deaths of dozens of birds any less odd -- maybe even more so.</p>
+<p>ABC Arkansas affiliate KATV reported that a radar image showed a large mass over Beebe a few hours before midnight Saturday. Then the birds began falling from the sky, just like last year.</p>
+<p>Emily Nichols, a police dispatcher in Beebe, told ABC Radio that she received multiple calls. "Just that blackbirds are falling again and that they found black birds on their streets where they live or at churches," Nichols said.</p>
+<p>Animal Care and Control was called out at about 7 p.m., a few hours earlier than last year, Horace Taylor of Animal Care and Control in Beebe told ABC Radio.</p>
+<div class="rel_container g_4" id="rel_image_feature">
+<div class="rel_content">
+<div class="rel_thumb"><a href="javascript:void(0);" onclick="leftRail.showStoryPhoto('rel_image_feature');" name="lpos=widget[Left_Rail_Image]&amp;lid=view[Image]"><img src="http://a.abcnews.com/images/US/abc_dead_birds3_jt_120101_wg.jpg" width="199" height="112" class="c3" border="0" alt="PHOTO: Dead Blackbirds Fall Again in Ark. Town" title=""/><span class="image_icon"/></a></div>
+<div class="rel_headline">
+<p>ABC</p>
+<div class="photo_caption">Thousands of dead blackbirds rained down on a... <a href="javascript:void(0);" onclick="leftRail.showStoryPhoto('rel_image_feature');" name="lpos=widget[Left_Rail_Image]&amp;lid=view[Image]">View Full Size</a></div>
+</div>
+</div>
+<div class="rel_inactive"><img src="http://a.abcnews.com/images/US/abc_dead_birds3_jt_120101_wg.jpg" width="640" height="360" class="c1" border="0" alt="PHOTO: Dead Blackbirds Fall Again in Ark. Town" title=""/>
+</div>
+</div>
+<div class="rel_container g_4" id="rel_1">
+<div class="rel_content">
+<div class="rel_thumb"><a href="javascript:void(0);" onclick="playStoryVideo('rel_1','12544327',true);" name="lpos=widget[Left_Rail_Video_1]&amp;lid=view[Video]"><img src="http://a.abcnews.com/images/GMA/abc_gma_gutman2_110105_wl.jpg" border="0" width="200" height="112"/><span class="image_icon"/></a></div>
+<div class="rel_headline">Dying Birds Mystery Deepens <a href="javascript:void(0);" class="open" onclick="playStoryVideo('rel_1','12544327',true);">Watch Video</a></div>
+</div>
+<div class="rel_inactive"><img src="http://a.abcnews.com/assets/images/spacer.gif" width="640" height="360" border="0" class="c4"/><span class="active_image_closer"><a href="javascript:void(0);" class="close" onclick="closeLeftRailVideo('rel_1');"/></span></div>
+</div>
+<div class="rel_container g_4" id="rel_2">
+<div class="rel_content">
+<div class="rel_thumb"><a href="javascript:void(0);" onclick="playStoryVideo('rel_2','12532352',true);" name="lpos=widget[Left_Rail_Video_2]&amp;lid=view[Video]"><img src="http://a.abcnews.com/images/WNT/abc_wn_birds_110103_wl.jpg" border="0" width="200" height="112"/><span class="image_icon"/></a></div>
+<div class="rel_headline">Blackbirds Dropping in the Dead of Night <a href="javascript:void(0);" class="open" onclick="playStoryVideo('rel_2','12532352',true);">Watch Video</a></div>
+</div>
+<div class="rel_inactive"><img src="http://a.abcnews.com/assets/images/spacer.gif" width="640" height="360" border="0" class="c4"/><span class="active_image_closer"><a href="javascript:void(0);" class="close" onclick="closeLeftRailVideo('rel_2');"/></span></div>
+</div>
+<div class="rel_container g_4" id="rel_3">
+<div class="rel_content">
+<div class="rel_thumb"><a href="javascript:void(0);" onclick="playStoryVideo('rel_3','12527498',true);" name="lpos=widget[Left_Rail_Video_3]&amp;lid=view[Video]"><img src="http://a.abcnews.com/images/US/abc_wnn_dead_birds_110103_wl.jpg" border="0" width="200" height="112"/><span class="image_icon"/></a></div>
+<div class="rel_headline">Dead Blackbirds Fall on Arkansas <a href="javascript:void(0);" class="open" onclick="playStoryVideo('rel_3','12527498',true);">Watch Video</a></div>
+</div>
+<div class="rel_inactive"><img src="http://a.abcnews.com/assets/images/spacer.gif" width="640" height="360" border="0" class="c4"/><span class="active_image_closer"><a href="javascript:void(0);" class="close" onclick="closeLeftRailVideo('rel_3');"/></span></div>
+</div>
+
+<p>"Well, there was just birds falling down on the street and people dodging and missing them," Taylor said. "And we were down the street picking them up. We got called out by the chief and we all [came] out trying to pick them off the street."</p>
+<p>Taylor added that the Game and Fish Department took about 30 of the nearly 100 birds for testing to try to determine what happened.</p>
+<p>Fireworks were blamed for the deaths of thousands of blackbirds last year, but it's unclear whether fireworks were the cause this time. Police imposed an impromptu ban on fireworks when the birds began falling this year.</p>
+<p>Lt. Brian Duke of the Beebe Police Department told ABC this year wasn't nearly as bad as last year, when the birds covered the streets of Beebe. This year, they were concentrated in a smaller area and the birds were cleaned up quickly. There haven't been any reports of people being hit by a falling bird.</p>
+<p>Biologists said last year's kill was caused by birds who were spooked off their roosts by the loud explosions and began flying into homes, cars, telephone poles and each other.</p>
+<p>Around this same time last year, thousands of dead fish also turned up in the Arkansas River, prompting conspiracies about the end of the world, poison and environmental catastrophe.</p>
+<p>Taylor and Duke both agree, though: it's <em>probably</em> just the fireworks in Beebe.</p>
+<p><em>ABC News Radio and the Associated Press contributed to this report.</em></p>
+<div id="social-bar">
+
+<div class="sbText">on Twitter, become a fan on <a href="http://www.facebook.com/abcnews" class="fb">Facebook</a></div>
+
+</div>
+
+</div><img src="http://pixel.quantserve.com/pixel/p-89EKCgBk8MZdE.gif" border="0" height="1" width="1" />

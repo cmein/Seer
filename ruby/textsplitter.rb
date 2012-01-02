@@ -4,7 +4,11 @@ require 'set'
 require 'rubygems'
 require 'sanitize'
 
-filearray = Array[ "ruby/largetext.txt", "ruby/largetext2.txt", "ruby/largetext3.txt" ]
+filearray = Array.new
+(Dir.entries("ruby/testdata").size - 3).times do |i|
+	filearray << ("ruby/testdata/"+i.to_s+".txt")
+end
+
 blacklist = Set.new([ "" ])
 
 freqs = Hash.new { |hash,key| hash[key] = [] }
