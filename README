@@ -2,6 +2,7 @@
 Seer Readme
 ******************
 
+Notes: Syntatically and semantically unbiased; core features will be based purely on statistics. Language-specific functions will be contained to modules. 
 
 Current Priority:
 -Figure out how to collect a large sample of feed entries (n=5000). Currently most feeds only show latest 10 entries, how to get more entries?
@@ -63,3 +64,10 @@ Development Roadmap:
 -Automated article recommendations based on trending words
 -Automated feed discovery
 -Phrase detection with markov chains (or a better approach)
+
+
+Considerations:
+-----------------------------
+-It may be worthwhile to NOT include a spellchecker. Misspellings are likely to be statistically insignifcant, and would likely mean that some words are mistakenly flagged as misspelled.
+-For plurals, use Ruby's built-in pluralization engine. It is not perfect but may suffice
+-For conjugations, consider using: https://github.com/ged/linguistics
