@@ -1,0 +1,150 @@
+<div class="cnn_strycntntlft">
+<!--startclickprintexclude-->
+<style type="text/css"><![CDATA[
+.cnn_html_slideshow_metadata > .cnn_html_media_utility::before {
+padding-right: 1px;
+content: '>>';
+font-size: 9px;
+line-height: 12px;
+color: red;
+}
+.cnnstrylccimg640 {
+margin: 0 27px 14px 0; /*note the exclusion of the top margin*/
+}
+.captionText {
+filter: alpha(opacity=100);
+opacity: 1;
+}
+.cnn_html_slideshow_media_caption a, .cnn_html_slideshow_media_caption a:visited, .cnn_html_slideshow_media_caption a:link, .captionText a, .captionText a:visited, .captiontext a:link {
+color: #004276;
+outline: medium none;
+}
+.cnnVerticalGalleryPhoto
+{
+margin: 0 auto; padding-right: 68px; width: 270px;
+}
+]]></style><div class="cnnExplainer cnn_html_slideshow">&#13;
+<div class="cnnstrylccimg640">&#13;
+<div class="cnn_stryichgfull">&#13;
+<div class="cnn_stryichgflg">&#13;
+<div class="cnnArticleGalleryPhotoContainer">&#13;
+<img id="articleGalleryPhoto001" src="http://i2.cdn.turner.com/cnn/dam/assets/111231012505-new-year-2012-flags-horizontal-gallery.jpg" width="640" height="360" alt="Revelers around the world have begun celebrating the end of 2011 and the start of 2012." border="0"/><cite id="galleryCaption001">Revelers around the world have begun celebrating the end of 2011 and the start of 2012.</cite>&#13;
+</div>&#13;
+<div class="cnnArticleGalleryPhotoContainer">&#13;
+<img id="articleGalleryPhoto002" src="http://i2.cdn.turner.com/cnn/dam/assets/111231034329-johannesburg-new-year-parade-horizontal-gallery.jpg" width="640" height="360" alt="In Johannesburg, musicians and dancers took to the streets for the traditional New Year's Eve carnival." border="0"/><cite id="galleryCaption002">In Johannesburg, musicians and dancers took to the streets for the traditional New Year's Eve carnival.</cite>&#13;
+</div>&#13;
+<div class="cnnArticleGalleryPhotoContainer">&#13;
+<img id="articleGalleryPhoto003" src="http://i2.cdn.turner.com/cnn/dam/assets/111231015925-auckland-new-year-fireworks-horizontal-gallery.jpg" width="640" height="360" alt="New Zealand was among the first countries to ring in the new year, but the fireworks display at the top of Auckland's Sky Tower was obscured by low clouds." border="0"/><cite id="galleryCaption003">New Zealand was among the first countries to ring in the new year, but the fireworks display at the top of Auckland's Sky Tower was obscured by low clouds.</cite>&#13;
+</div>&#13;
+<div class="cnnArticleGalleryPhotoContainer">&#13;
+<img id="articleGalleryPhoto004" src="http://i2.cdn.turner.com/cnn/dam/assets/111231020149-sydney-2012-new-year-fireworks-horizontal-gallery.jpg" width="640" height="360" alt="There were no such problems across the Tasman Sea in Sydney, where a kaleidoscope of colors exploded over the Opera House and the Harbour Bridge, as more than 1.5 million people lined the foreshore." border="0"/><cite id="galleryCaption004">There were no such problems across the Tasman Sea in Sydney, where a kaleidoscope of colors exploded over the Opera House and the Harbour Bridge, as more than 1.5 million people lined the foreshore.</cite>&#13;
+</div>&#13;
+<div class="cnnArticleGalleryPhotoContainer">&#13;
+<img id="articleGalleryPhoto005" src="http://i2.cdn.turner.com/cnn/dam/assets/111231051049-taiwan-taipei-new-year-fireworks-horizontal-gallery.jpg" width="640" height="360" alt="Hundreds of thousands of people defied cold winds to usher in the New Year in the Taipei. " border="0"/><cite id="galleryCaption005">Hundreds of thousands of people defied cold winds to usher in the New Year in the Taipei. </cite>&#13;
+</div>&#13;
+<div class="cnnArticleGalleryPhotoContainer">&#13;
+<img id="articleGalleryPhoto006" src="http://i2.cdn.turner.com/cnn/dam/assets/111231080651-temple-of-heaven-beijing-2012-horizontal-gallery.jpg" width="640" height="360" alt="The Temple of Heaven (The Qi Nian Temple) is illuminated as Beijing celebrates the new year." border="0"/><cite id="galleryCaption006">The Temple of Heaven (The Qi Nian Temple) is illuminated as Beijing celebrates the new year.</cite>&#13;
+</div>&#13;
+<div class="cnnArticleGalleryPhotoContainer">&#13;
+<img id="articleGalleryPhoto007" src="http://i2.cdn.turner.com/cnn/dam/assets/111231051826-pakistan-new-year-2012-haircut-horizontal-gallery.jpg" width="640" height="360" alt="In the Pakistani city of Rawalpindi, one young man chose to celebrate the New Year with an unusual haircut." border="0"/><cite id="galleryCaption007">In the Pakistani city of Rawalpindi, one young man chose to celebrate the New Year with an unusual haircut.</cite>&#13;
+</div>&#13;
+<div class="cnnArticleGalleryPhotoContainer">&#13;
+<img id="articleGalleryPhoto008" src="http://i2.cdn.turner.com/cnn/dam/assets/111231051640-jakarta-indonesia-new-year-2012-fireworks-horizontal-gallery.jpg" width="640" height="360" alt="In Indonesia, there were more traditional celebrations, as fireworks filled the sky above the capital, Jakarta." border="0"/><cite id="galleryCaption008">In Indonesia, there were more traditional celebrations, as fireworks filled the sky above the capital, Jakarta.</cite>&#13;
+</div>&#13;
+<div class="cnnArticleGalleryPhotoContainer">&#13;
+<img id="articleGalleryPhoto009" src="http://i2.cdn.turner.com/cnn/dam/assets/111231104858-new-year-celebration-in-abu-dhabi-2012-horizontal-gallery.jpg" width="640" height="360" alt="Fireworks illuminate the Emirates Palace and Marina mall as 2012 arrives in Abu Dhabi." border="0"/><cite id="galleryCaption009">Fireworks illuminate the Emirates Palace and Marina mall as 2012 arrives in Abu Dhabi.</cite>&#13;
+</div>&#13;
+<div class="cnnArticleGalleryPhotoContainer">&#13;
+<img id="articleGalleryPhoto0010" src="http://i2.cdn.turner.com/cnn/dam/assets/120101123339-brandenburg-gate-berlin-2012-new-year-celebration-horizontal-gallery.jpg" width="640" height="360" alt="Over 400,000 spectators watched as fireworks exploded over of Berlin's Brandenburg Gate." border="0"/><cite id="galleryCaption0010">Over 400,000 spectators watched as fireworks exploded over of Berlin's Brandenburg Gate.</cite>&#13;
+</div>&#13;
+<div class="cnnArticleGalleryPhotoContainer">&#13;
+<img id="articleGalleryPhoto0011" src="http://i2.cdn.turner.com/cnn/dam/assets/120101022745-london-big-ben-new-year-2012-horizontal-gallery.jpg" width="640" height="360" alt="Festive fireworks light up the London skyline and Big Ben just after midnight as thousands of people lined the banks of the River Thames." border="0"/><cite id="galleryCaption0011">Festive fireworks light up the London skyline and Big Ben just after midnight as thousands of people lined the banks of the River Thames.</cite>&#13;
+</div>&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+</div></div></div>&#13;
+&#13;
+&#13;
+</div>&#13;
+<a name="em0"/>
+<div class="cnn_strylftcntnt"><div class="cnn_strylctcntr">
+
+<ul class="cnn_bulletbin cnnStryHghLght"><!--google_ad_section_start--><li>Crowds erupt in cheers, kisses and hugs as the giant ball drops</li>
+<li>From London to Samoa, the world ushers in 2012 </li>
+<li>Fireworks lit up the sky over London's River Thames</li>
+<!--google_ad_section_end-->
+</ul></div></div>
+<!--endclickprintexclude--><!--google_ad_section_start--><!--startclickprintinclude-->
+<p><strong>(CNN)</strong> -- Throngs of revelers gathered around Times Square in New York City early Sunday to ring in the New Year amid cheers, glittering confetti and fireworks in one of many festivities worldwide.</p>
+<p>Crowds erupted in cheers, kissed and hugged as the giant ball dropped at midnight to mark the start of 2012.</p>
+<p>"This is crazy, it's doggone warm," said Gary Grieco of College Point New York, who attended the unusually warm festivities this year.</p>
+<p>Grieco said he hopes this year is better than the last and outlined his resolutions for the New Year.</p>
+<p>"Quit smoking, that's my promise ... today is the day," he said.</p>
+<a name="em1"/>
+<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand16">
+<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/120101051535-von-2012-nye-times-square-00002222-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>New York celebrates the new year</span></cite>
+</div>
+<a name="em2"/>
+<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand26">
+<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/120101033310-sesay-nye-bts-ball-drop-00043620-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>Before the ball drops</span></cite>
+</div>
+<a name="em3"/>
+<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand36">
+<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/111231072343-allen-asia-new-year-s-00004802-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>Asian countries welcome 2012</span></cite>
+</div>
+<p>From London to Samoa, the world ushered in 2012 and said goodbye to a year marked by natural disasters, economic turmoil and other highlights such as the end of the Iraq war.</p>
+<p>"Natural disasters were pretty brutal and the end of the Iraq war was long overdue," Grieco said.</p>
+<p>Fireworks lit up the sky over London's River Thames as the clock struck midnight -- one of many festivities worldwide.</p>
+<p>As Big Ben chimed on midnight, the sky exploded with pyrotechnics to mark the start of what Mayor Boris Johnson promised to be "the most extraordinary and exciting year we are likely to see in our lifetime in this city."</p>
+<p>In 2012, London will host the Summer Olympics and pay tribute to Queen Elizabeth's diamond jubilee marking her 50 years on the throne.</p>
+<p>England was relatively late to the party, which began 14 hours earlier (at 5 a.m. ET) in Samoa, Tokelau and the Christmas Islands in the western Pacific.</p>
+<p>Samoa and Tokelau -- historically the last to celebrate the new year -- reveled in being the first to party this time round, after skipping west across the international dateline, missing out on December 30 entirely in the process, in a move intended to boost trade.</p>
+<p>From there, the midnight revelry worked its way west. The final ones set to ring in the new year will also be in the Pacific, specifically on the U.S. Midway Islands and American Samoa.</p>
+<p>New Zealand bid farewell to a year that brought more than its share of natural disasters, with fireworks bursting through a blanket of fog to light up Auckland's Sky Tower.</p>
+<a name="em4"/>
+<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand115">
+<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/120101122030-von-london-new-year-00001505-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>London celebrates 2012</span></cite>
+</div>
+<a name="em5"/>
+<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand215">
+<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/111231121716-pkg-sweeney-new-years-customs-00000021-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>New Year traditions around the world</span></cite>
+</div>
+<a name="em6"/>
+<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand315">
+<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/111230051150-nr-new-years-apps-00013503-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>New Year's Eve: There's an app for that</span></cite>
+</div>
+<p>Dazzling pyrotechnics above Sydney Harbour got 2012 off to a spectacular start in Australia, with huge crowds gathered to watch.</p>
+<p>In South Korea, the Boshingak bell in downtown Seoul chimed 33 times to celebrate the occasion, while in Japan, many families ate a bowl of long noodles together to symbolize the bridge from one year to the next.</p>
+<p>Crowds of onlookers cheered as fireworks and bright lights flashed over Hong Kong's Victoria Harbour and boats filled with revelers drifted below.</p>
+<p>In Laos and Cambodia, Buddhist temples struck their gongs 108 times to cast out 108 types of human weakness.</p>
+<p>The atmosphere was far more subdued in Vatican, where the pope presided over a Mass at St. Peter's Basilica.</p>
+<p>The celebrations then moved across Europe. Russia started by kicking off its new year in a grand way with fireworks over the Kremlin. Three hours later, much of the continent -- including Greece, Italy, France, Spain and Germany -- were officially in 2012, before England and Ireland finally joined in the next hour.</p>
+<p>Never known to shy away from a party, Brazilians in Sao Paulo, Rio de Janeiro and beyond celebrated the new year with characteristic flair and explosive pyrotechnics. They were followed one hour later by another large swath of South America that included Argentina, Paraguay and Chile.</p>
+<p class="cnn_strycbftrtxt">CNN's Kim Segal, Laura Smith-Spark, Holly Yan and David Ariosto contributed to this report.</p>
+<!--endclickprintinclude--><!--google_ad_section_end-->
+<!--no partner-->
+
+<div class="cnn_strybtmcntnt">
+
+
+<!-- ADSPACE: latin_america/mmst/adlinks.607x95 --><!-- CALLOUT|http://ads.cnn.com/html.ng/site=cnn_international&cnn_intl_pagetype=mmst&cnn_intl_position=607x95_adlinks&cnn_intl_rollup=latin_america&page.allowcompete=no&params.styles=fs|CALLOUT -->&#13;
+
+<style type="text/css" media="screen"><![CDATA[@import "http://media.disqus.com/themes/cnn2/cnn2.css";]]></style></div>
+</div><img src="http://pixel.quantserve.com/pixel/p-89EKCgBk8MZdE.gif" border="0" height="1" width="1" />

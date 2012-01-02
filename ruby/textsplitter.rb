@@ -11,6 +11,8 @@ end
 
 blacklist = Set.new([ "" ])
 
+unique_count_string = "Entries,Unique Words\n"									# will look at relationship b/w number of entries analyzed & number of unique words found
+
 freqs = Hash.new { |hash,key| hash[key] = [] }
 n = filearray.size.to_f															# n, simplified for this program
 filearray.each_with_index do |item,index|										# this would be per feed entry
@@ -19,8 +21,10 @@ filearray.each_with_index do |item,index|										# this would be per feed entr
 		next if blacklist.include?(word)
 		freqs[word][index].nil? ? freqs[word] << 1 : freqs[word][index] += 1	# if that word (key) has no entry (value[iteration]) for that file (feed), append a new one, otherwise, increment
 	end
+	unique_count_string << (index.to_s + "," + freqs.size.to_s + "\n")	# appends to unique word count
 end
 
+File.new("ruby/uniquewords.csv", "w").write(unique_count_string) # writes unique word count CSV output
 
 data_string = "Word,Total Frequency,Mean,SD\n"				#sets up columns for CSV output
 pop_mean = 0.0
@@ -47,7 +51,7 @@ pop_mean = pop_mean/freqs.size
 
 #calculate population variance*n
 stats.each do |key,value|
-	pop_variance += (value[1] - pop_mean)**2	#again, actually "variance*n"
+	pop_variance += (value[1] - pop_mean)**2	# again, actually "variance*n"
 end
 
 #calculate population standard deviation
@@ -55,12 +59,11 @@ pop_sd = Math.sqrt(pop_variance/freqs.size)
 
 data_string << ("Population," + freqs.size.to_s + "," + pop_mean.to_s + "," + pop_sd.to_s + "\n")
 
-File.new("ruby/testdata.csv", "w").write(data_string)		#writes CSV output
+File.new("ruby/testdata.csv", "w").write(data_string)		# writes test data CSV output
 
 blacklist_string = ""
 blacklist_threshold = 5
 stats.each do |key,value|
-	(value[1] - pop_mean)/pop_sd > blacklist_threshold ? blacklist_string << (key + "\n") : next	#a word's z-score, compared to the pop mean
+	(value[1] - pop_mean)/pop_sd > blacklist_threshold ? blacklist_string << (key + "\n") : next	# a word's z-score, compared to the pop mean
 end
 File.new("ruby/blacklist.txt", "w").write(blacklist_string)
-

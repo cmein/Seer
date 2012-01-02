@@ -1,0 +1,173 @@
+<div class="cnn_strycntntlft">
+<!--startclickprintexclude-->
+<style type="text/css"><![CDATA[
+.cnn_html_slideshow_metadata > .cnn_html_media_utility::before {
+padding-right: 1px;
+content: '>>';
+font-size: 9px;
+line-height: 12px;
+color: red;
+}
+.cnnstrylccimg640 {
+margin: 0 27px 14px 0; /*note the exclusion of the top margin*/
+}
+.captionText {
+filter: alpha(opacity=100);
+opacity: 1;
+}
+.cnn_html_slideshow_media_caption a, .cnn_html_slideshow_media_caption a:visited, .cnn_html_slideshow_media_caption a:link, .captionText a, .captionText a:visited, .captiontext a:link {
+color: #004276;
+outline: medium none;
+}
+.cnnVerticalGalleryPhoto
+{
+margin: 0 auto; padding-right: 68px; width: 270px;
+}
+]]></style><div class="cnnExplainer cnn_html_slideshow">&#13;
+<div class="cnnstrylccimg640">&#13;
+<div class="cnn_stryichgfull">&#13;
+<div class="cnn_stryichgflg">&#13;
+<div class="cnnArticleGalleryPhotoContainer">&#13;
+<img id="articleGalleryPhoto001" src="http://i2.cdn.turner.com/cnn/dam/assets/111229093055-meryl-streep-margaret-thatcher-horizontal-gallery.jpg" width="640" height="360" alt="Meryl Streep plays former British Prime Minister Margaret Thatcher in the biopic &quot;The Iron Lady,&quot; which is in theaters on December 30. Here are some other well-known portrayals of political figures that have received acclaim over the years." border="0"/><cite id="galleryCaption001">Meryl Streep plays former British Prime Minister Margaret Thatcher in the biopic "The Iron Lady," which is in theaters on December 30. Here are some other well-known portrayals of political figures that have received acclaim over the years.</cite>&#13;
+</div>&#13;
+<div class="cnnArticleGalleryPhotoContainer">&#13;
+<img id="articleGalleryPhoto002" src="http://i2.cdn.turner.com/cnn/dam/assets/111229093429-ralph-bellamy-franklin-roosevelt-horizontal-gallery.jpg" width="640" height="360" alt="Ralph Bellamy not only played President Franklin D. Roosevelt in the early stages of polio in the Broadway play &quot;Sunrise at Campobello,&quot; he also reprised his role for the 1960 film adaptation." border="0"/><cite id="galleryCaption002">Ralph Bellamy not only played President Franklin D. Roosevelt in the early stages of polio in the Broadway play "Sunrise at Campobello," he also reprised his role for the 1960 film adaptation.</cite>&#13;
+</div>&#13;
+<div class="cnnArticleGalleryPhotoContainer">&#13;
+<img id="articleGalleryPhoto003" src="http://i2.cdn.turner.com/cnn/dam/assets/111229093855-ben-kingsley-gandhi-horizontal-gallery.jpg" width="640" height="360" alt="Ben Kingsley shot to fame after he played Mohandas K. Gandhi in the film &quot;Gandhi&quot; and won the best actor Academy Award. The film about the Indian freedom fighter went on to become a critical and commercial success." border="0"/><cite id="galleryCaption003">Ben Kingsley shot to fame after he played Mohandas K. Gandhi in the film "Gandhi" and won the best actor Academy Award. The film about the Indian freedom fighter went on to become a critical and commercial success.</cite>&#13;
+</div>&#13;
+<div class="cnnArticleGalleryPhotoContainer">&#13;
+<img id="articleGalleryPhoto004" src="http://i2.cdn.turner.com/cnn/dam/assets/111229094451-denzel-washington-malcolm-x-horizontal-gallery.jpg" width="640" height="360" alt="Denzel Washington portrayed Malcolm X in the film &quot;Malcolm X,&quot; which was directed by Spike Lee. His performance as the black nationalist leader earned him an Oscar nomination for best actor." border="0"/><cite id="galleryCaption004">Denzel Washington portrayed Malcolm X in the film "Malcolm X," which was directed by Spike Lee. His performance as the black nationalist leader earned him an Oscar nomination for best actor.</cite>&#13;
+</div>&#13;
+<div class="cnnArticleGalleryPhotoContainer">&#13;
+<img id="articleGalleryPhoto005" src="http://i2.cdn.turner.com/cnn/dam/assets/111229094813-anthony-hopkins-frank-langella-nixon-horizontal-gallery.jpg" width="640" height="360" alt="Anthony Hopkins portrayed President Richard M. Nixon in Oliver Stone's biopic, &quot;Nixon.&quot; Frank Langella played Nixon post-Watergate in the stage and the 2008 film version of &quot;Frost/Nixon.&quot;" border="0"/><cite id="galleryCaption005">Anthony Hopkins portrayed President Richard M. Nixon in Oliver Stone's biopic, "Nixon." Frank Langella played Nixon post-Watergate in the stage and the 2008 film version of "Frost/Nixon."</cite>&#13;
+</div>&#13;
+<div class="cnnArticleGalleryPhotoContainer">&#13;
+<img id="articleGalleryPhoto006" src="http://i2.cdn.turner.com/cnn/dam/assets/111229095115-bruce-greenwood-john-f-kennedy-horizontal-gallery.jpg" width="640" height="360" alt="Bruce Greenwood portrayed President John F. Kennedy, with Kevin Costner playing Kennedy's top aide Kenneth O'Donnell, during the 1962 Cuban missile crisis in &quot;Thirteen Days.&quot;" border="0"/><cite id="galleryCaption006">Bruce Greenwood portrayed President John F. Kennedy, with Kevin Costner playing Kennedy's top aide Kenneth O'Donnell, during the 1962 Cuban missile crisis in "Thirteen Days."</cite>&#13;
+</div>&#13;
+<div class="cnnArticleGalleryPhotoContainer">&#13;
+<img id="articleGalleryPhoto007" src="http://i2.cdn.turner.com/cnn/dam/assets/111229101756-albert-finney-brendan-gleeson-winston-churchill-horizontal-gallery.jpg" width="640" height="360" alt="Albert Finney played Winston Churchill at the onset of World War II in the TV film &quot;The Gathering Storm.&quot; Brendan Gleeson, portrayed the prime minister in the 2009 continuation, &quot;Into the Storm.&quot;" border="0"/><cite id="galleryCaption007">Albert Finney played Winston Churchill at the onset of World War II in the TV film "The Gathering Storm." Brendan Gleeson, portrayed the prime minister in the 2009 continuation, "Into the Storm."</cite>&#13;
+</div>&#13;
+<div class="cnnArticleGalleryPhotoContainer">&#13;
+<img id="articleGalleryPhoto008" src="http://i2.cdn.turner.com/cnn/dam/assets/111229105412-helen-mirren-queen-elizabeth-ii-horizontal-gallery.jpg" width="640" height="360" alt="Helen Mirren gave an Oscar-winning performance as Queen Elizabeth II in the days after Princess Diana's death in &quot;The Queen.&quot; She had previously played Queen Elizabeth I in the 2005 TV series, &quot;Elizabeth I.&quot;" border="0"/><cite id="galleryCaption008">Helen Mirren gave an Oscar-winning performance as Queen Elizabeth II in the days after Princess Diana's death in "The Queen." She had previously played Queen Elizabeth I in the 2005 TV series, "Elizabeth I."</cite>&#13;
+</div>&#13;
+<div class="cnnArticleGalleryPhotoContainer">&#13;
+<img id="articleGalleryPhoto009" src="http://i2.cdn.turner.com/cnn/dam/assets/111229095903-forest-whitaker-idi-amin-horizontal-gallery.jpg" width="640" height="360" alt="Forest Whitaker's performance as Ugandan dictator Idi Amin in &quot;The Last King of Scotland&quot; brought him a best actor Academy Award, Golden Globe and BAFTA Award." border="0"/><cite id="galleryCaption009">Forest Whitaker's performance as Ugandan dictator Idi Amin in "The Last King of Scotland" brought him a best actor Academy Award, Golden Globe and BAFTA Award.</cite>&#13;
+</div>&#13;
+<div class="cnnArticleGalleryPhotoContainer">&#13;
+<img id="articleGalleryPhoto0010" src="http://i2.cdn.turner.com/cnn/dam/assets/111229100237-josh-brolin-george-w-bush-horizontal-gallery.jpg" width="640" height="360" alt="Josh Brolin played President George W. Bush in the Oliver Stone-directed film &quot;W.&quot;" border="0"/><cite id="galleryCaption0010">Josh Brolin played President George W. Bush in the Oliver Stone-directed film "W."</cite>&#13;
+</div>&#13;
+<div class="cnnArticleGalleryPhotoContainer">&#13;
+<img id="articleGalleryPhoto0011" src="http://i2.cdn.turner.com/cnn/dam/assets/111229100432-benicio-del-toro-che-horizontal-gallery.jpg" width="640" height="360" alt="Benicio del Toro portrayed Cuban revolutionary Che Guevara in the two-part biopic &quot;Che.&quot; He went on to win the best actor award at the Cannes Film Festival in 2008." border="0"/><cite id="galleryCaption0011">Benicio del Toro portrayed Cuban revolutionary Che Guevara in the two-part biopic "Che." He went on to win the best actor award at the Cannes Film Festival in 2008.</cite>&#13;
+</div>&#13;
+<div class="cnnArticleGalleryPhotoContainer">&#13;
+<img id="articleGalleryPhoto0012" src="http://i2.cdn.turner.com/cnn/dam/assets/111229100646-sean-penn-harvey-milk-horizontal-gallery.jpg" width="640" height="360" alt="Sean Penn played Harvey Milk, an openly gay politician and the first to be elected to public office in California, in &quot;Milk.&quot; For his performance, Penn won the Oscar for best actor." border="0"/><cite id="galleryCaption0012">Sean Penn played Harvey Milk, an openly gay politician and the first to be elected to public office in California, in "Milk." For his performance, Penn won the Oscar for best actor.</cite>&#13;
+</div>&#13;
+<div class="cnnArticleGalleryPhotoContainer">&#13;
+<img id="articleGalleryPhoto0013" src="http://i2.cdn.turner.com/cnn/dam/assets/111229095404-michael-sheen-tony-blair-horizontal-gallery.jpg" width="640" height="360" alt="Michael Sheen has played former British Prime Minister Tony Blair in not just one, but three films; &quot;The Deal&quot; in 2003, &quot;The Queen&quot; in 2006 and &quot;The Special Relationship&quot; in 2010, which is pictured here." border="0"/><cite id="galleryCaption0013">Michael Sheen has played former British Prime Minister Tony Blair in not just one, but three films; "The Deal" in 2003, "The Queen" in 2006 and "The Special Relationship" in 2010, which is pictured here.</cite>&#13;
+</div>&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+</div></div></div>&#13;
+&#13;
+<div>&#13;
+&#13;
+&#13;
+<div class="articleGalleryNavContainer">&#13;
+<div id="articleGalleryNav001" class="cnnArticleGalleryNavOn" onmouseout="expGalleryPT00.hideArticleThumb(0,0,1)" onmouseover="expGalleryPT00.showArticleThumb(0,0,1)" onclick="expGalleryPT00.changePage(0,0,1)">&#13;
+<div id="articleGalleryThumb001">&#13;
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/111229093055-meryl-streep-margaret-thatcher-topics.jpg" border="0"/></div>&#13;
+<span>1</span>&#13;
+</div>&#13;
+<div id="articleGalleryNav002" class="cnnArticleGalleryNav" onmouseout="expGalleryPT00.hideArticleThumb(0,0,2)" onmouseover="expGalleryPT00.showArticleThumb(0,0,2)" onclick="expGalleryPT00.changePage(0,0,2)">&#13;
+<div id="articleGalleryThumb002">&#13;
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/111229093429-ralph-bellamy-franklin-roosevelt-topics.jpg" border="0"/></div>&#13;
+<span>2</span>&#13;
+</div>&#13;
+<div id="articleGalleryNav003" class="cnnArticleGalleryNav" onmouseout="expGalleryPT00.hideArticleThumb(0,0,3)" onmouseover="expGalleryPT00.showArticleThumb(0,0,3)" onclick="expGalleryPT00.changePage(0,0,3)">&#13;
+<div id="articleGalleryThumb003">&#13;
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/111229093855-ben-kingsley-gandhi-topics.jpg" border="0"/></div>&#13;
+<span>3</span>&#13;
+</div>&#13;
+<div id="articleGalleryNav004" class="cnnArticleGalleryNav" onmouseout="expGalleryPT00.hideArticleThumb(0,0,4)" onmouseover="expGalleryPT00.showArticleThumb(0,0,4)" onclick="expGalleryPT00.changePage(0,0,4)">&#13;
+<div id="articleGalleryThumb004">&#13;
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/111229094451-denzel-washington-malcolm-x-topics.jpg" border="0"/></div>&#13;
+<span>4</span>&#13;
+</div>&#13;
+<div id="articleGalleryNav005" class="cnnArticleGalleryNav" onmouseout="expGalleryPT00.hideArticleThumb(0,0,5)" onmouseover="expGalleryPT00.showArticleThumb(0,0,5)" onclick="expGalleryPT00.changePage(0,0,5)">&#13;
+<div id="articleGalleryThumb005">&#13;
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/111229094813-anthony-hopkins-frank-langella-nixon-topics.jpg" border="0"/></div>&#13;
+<span>5</span>&#13;
+</div>&#13;
+<div id="articleGalleryNav006" class="cnnArticleGalleryNav" onmouseout="expGalleryPT00.hideArticleThumb(0,0,6)" onmouseover="expGalleryPT00.showArticleThumb(0,0,6)" onclick="expGalleryPT00.changePage(0,0,6)">&#13;
+<div id="articleGalleryThumb006">&#13;
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/111229095115-bruce-greenwood-john-f-kennedy-topics.jpg" border="0"/></div>&#13;
+<span>6</span>&#13;
+</div>&#13;
+<div id="articleGalleryNav007" class="cnnArticleGalleryNav" onmouseout="expGalleryPT00.hideArticleThumb(0,0,7)" onmouseover="expGalleryPT00.showArticleThumb(0,0,7)" onclick="expGalleryPT00.changePage(0,0,7)">&#13;
+<div id="articleGalleryThumb007">&#13;
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/111229101756-albert-finney-brendan-gleeson-winston-churchill-topics.jpg" border="0"/></div>&#13;
+<span>7</span>&#13;
+</div>&#13;
+<div id="articleGalleryNav008" class="cnnArticleGalleryNav" onmouseout="expGalleryPT00.hideArticleThumb(0,0,8)" onmouseover="expGalleryPT00.showArticleThumb(0,0,8)" onclick="expGalleryPT00.changePage(0,0,8)">&#13;
+<div id="articleGalleryThumb008">&#13;
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/111229105412-helen-mirren-queen-elizabeth-ii-topics.jpg" border="0"/></div>&#13;
+<span>8</span>&#13;
+</div>&#13;
+<div id="articleGalleryNav009" class="cnnArticleGalleryNav" onmouseout="expGalleryPT00.hideArticleThumb(0,0,9)" onmouseover="expGalleryPT00.showArticleThumb(0,0,9)" onclick="expGalleryPT00.changePage(0,0,9)">&#13;
+<div id="articleGalleryThumb009">&#13;
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/111229095903-forest-whitaker-idi-amin-topics.jpg" border="0"/></div>&#13;
+<span>9</span>&#13;
+</div>&#13;
+<div id="articleGalleryNav0010" class="cnnArticleGalleryNav" onmouseout="expGalleryPT00.hideArticleThumb(0,0,10)" onmouseover="expGalleryPT00.showArticleThumb(0,0,10)" onclick="expGalleryPT00.changePage(0,0,10)">&#13;
+<div id="articleGalleryThumb0010">&#13;
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/111229100237-josh-brolin-george-w-bush-topics.jpg" border="0"/></div>&#13;
+<span>10</span>&#13;
+</div>&#13;
+<div id="articleGalleryNav0011" class="cnnArticleGalleryNav" onmouseout="expGalleryPT00.hideArticleThumb(0,0,11)" onmouseover="expGalleryPT00.showArticleThumb(0,0,11)" onclick="expGalleryPT00.changePage(0,0,11)">&#13;
+<div id="articleGalleryThumb0011">&#13;
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/111229100432-benicio-del-toro-che-topics.jpg" border="0"/></div>&#13;
+<span>11</span>&#13;
+</div>&#13;
+<div id="articleGalleryNav0012" class="cnnArticleGalleryNav" onmouseout="expGalleryPT00.hideArticleThumb(0,0,12)" onmouseover="expGalleryPT00.showArticleThumb(0,0,12)" onclick="expGalleryPT00.changePage(0,0,12)">&#13;
+<div id="articleGalleryThumb0012">&#13;
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/111229100646-sean-penn-harvey-milk-topics.jpg" border="0"/></div>&#13;
+<span>12</span>&#13;
+</div>&#13;
+<div id="articleGalleryNav0013" class="cnnArticleGalleryNav" onmouseout="expGalleryPT00.hideArticleThumb(0,0,13)" onmouseover="expGalleryPT00.showArticleThumb(0,0,13)" onclick="expGalleryPT00.changePage(0,0,13)">&#13;
+<div id="articleGalleryThumb0013">&#13;
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/111229095404-michael-sheen-tony-blair-topics.jpg" border="0"/></div>&#13;
+<span>13</span>&#13;
+</div>&#13;
+</div>&#13;
+&#13;
+&#13;
+&#13;
+</div>&#13;
+</div>&#13;
+<a name="em0"/>
+<!--endclickprintexclude--><!--google_ad_section_start--><!--startclickprintinclude-->
+
+<!--endclickprintinclude--><!--google_ad_section_end-->
+<!--no partner-->
+
+<div class="cnn_strybtmcntnt">
+
+
+<!-- ADSPACE: entertainment/mmst/adlinks.607x95 --><!-- CALLOUT|http://ads.cnn.com/html.ng/site=cnn_international&cnn_intl_pagetype=mmst&cnn_intl_position=607x95_adlinks&cnn_intl_rollup=entertainment&page.allowcompete=no&params.styles=fs|CALLOUT -->&#13;
+
+<style type="text/css" media="screen"><![CDATA[@import "http://media.disqus.com/themes/cnn2/cnn2.css";]]></style></div>
+</div><img src="http://pixel.quantserve.com/pixel/p-89EKCgBk8MZdE.gif" border="0" height="1" width="1" />

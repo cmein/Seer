@@ -1,0 +1,77 @@
+<div class="cnn_strycntntlft">
+<!--startclickprintexclude-->
+<div class="cnnStryVidCont">
+<div id="cnnCVP1">
+<div class="cnn_stryimg640captioned">
+<img width="640" height="360" border="0" alt="" src="http://i2.cdn.turner.com/cnn/dam/assets/111229041538-iran-strait-hormuz-exercise-story-top.jpg"/><div id="cnnCVP2" class="cnn_mtt1plybttn">
+<div id="play_button">
+<a onclick="s_objectID='/video/?world/2011/12/29/defterios-iran-oil-threat.cnn';return false;" href="http://edition.cnn.com/video/?world/2011/12/29/defterios-iran-oil-threat.cnn">
+<img src="http://i.cdn.turner.com/cnn/.e/img/3.0/1px.gif" alt="Click to play" border="0" class="cnn_ie6png"/></a>
+</div>
+</div>
+</div>
+<div class="cnn_stryimg640caption">
+<div class="cnn_strycaptiontxt">Unified front leaving Iran boxed in</div>
+</div>
+</div>
+</div>
+<a name="em0"/>
+<div class="cnn_strylftcntnt"><div class="cnn_strylctcntr">
+
+<ul class="cnn_bulletbin cnnStryHghLght"><!--google_ad_section_start--><li>Iran warns it could block Strait of Hormuz if sanctions are imposed on crude oil exports</li>
+<li>Strait is important strategic chokepoints; third of all oil shipped worldwide passes through</li>
+<li>Iran has threatened several times to close the Strait but it has never carried through with it</li>
+<li>U.S. says "we'll do what we must" to keep Strait open; prospect of conflict unnerves markets </li>
+<!--google_ad_section_end-->
+</ul></div></div>
+<!--endclickprintexclude--><!--google_ad_section_start--><!--startclickprintinclude-->
+<p><strong>(CNN)</strong> -- Iran's vice president has warned that the country could block the Strait of Hormuz if sanctions are imposed on its exports of crude oil. What does the threat mean and what is likely to happen next?</p>
+<p><strong>What is the Strait of Hormuz used for?</strong></p>
+<p>It is one of the most important strategic chokepoints in the world, a narrow (34 miles wide) strip of water through which more than 15 million barrels of oil a day passed (through the Strait) in 2009, according to the <a href="http://www.eia.gov/" target="_blank">U.S. Energy Information Agency</a>. That's about a third of all oil shipped by sea worldwide. Shutting off the Strait would be disastrous for the world economy, causing oil prices to skyrocket.</p>
+<p><strong>Have there been previous incidents of heightened tension?</strong></p>
+<p>Iran has threatened several times previously to close the Strait but it has never carried through with it. Doing that would be shooting itself in the foot as almost 80% of its revenues come from the oil industry. Iran is the world's fourth-largest oil producer. Much of the oil that is shipped through the Strait of Hormuz goes to China, a crucial customer for Iran.</p>
+<a name="em1"/>
+<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand16">
+<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/111228031430-nr-starr-iran-hormuz-threat-00003804-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>Navy won't tolerate Iran 'disruption'</span></cite>
+</div>
+<a name="em2"/>
+<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand26">
+<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/111229015928-erin-marks-iran-oil-supply-00001515-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>Iran threatens oil supply </span></cite>
+</div>
+<a name="em3"/>
+<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand36">
+<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/111228105130-pkg-dougherty-iran-strait-of-hormuz-00001313-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>U.S. warning to Iran on Strait of Hormuz</span></cite>
+</div>
+<a name="em4"/>
+<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand46">
+<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/111227014220-exp-iran-military-posturing-00002001-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>Iran military posturing</span></cite>
+</div>
+<p><a href="http://globalpublicsquare.blogs.cnn.com/2011/12/28/analysis-saber-rattling-in-strait-of-hormuz/">Why Strait of Hormuz matters</a></p>
+<p>Iran attacked ships in the Gulf during the 1980s in an attempt to cut off Iraq's oil exports when those two countries were at war. The impact on prices was minimal however after foreign navies began escorting oil tankers through the Strait.</p>
+<p><strong>Is the latest escalation serious? Or is it saber-rattling? Is it related to the dispute between the West and Iran over the nuclear issue?</strong></p>
+<p>The latest threat to close the Strait, according to experts and U.S. administration officials, appears to be an attempt by Iran to intimidate the U.S., and specifically President Barack Obama, not to proceed with tough new sanctions that could target Iran's oil industry and its oil exports as well as companies that do business with Iran's Central Bank. Those sanctions are aimed at forcing Iran to curtail its nuclear program, over which Iran and the West have been sparring for many years. Iran says its uranium enriching activities are for peaceful purposes, but many Western governments suspect they are intended to produce a weapon.</p>
+<p><strong>How could Iran disrupt shipping if it wanted to? Does it have the naval capability or would it use other means?</strong></p>
+<p>Matthew Kroenig at the Council on Foreign Relations, formerly an Iran expert at the Pentagon, tells CNN "(Iran) could try to close the Strait of Hormuz. What that would mean, though, is physically closing the strait militarily. That would be their only option. So it means laying mines and physically attacking ships coming through the Strait. I think any U.S. president would be forced to respond to that and to open the Strait; that would also mean military action against Iran so an Iranian attempt to close the straits could mean war."</p>
+<p><strong>How would the international community react if they did carry out the threat?</strong></p>
+<p>The international community will not allow the Strait to be closed. It is too important. Many experts say Iran would only have limited success in blocking the Strait for an extended period of time as many governments maintain a naval presence in the region, notably the United States.</p>
+<p>A senior U.S. administration official, speaking on background because of the sensitivity of the issue, told CNN: "We've been committed to Gulf security for decades and it should come as no surprise to anyone that we'll do what we must to ensure the Strait remains open."</p>
+<p><strong>What effect is the tension having on oil supply and price?</strong></p>
+<p>Prices initially spiked, then dropped back. But the prospect of conflict continues to make markets nervous. "We are in a situation where there is essentially no communication between the Iranian government and the U.S. government," Trita Parsi, president of the National Iranian American Council, told CNN Monday after reports said Iranian military forces confronted a Western helicopter near the Strait. "It is very worrisome."</p>
+<p>Investment bank Merrill Lynch predicts a $40 rise in oil prices if the country's 2.2 million barrels day of crude are shut off completely.</p>
+<p><strong>What is likely to happen next? </strong></p>
+<p>The most likely outcome is more saber-rattling. But experts say there is a danger of miscalculation by Iran, which has been increasingly provocative and unpredictable. Witness the alleged plot to assassinate the Saudi ambassador in the U.S., a claim that Iran denies.</p>
+
+<!--endclickprintinclude--><!--google_ad_section_end-->
+<!--no partner-->
+
+<div class="cnn_strybtmcntnt">
+
+
+<!-- ADSPACE: middle_east/mmst/adlinks.607x95 --><!-- CALLOUT|http://ads.cnn.com/html.ng/site=cnn_international&cnn_intl_pagetype=mmst&cnn_intl_position=607x95_adlinks&cnn_intl_rollup=middle_east&page.allowcompete=no&params.styles=fs|CALLOUT -->&#13;
+
+<style type="text/css" media="screen"><![CDATA[@import "http://media.disqus.com/themes/cnn2/cnn2.css";]]></style></div>
+</div><img src="http://pixel.quantserve.com/pixel/p-89EKCgBk8MZdE.gif" border="0" height="1" width="1" />
