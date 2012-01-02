@@ -3,54 +3,57 @@
 
 
 
-<p>Four more suspected arson fires broke out early Monday in the Los Angeles area even as detectives searched for a man caught on grainy surveillance video near the scene of one of dozens of the suspicious car fires that have hit city since last week.</p>
-<p>Police distributed DVDs on Sunday featuring footage of the person of interest, a white male between 20 and 30 years old with a receding hairline and a shoulder-length ponytail. The man is wanted for questioning in connection with the rash of arson blazes, said Officer Sara Faden.</p>
-<p>He was seen on video Saturday after emerging on foot from inside an underground parking structure on Hollywood Boulevard where a car fire was reported.</p>
-<p>Detectives estimated the man, who was wearing a bulky jacket, is between 5-feet-6 and 6-feet-1.</p>
-<p>Faden said investigators are asking for the public's help in identifying the man on the video.</p>
-<p>Early Monday, firefighters battled four suspected arson fires at carports.</p>
-<p>Department spokesman Capt. Jaime Moore told The Los Angeles Times that the blazes were in the Hollywood Hills and Laurel Canyon areas.</p>
-<p>They broke out shortly after 1:30 a.m. and the reports all came out within minutes of each other, he said.</p>
-<p>No injuries have been reported and it was still unknown if the fires were connected to earlier blazes.</p>
-<p>Detectives spent early Sunday analyzing security video camera footage and following up on other leads after a half dozen more vehicles were set on fire on New Year's Eve.</p>
+<p>Twelve new suspected arson fires broke out early today in the Los Angeles area as police officials acknowledged they finally have a person of interest in the <a href="http://abcnews.go.com/US/fires-set-years-eve-la-serial-arson-attacks/story?id=15268683" target="external">spree of blazes that has engulfed the city since Dec. 30</a>.</p>
+<p>"We currently have a person of interest that they [detectives] are interviewing," Capt. Jaime Moore, Los Angeles Fire Department spokesman said today on "<a href="http://gma.yahoo.com" target="external">Good Morning America</a>."</p>
+<p>Police Sunday distributed DVDs of a 20- to 30-year-old white male caught on surveillance video Saturday leaving an underground parking structure on Hollywood Boulevard where a car fire was reported.</p>
+<p>Officials asked for the public's help in identifying the man, now wanted for questioning in connection with the 55 fires that have been set since Thursday.</p>
+<p>Detectives estimated the man, who has a receding hairline and is seen in the video wearing a bulky jacket, is between 5-foot-6 and 6-foot-1.</p>
+<p>Police Sunday also acknowledged they know of at least two other people who might be involved in the fires. Capt. Moore declined to say whether the person detectives are interviewing is the same man seen on the surveillance video.</p>
+<p>"It's still too early to speculate whether or not this is the same person," he told "GMA." "It's always a possibility that it could be just one individual, but we also have to look at the possibility of this being the work of more than one."</p>
 <div class="rel_container g_4" id="rel_image_feature">
 <div class="rel_content">
-<div class="rel_thumb"><a href="javascript:void(0);" onclick="leftRail.showStoryPhoto('rel_image_feature');" name="lpos=widget[Left_Rail_Image]&amp;lid=view[Image]" id="lpos=widget[Left_Rail_Image]&amp;lid=view[Image]"><img src="http://a.abcnews.com/images/US/ap_Los_Angeles_Arson_jt_111231_wg.jpg" width="199" height="112" class="c3" border="0" alt="PHOTO: LA Fires" title="" /><span class="image_icon"></span></a></div>
+<div class="rel_thumb"><a href="javascript:void(0);" onclick="leftRail.showStoryPhoto('rel_image_feature');" name="lpos=widget[Left_Rail_Image]&amp;lid=view[Image]"><img src="http://a.abcnews.com/images/US/ap_la_arson_120101_wg.jpg" width="199" height="112" class="c3" border="0" alt="PHOTO: A Los Angeles Fire Department firefighter waits for water to extinguish multiple cars on fire in a carport in the Sun Valley neighborhood of Los Angeles on Saturday, Dec. 31, 2011." title=""/><span class="image_icon"/></a></div>
 <div class="rel_headline">
-<p>Mike Meadows/AP Photo</p>
-<div class="photo_caption">A Los Angeles Fire Department firefighter is... <a href="javascript:void(0);" onclick="leftRail.showStoryPhoto('rel_image_feature');" name="lpos=widget[Left_Rail_Image]&amp;lid=view[Image]" id="lpos=widget[Left_Rail_Image]&amp;lid=view[Image]">View Full Size</a></div>
+<p>Dan Steinberg/AP Photo</p>
+<div class="photo_caption">A Los Angeles Fire Department firefighter... <a href="javascript:void(0);" onclick="leftRail.showStoryPhoto('rel_image_feature');" name="lpos=widget[Left_Rail_Image]&amp;lid=view[Image]">View Full Size</a></div>
 </div>
 </div>
-<div class="rel_inactive"><img src="http://a.abcnews.com/images/US/ap_Los_Angeles_Arson_jt_111231_wg.jpg" width="640" height="360" class="c1" border="0" alt="PHOTO: LA Fires" title="" />
+<div class="rel_inactive"><img src="http://a.abcnews.com/images/US/ap_la_arson_120101_wg.jpg" width="640" height="360" class="c1" border="0" alt="PHOTO: A Los Angeles Fire Department firefighter waits for water to extinguish multiple cars on fire in a carport in the Sun Valley neighborhood of Los Angeles on Saturday, Dec. 31, 2011." title=""/>
 </div>
 </div>
 <div class="rel_container g_4" id="rel_1">
 <div class="rel_content">
-<div class="rel_thumb"><a href="javascript:void(0);" onclick="playStoryVideo('rel_1','15262733',true);" name="lpos=widget[Left_Rail_Video_1]&amp;lid=view[Video]" id="lpos=widget[Left_Rail_Video_1]&amp;lid=view[Video]"><img src="http://a.abcnews.com/images/WNT/abc_wn_fires_111230_wl.jpg" border="0" width="200" height="112" /><span class="image_icon"></span></a></div>
+<div class="rel_thumb"><a href="javascript:void(0);" onclick="playStoryVideo('rel_1','15262733',true);" name="lpos=widget[Left_Rail_Video_1]&amp;lid=view[Video]"><img src="http://a.abcnews.com/images/WNT/abc_wn_fires_111230_wl.jpg" border="0" width="200" height="112"/><span class="image_icon"/></a></div>
 <div class="rel_headline">More Than a Dozen Fires in the Hollywood Hills <a href="javascript:void(0);" class="open" onclick="playStoryVideo('rel_1','15262733',true);">Watch Video</a></div>
 </div>
-<div class="rel_inactive"><img src="http://a.abcnews.com/assets/images/spacer.gif" width="640" height="360" border="0" class="c4" /><span class="active_image_closer"><a href="javascript:void(0);" class="close" onclick="closeLeftRailVideo('rel_1');"></a></span></div>
+<div class="rel_inactive"><img src="http://a.abcnews.com/assets/images/spacer.gif" width="640" height="360" border="0" class="c4"/><span class="active_image_closer"><a href="javascript:void(0);" class="close" onclick="closeLeftRailVideo('rel_1');"/></span></div>
 </div>
 <div class="rel_container g_4" id="rel_2">
 <div class="rel_content">
-<div class="rel_thumb"><a href="javascript:void(0);" onclick="playStoryVideo('rel_2','15260129',true);" name="lpos=widget[Left_Rail_Video_2]&amp;lid=view[Video]" id="lpos=widget[Left_Rail_Video_2]&amp;lid=view[Video]"><img src="http://a.abcnews.com/images/US/abc_arson_presser_111230_wl.jpg" border="0" width="200" height="112" /><span class="image_icon"></span></a></div>
+<div class="rel_thumb"><a href="javascript:void(0);" onclick="playStoryVideo('rel_2','15260129',true);" name="lpos=widget[Left_Rail_Video_2]&amp;lid=view[Video]"><img src="http://a.abcnews.com/images/US/abc_arson_presser_111230_wl.jpg" border="0" width="200" height="112"/><span class="image_icon"/></a></div>
 <div class="rel_headline">Hollywood Fires 'Intentionally Set' <a href="javascript:void(0);" class="open" onclick="playStoryVideo('rel_2','15260129',true);">Watch Video</a></div>
 </div>
-<div class="rel_inactive"><img src="http://a.abcnews.com/assets/images/spacer.gif" width="640" height="360" border="0" class="c4" /><span class="active_image_closer"><a href="javascript:void(0);" class="close" onclick="closeLeftRailVideo('rel_2');"></a></span></div>
+<div class="rel_inactive"><img src="http://a.abcnews.com/assets/images/spacer.gif" width="640" height="360" border="0" class="c4"/><span class="active_image_closer"><a href="javascript:void(0);" class="close" onclick="closeLeftRailVideo('rel_2');"/></span></div>
+</div>
+<div class="rel_container g_4" id="rel_3">
+<div class="rel_content">
+<div class="rel_thumb"><a href="javascript:void(0);" onclick="playStoryVideo('rel_3','15058511',true);" name="lpos=widget[Left_Rail_Video_3]&amp;lid=view[Video]"><img src="http://a.abcnews.com/images/US/wcti_arson_mishap_111130_wl.jpg" border="0" width="200" height="112"/><span class="image_icon"/></a></div>
+<div class="rel_headline">Arsonists' Plan Blows Up in Their Faces <a href="javascript:void(0);" class="open" onclick="playStoryVideo('rel_3','15058511',true);">Watch Video</a></div>
+</div>
+<div class="rel_inactive"><img src="http://a.abcnews.com/assets/images/spacer.gif" width="640" height="360" border="0" class="c4"/><span class="active_image_closer"><a href="javascript:void(0);" class="close" onclick="closeLeftRailVideo('rel_3');"/></span></div>
 </div>
 
-<p>The outbreak of arson fires has left a trail of smoldering debris in Hollywood, West Hollywood, North Hollywood and the Fairfax district of Los Angeles since Thursday.</p>
-<p>Authorities said they were investigating a total of 43 suspicious fires. Most of those fires were set in parked cars. In several cases, flames have jumped to carports and apartment units.</p>
-<p>A reward of $60,000 has been offered for information that leads to the arrest and conviction of the arsonist.</p>
-<p>Detectives served a search warrant at a home in the San Fernando Valley, Det. Gus Villanueva said Sunday. Several interviews were conducted, but no arrests were made.</p>
-<p>"They are working on hundreds of clues, interviewing dozens of witnesses, picking up countless pieces of evidence," police Cmdr. Andrew Smith said of the detectives.</p>
-<p>Authorities haven't said how the car fires were sparked or what was collected at the crime scenes. They were unsure if the rash of fires were the work of one arsonist or multiple people or copycats.</p>
-<p>There have been no injuries.</p>
-<p>Extra patrols were out in force on New Year's Eve. One of Saturday's attacks occurred at the Hollywood and Highland entertainment complex, a popular tourist destination and hotspot for holiday revelers. Firefighters responded to a report of a small car fire in a parking structure that was out by the time they arrived.</p>
-<p>Firefighters routinely are called to put out burning cars, but this recent spate has been unusual because of the frequency and location of the fires. Crews have been responding to other emergencies despite the focus on solving the fire arsons, fire spokesman Erik Scott said.</p>
-<p>Police urged residents to check their cars for any signs of tampering and take simple precautions such as locking their cars, keeping garage and carport lights on at night and reporting suspicious activity.</p>
-<p>"We are not going to rest," Los Angeles Fire Department assistant chief Pat Butler said Sunday at a joint police-fire news conference. "We are going to work tirelessly."</p>
-<p>Police officials were working with Sheriff's Department detectives, city and county fire investigators and members of the Federal Bureau of Alcohol, Tobacco, Firearms, and Explosives.</p>
+<p>According to the Associated Press, detectives also served a search warrant at a home in the San Fernando Valley. Several interviews were conducted, but no arrests were made.</p>
+<p>The fires have remained clustered in the areas of Hollywood and North Hollywood but, overnight, the arsons expanded to the San Fernando Valley. Capt. Moore confirmed today that 10 of the fires set overnight Sunday were in Los Angeles, while two were in West Hollywood.</p>
+<p>"The commonality in a lot of these fires is we have automobile fires that are intentionally set underneath carports or parking structures or adjacent to apartments where people are actually residing," he said.</p>
+<p>Police have not yet released details on how the car fires were sparked or what information they have collected at the scenes as they continue to search for suspects.</p>
+<p>"Our arson investigators are looking at all the fire scenes and doing everything they can to gather as much evidence as they can," Capt. Moore said. "If this is the work of more than one individual, they can ensure those other individuals don't get away."</p>
+<p>"In the last two days, we've seen that as day break comes, we start finding more clues and more evidence because there are fires that didn't quite take off as were intended by this individual or these individuals," he said.</p>
+<p>In nearly every case, the fires were set overnight. So far, there have been no injuries as a result of the fires.</p>
+<p>Law enforcement sources in LA County told <a href="http://abcnews.go.com" target="external">ABC News</a> that the police and the fire department have built a unified task force coordinated by LAPD in anticipation of a long-term operation, should that be necessary.</p>
+<p>"We are creating an 'org' chart with sustained 'ops' and multiple operational periods," one official involved in planning said. The joint fire police task force is employing surveillance cameras and using air support.</p>
+<p>Officials are also offering a $60,000 reward for information leading to an arrest. Anyone with information is urged to call 911.</p>
+<p><em>The Associated Press contributed to this report.</em></p>
 <div id="social-bar">
 
 <div class="sbText">on Twitter, become a fan on <a href="http://www.facebook.com/abcnews" class="fb">Facebook</a></div>

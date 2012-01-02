@@ -2,36 +2,36 @@
 
 
 
-<p>Images of ultra-Orthodox Jews dressing up as Nazi concentration camp inmates during a protest drew widespread condemnation Sunday and added a new twist to a simmering battle over growing extremism inside Israel's insular ultra-Orthodox community.</p>
-<p>Religious extremists are facing increasing criticism for their efforts to separate men and women in public spaces, and Saturday's protest, in which a child mimicked an iconic photo of a terrified Jewish boy in the Warsaw Ghetto, added to the outrage.</p>
-<p>Thousands of ultra-Orthodox Jews gathered Saturday night in Jerusalem to protest what they say is a nationwide campaign directed against their lifestyle. The protesters called Israeli policemen Nazis, wore yellow Star of David patches with the word "Jude" — German for Jew — dressed their children in striped black-and-white uniforms associated with Nazi concentration camps and transported them in the back of a truck.</p>
-<p>Israel's Yad Vashem Holocaust memorial denounced the use of Nazi imagery as "disgraceful," and several other survivors' groups and politicians condemned the acts.</p>
-<p>"We must leave the Holocaust and its symbols outside the arguments in Israeli society," said Moshe Zanbar, chairman of the main umbrella group for Holocaust survivors in Israel. "This harms the memory of the Holocaust."</p>
-<div class="rel_container g_4" id="rel_image_feature">
-<div class="rel_content">
-<div class="rel_thumb"><a href="javascript:void(0);" onclick="leftRail.showStoryPhoto('rel_image_feature');" name="lpos=widget[Left_Rail_Image]&amp;lid=view[Image]" id="lpos=widget[Left_Rail_Image]&amp;lid=view[Image]"><img src="http://a.abcnews.com/images/International/ap_orthodox_jews_rally_jt_120101_wg.jpg" width="199" height="112" class="c2" border="0" alt="PHOTO: Holocaust survivors blast Nazi garb at protest" title="" /><span class="image_icon"></span></a></div>
+<p>Iran test-fired a surface-to-surface cruise missile on Monday during a drill that the country's navy chief said proved Tehran was in complete control of the strategic Strait of Hormuz, the passageway for one-sixth of the world's oil supply.</p>
+<p>The missile, called Ghader, or Capable in Farsi, was described as an upgraded version of a missile that has been in service before. The official IRNA news agency said the missile "successfully hit its intended target" during the exercise.</p>
+<p>No other details were released about Ghader. An earlier version of the same cruise missile had a range of 124 miles (200 kilometers) and could travel at low altitudes. There were suggestions it could counter the U.S. naval presence in the Persian Gulf.</p>
+<p>Iran's 10-day navy drill, which ends Tuesday, was Tehran's latest show of strength in the face of mounting international criticism over its nuclear program. The exercise came amid conflicting comments from Iranian officials over Tehran's intentions to close the Strait of Hormuz, and U.S. warnings against such an ominous move.</p>
+<p>"The Strait of Hormuz is completely under our control," Iran's navy chief Adm. Habibollah Sayyari said after Monday's test. "We do not allow any enemy to pose threats to our interests."</p>
+<p>The latest version of the Ghader was delivered in September to the naval division of Iran's Revolutionary Guard, which is assigned to protect Iranian sea borders. At the time, Tehran said the missile is capable of destroying warships.</p>
+<div class="rel_container g_4 rel_content" id="rel_image">
+<p><img src="http://a.abcnews.com//images/International/05ec586f3a464ee4b424439bfd0e8c8f_mn.jpg" border="0" width="200" alt="null" /></p>
 <div class="rel_headline">
-<p>Bernat Armangue/AP Photo</p>
-<div class="photo_caption">Orthodox Jewish children, wearing a Star of... <a href="javascript:void(0);" onclick="leftRail.showStoryPhoto('rel_image_feature');" name="lpos=widget[Left_Rail_Image]&amp;lid=view[Image]" id="lpos=widget[Left_Rail_Image]&amp;lid=view[Image]">View Full Size</a></div>
+<p>AP</p>
+<div class="photo_caption">
+<div id="cap_short">In this image made available by the Iranian... <a href="javascript:void(0);" onclick="leftRail.openCaption();">View Full Caption</a></div>
+<div id="cap_full" class="c1">In this image made available by the Iranian Students News Agency, an Iranian navy vessel launches a missile during a drill at the sea of Oman, on Sunday, Jan. 1, 2012. Iran's navy said Sunday it test-fired an advanced surface-to-air missile during a drill in international waters near the strategic Strait of Hormuz, the passageway for one-sixth of the world's oil supply. Iran's state TV said the missile, named Mehrab, or Altar, is designed to evade radar and was developed by Iranian scientists. (AP Photo/ISNA,Amir Kholousi) EDS NOTE: THE ASSOCIATED PRESS HAS NO WAY OF INDEPENDENTLY VERIFYING THE CONTENT, LOCATION OR DATE OF THIS IMAGE. <a href="javascript:void(0);" onclick="leftRail.closeCaption();">Close</a></div>
 </div>
-</div>
-<div class="rel_inactive"><img src="http://a.abcnews.com/images/International/ap_orthodox_jews_rally_jt_120101_wg.jpg" width="640" height="360" class="c1" border="0" alt="PHOTO: Holocaust survivors blast Nazi garb at protest" title="" />
 </div>
 </div>
 
-<p>Six million Jews were killed by German Nazis and their collaborators during World War II. About 200,000 aging survivors of the Holocaust live in Israel.</p>
-<p>Ultra-Orthodox Jews make up 10 percent of Israel's population. In the past, they have generally confined their strict lifestyle to their own neighborhoods. But they have become increasingly aggressive in trying to impose their ways on others, as their population has grown and spread to new areas.</p>
-<p>Extremist sects within the ultra-Orthodox community have been under fire of late for their attempts to ban mixing of the sexes on buses, sidewalks and other public spaces.</p>
-<p>In one city, extremists have jeered and spit at girls walking to school, saying they were dressed immodestly. They've also battled with police over street signs calling for segregation and attacked journalists who have covered their neighborhoods. In recent weeks, a few young Israeli women have caused nationwide uproars for refusing the orders of religious men to move to the back of public buses.</p>
-<p>These practices, albeit by a fringe sect, have unleashed a backlash against the ultra-Orthodox in general, the climax of which came last week in a large demonstration where protesters held signs reading, "Free Israel from religious coercion," and "Stop Israel from becoming Iran."</p>
-<p>Rabbi Yitzhak Weiss, one of the organizers of Saturday's protest, said the use of Nazi symbols was intentional and aimed at highlighting what he said was a campaign by the secular media against his community.</p>
-<p>"The idea was to convey a clear and simple message: that wild incitement against the ultra-Orthodox community will not be tolerated," he told The Associated Press. "The Israeli media's incitement is reminiscent of the German media's before World War II."</p>
-<p>One of the protesters, Yaakov Israel, told Channel 2 TV that his community feels "persecuted" by the Israeli establishment. "We feel what is being done to us here is a spiritual Holocaust," he said.</p>
+<p>"In comparison with the previous version, the highly advanced Ghader missile system has been upgraded in terms of its radar, satellite communications, precision in target destruction, as well as range and radar-evading mechanism," said Rear Adm. Mahmoud Mousavi, a spokesman for the drill.</p>
+<p>State TV showed footage Monday depicting the launch of two missiles, which were fired into the sky and which the TV said could hit targets "hundreds of kilometers (miles) away" from the point of origin. The broadcast said two more missiles, with a shorter range, were also tested Monday.</p>
+<p>"We conducted the drill ... to let everybody know that Iran's defense and deterrence powers on the open seas and the Strait of Hormuz are aimed at defending our borders, resources and our nation," said Sayyari, the navy chief.</p>
+<p>The testing comes a day after Iran test-fired an advanced surface-to-air missile called Mehrab, or Altar in Farsi, which was described as medium-range.</p>
+<p>Iran had said the sea maneuvers would cover a 1,250-mile (2,000-kilometer) stretch of water beyond the Strait of Hormuz at the mouth of the Persian Gulf, as well as parts of the Indian Ocean and the Gulf of Aden.</p>
+<p>A leading Iranian lawmaker said Sunday the maneuvers served as practice for closing the Strait of Hormuz if the West blocks Iran's oil sales. After top Iranian officials made the same threat a week ago, military commanders emphasized that Iran has no intention of blocking the waterway now.</p>
+<p>Mousavi on Sunday also emphasized that Iran has no plan to choke the strait. "We won't disrupt traffic through the Strait of Hormuz. We are not after this," the semiofficial ISNA news agency quoted him as saying.</p>
+<p>Mousavi said the drill was "tactical" and meant to show Iran was capable of assuming full control over the strait in case this became necessary.</p>
+<p>The West fears Iran's program aims to develop atomic weapons — a charge Tehran denies, insisting it's for peaceful purposes only.</p>
 <div id="social-bar">
 
 <div class="sbText">on Twitter, become a fan on <a href="http://www.facebook.com/abcnews" class="fb">Facebook</a></div>
 
 </div>
-
 
 </div><img src="http://pixel.quantserve.com/pixel/p-89EKCgBk8MZdE.gif" border="0" height="1" width="1" />

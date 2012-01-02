@@ -1,43 +1,25 @@
-<div id="storyText">
+<div>
+<p>It is a state that holds less than 1 percent of the country’s population, 2 percent of registered <strong><a href="o%20http://abcnews.go.com/Politics/wireStory/gop-voters-focused-nation-state-economy-15253321#.TvyfNTVSSkZ" target="_blank">Republican voters</a></strong> and has a GOP voter turnout of less than 20 percent. Yet Iowa, as the first state to hold its presidential nominating contest, has taken a commanding hold over the 2012 GOP campaign.</p>
+<p>From bus tours to television ads, the six Republican candidates who are vying for the top spot at the <strong><a href="http://abcnews.go.com/blogs/politics/2011/12/whats-a-caucus-and-why-jan-3-iowa-caucuses-are-important-in-2012/" target="_blank">Iowa caucuses</a></strong> have poured their time, effort, money and mileage into the Hawkeye State.</p>
+<p>Two candidates, Rick Santorum and Michele Bachmann, have visited all 99 of Iowa’s counties. <strong><a href="http://abcnews.go.com/blogs/politics/2011/12/rick-perry-resumes-iowa-bus-tour-hammers-gop-opponents/" target="_blank">Rick Perry</a></strong> is on track to check off 42 cities. Newt Gingrich is aiming to hit 20 cities. And Mitt Romney has blasted through 10 in the past three days.</p>
+<p><a href="http://abcnews.go.com/GMA/video/voice-vote-rick-santorum-surges-day-iowa-caucuses-15272591"><strong>See the latest from the campaign trail from Good Morning America:</strong></a></p>
 
-
-
-<p>Tactical teams searched Mount Rainier National Park's snowy terrain for an armed gunman suspected of killing a park ranger. Other officers used the cover of darkness early Monday to evacuate dozens of tourists who had been kept for their safety at a visitors center.</p>
-<p>About 150 officers converged on the mountain park after ranger Margaret Anderson was shot to death Sunday morning, and searchers used an aircraft with heat-sensing capabilities to hunt from the skies.</p>
-<p>Authorities believe the gunman was still in the woods, with weapons.</p>
-<p>Pierce County Sheriff's spokesman Ed Troyer said that Benjamin Colton Barnes, a 24-year-old believed to have survivalist skills, was a "strong person of interest" in the slaying.</p>
-<p>"We do have a very hot and dangerous situation," Troyer said.</p>
-<p>Safety concerns prompted authorities to keep about 125 tourists quarantined at a visitors center as the manhunt unfolded.</p>
-<p>But early Monday morning, officers began escorting them in their cars out of the park.</p>
-<p>Crews had initially planned to keep everyone in a basement with guards. But Troyer said it was determined to be "better to do it (evacuate) under the cover of darkness than daylight."</p>
-<p>All the visitors were expected to be out by 4 a.m.</p>
-<div class="rel_container g_4 rel_content" id="rel_image">
-<p><img src="http://a.abcnews.com//images/US/25a66bd9a076481eb5f29b20d1791dab_mn.jpg" border="0" width="200" alt="null" /></p>
-<div class="rel_headline">
-<p>AP</p>
-<div class="photo_caption">
-<div id="cap_short">Emergency vehicles speed to the scene of a... <a href="javascript:void(0);" onclick="leftRail.openCaption();">View Full Caption</a></div>
-<div id="cap_full" class="c1">Emergency vehicles speed to the scene of a shooting of a Mount Rainier National Park ranger as another ranger redirects traffic in Mount Rainier, Wash., Sunday, Jan 1, 2012. A Mount Rainier National Park ranger was fatally shot following a New Year's Day traffic stop and authorities believed the gunman was still in the woods with an assault rifle. (AP Photo/The News Tribune, Dean J. Koepfler) <a href="javascript:void(0);" onclick="leftRail.closeCaption();">Close</a></div>
-</div>
-</div>
-</div>
-
-<p>Evacuee Dinh Jackson, a mother from Olympia, Wash., who came to the mountain to sled with family and friends, told The Associated Press that officials ordered people to hurry into the lodge after the shooting.</p>
-<p>Jackson said officials had everyone get on their knees and place hands behind their heads as they went through the building, looking at faces to make sure the gunman was not among them.</p>
-<p>"That was scary for the kids," she said.</p>
-<p>Michael Wall, an elementary school teacher from Puyallup, Wash., spent the morning hiking with his son. They didn't find out about the violence until returning.</p>
-<p>Wall said he was impressed by how staff members and visitors kept each other comfortable with food and conversation.</p>
-<p>"It was calm, cool, easygoing," Wall said. "I didn't notice any tenseness or terseness."</p>
-<p>A parks spokesman said Barnes was an Iraq war veteran, and the mother of his child had alleged he suffered from post-traumatic stress following his deployments.</p>
-<p>Barnes was involved in a custody dispute in Tacoma in July 2011, during which the toddler's mother sought a temporary restraining order against him, according to court documents. In an affidavit, the woman wrote that Barnes was suicidal and possibly suffered from PTSD after deploying to Iraq in 2007-2008. She said he gets easily irritated, angry and depressed and keeps an arsenal of weapons in his home.</p>
-<p>Barnes was also a suspect in the early Sunday morning shooting of four people at a house party south of Seattle, police said.</p>
-<p>Sgt. Cindi West, King County Sheriff's spokesperson, said late Sunday that Barnes was connected to an early-morning shooting at a New Year's house party in Skyway, Wash., south of Seattle that left four people injured, two critically. That incident happened about 3 a.m., and stemmed from an argument over a gun.</p>
-<p>West said three people fled the scene. Two were located, and West said authorities were trying to find Barnes and had been in contact with his family, trying to have them convince him to "come to the police and tell his side of the story" in the Skyway shooting.</p>
-<div id="social-bar">
-
-<div class="sbText">on Twitter, become a fan on <a href="http://www.facebook.com/abcnews" class="fb">Facebook</a></div>
-
-</div>
-
-
+<p>Combined, the Republican hopefuls have dumped $2.4 million on advertising in Iowa alone this election cycle.</p>
+<p>“It’s all Iowa all the time because, at its simplest, it is the first official recorded vote of the nominating season,” said David Redlawsk, a co-author of “Why Iowa” and a political science professor at Rutgers University. “We are an impatient people, we Americans. We want to know who’s going to win.”</p>
+<p>So what is oh-so-important about Iowa, a state that has more bushels of corn than Republican voters?</p>
+<p>“Tradition!” insists Timothy Hagle, a political science professor at the University of Iowa.</p>
+<p><strong><a href="o%20http://abcnews.go.com/blogs/politics/2011/12/iowa-republican-caucus-the-myth-of-organization/" target="_blank">The Hawkeye State</a></strong> has held the first votes of the presidential cycle in every contest since 1972, when a change in the Democratic Party rules forced its caucus into January for the first time.</p>
+<p>That “historical accident,” as Redlawsk calls it, is the genesis of the now-sanctified presidential-nominee-picking tradition. But it wasn’t until Jimmy Carter successfully used Iowa as a springboard to propel his 1976 campaign from Jimmy who? to President Carter that Iowa solidified its spot at the front of the presidential nominating process.</p>
+<p>“Iowa is a small state with small media markets,” Hagle said. “You can run a fairly inexpensive campaign in Iowa. It gives lesser-known candidates an opportunity to get in the contest where they would not otherwise be able to be competitive if, for example, the process started in a big state like California or Texas.”</p>
+<p>“If you’ve got a vehicle and a map you can do pretty well for yourself,” Hagle added.</p>
+<p>But despite all the hype this Midwestern state’s caucuses receive, Iowa has a fairly poor <strong><a href="http://abcnews.go.com/blogs/politics/2011/12/iowa-caucuses-the-historical-importance-of-victory/" target="_blank">track record</a></strong> in actually choosing the eventual party nominee. In fact, a win in Iowa predicts whether that candidate will win the nomination about as accurately as flipping a coin.</p>
+<p>Since Iowa secured its spot as the first-in-the-nation state in 1976, three of the past six contested GOP caucus winners went on to win the party’s nomination. Only one, George W. Bush, went on to win the White House. John McCain was the first GOP nominee who finished worse than third place in Iowa, coming in fourth behind Mike Huckabee, Mitt Romney and Fred Thompson in 2008.</p>
+<p>This mediocre record could, in part, be due to the small fraction of Republican voters that Iowa represents. About 120,000 Republicans turned out for the 2008 Iowa caucus, a record-setting 20 percent of the state’s registered Republicans.</p>
+<p>Hagle said turnout this year will likely be lower, around 100,000 people, or about one-third of one percent of the registered Republicans in the United States.</p>
+<p>“It’s a relatively small number of people who have a big impact,” Redlawsk said. “That’s primarily because of the way the media portrays Iowa.”</p>
+<p>Redlawsk said the Iowa caucuses are, first and foremost, an expectations game.</p>
+<p>“Iowa’s effect on the process is driven pretty strongly by how the media perceives it,” he said. “Candidates are much more interested in doing better than media expectations than in their actual positions. Failing to at least beat some expectations in Iowa means that the media is not going pay much attention to you.”</p>
+<p>For example, with Santorum coming up from behind in the latest Iowa polls – the NBC/Marist poll out Friday put him in third place behind Romney and Ron Paul – a second-place finish for the former Pennsylvania senator could translate into major momentum.</p>
+<p>A fourth or fifth finish, on the other hand, would be a <strong><a href="http://abcnews.go.com/blogs/politics/2011/12/rick-santorum-says-if-hes-dead-last-he-will-pack-up-and-go-home/" target="_blank">huge stumbling block</a></strong> for the Santorum campaign, or any campaign, to overcome. Redlawsk said that between Iowa, New Hampshire and South Carolina, all of which hold their caucus or primaries this month, he expects the current field of seven candidates to shrink to four or five.</p>
+<p>“Iowa, especially, determines who the nominee will <em>not</em> be, through the winnowing process,” Redlawsk said. “But it also determines who the media will talk about and as a consequence helps determine who will do well.”</p>
 </div><img src="http://pixel.quantserve.com/pixel/p-89EKCgBk8MZdE.gif" border="0" height="1" width="1" />

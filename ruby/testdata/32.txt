@@ -1,59 +1,50 @@
 <div class="cnn_strycntntlft">
 <!--startclickprintexclude-->
-<!--No asset in pageTop or pageTop[0].type is not set: renderPageTop-->
+<div class="cnnStryVidCont">
+<div id="cnnCVP1">
+<div class="cnn_stryimg640captioned">
+<img width="640" height="360" border="0" alt="" src="http://i2.cdn.turner.com/cnn/dam/assets/120102035420-nr-washington-park-ranger-00013818-story-top.jpg"/><div id="cnnCVP2" class="cnn_mtt1plybttn">
+<div id="play_button">
+<a onclick="s_objectID='/video/?crime/2012/01/01/nr-washington-park-ranger.cnn';return false;" href="http://www.cnn.com/video/?crime/2012/01/01/nr-washington-park-ranger.cnn">
+<img src="http://i.cdn.turner.com/cnn/.e/img/3.0/1px.gif" alt="Click to play" border="0" class="cnn_ie6png"/></a>
+</div>
+</div>
+</div>
+<div class="cnn_stryimg640caption">
+<div class="cnn_strycaptiontxt">Manhunt started after park ranger killed</div>
+</div>
+</div>
+</div>
+<a name="em0"/>
 <div class="cnn_strylftcntnt"><div class="cnn_strylctcntr">
 
-<ul class="cnn_bulletbin cnnStryHghLght"><!--google_ad_section_start--><li>The Arab body has no plan to act on a call to pull its observers out of Syria, an official says</li>
-<li>Monitors went in last month after the U.N. estimated more than 5,000 people have died</li>
-<li>The advance team is preparing a report on the situation in Syria</li>
-<li>Bashar al-Assad says his forces are cracking down on armed terrorists</li>
+<ul class="cnn_bulletbin cnnStryHghLght"><!--google_ad_section_start--><li> Authorities have identified Benjamin Colton Barnes as "person of interest" </li>
+<li>They say he is also wanted in connection with a shooting at a party</li>
+<li>Helicopters equipped with infrared cameras are being used in search, authorities say</li>
+<li>The slain ranger is a 34-year-old mother of two </li>
 <!--google_ad_section_end-->
 </ul></div></div>
 <!--endclickprintexclude--><!--google_ad_section_start--><!--startclickprintinclude-->
-<p><strong>(CNN)</strong> -- Arab League monitors remain in Syria, and more are on the way, a top official with the Arab body said, despite a call by an Arab League advisor to pull the observers out.</p>
-<p>An advance team of monitors returned to Cairo on Sunday after 10 days in the violence-wracked country, but the main body of observers remains in Syria, said the official, who asked not to be named discussing diplomatic business.</p>
-<p>The team that has returned is preparing a report which should be released soon, said the official, speaking late on Sunday.</p>
-<p>Arab League observers went into Syria in December after the United Nations estimated that 5,000 people had been killed since March in an uprising against the government.</p>
-<a name="em1"/>
-<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand15">
-<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
-<img src="http://i2.cdn.turner.com/cnn/dam/assets/120101032340-nr-jamjoom-syria-new-year-protests-00004709-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>Syria: New Year's protests</span></cite>
-</div>
-<a name="em2"/>
-<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand25">
-<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
-<img src="http://i2.cdn.turner.com/cnn/dam/assets/111231081420-jamjoom-syria-violence-00000508-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>Protesters carry on in Syria</span></cite>
-</div>
-<a name="em3"/>
-<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand35">
-<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
-<img src="http://i2.cdn.turner.com/cnn/dam/assets/111231073830-ac-recorded-own-death-00004210-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>Syria man records his own death </span></cite>
-</div>
-<a name="em4"/>
-<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand45">
-<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
-<img src="http://i2.cdn.turner.com/cnn/dam/assets/111231043248-exp-ac-suffering-in-syria-00002001-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>Suffering in Syria</span></cite>
-</div>
-<p>President Bashar al-Assad's government says it is cracking down on armed terrorists.</p>
-<p>The head of an advisory board to the Arab League called Sunday for the withdrawal of observers from Syria, claiming the mission has allowed Syrian officials to continue a brutal crackdown on protesters.</p>
-<p>"What is happening allows the Syrian regime a cover for the exercise of its inhumane practices under the Arab League's watch," Ali Salem al-Deqbasi said in a statement, according to Egypt's state-run MENA news agency.</p>
-<p>Al-Deqbasi heads the Arab Parliament, an advisory board to the Cairo-based Arab League.</p>
-<p>The Arab League has not scheduled a meeting to discuss al-Deqbasi's statement, the Arab League source said.</p>
-<p>As the fact-finding mission continued Sunday, at least 10 people were killed in Syria, according to an opposition activist group.</p>
-<p>Three people died in Hama, four were killed in Homs, two were killed in the Damascus suburb of Daraya and one was killed in Idlib, the Local Coordination Committees of Syria said. The organization said a child was among its tally of "martyrs," but did not provide additional information.</p>
-<p>Since Arab League monitors entered Syria, the LCC said Sunday that it had documented the deaths of 315 people, including 24 children.</p>
-<p>Meanwhile, the state-run Syrian Arab News agency said Sunday that the bodies of 21 troops "killed in the line of duty by armed terrorist groups" were taken from military hospitals to their final resting places.</p>
-<p>CNN cannot independently verify accounts of violence or reports of deaths and injuries in Syria because al-Assad's government has restricted journalists from working freely in the country.</p>
-<p>In mid-March, al-Assad began a crackdown on anti-government protesters calling for his ouster. The Syrian government has repeatedly blamed "armed terrorist groups" for violence during the uprising.</p>
-<p>The LCC, which has a network of contacts across Syria, said that more than 5,800 people were killed in 2011 during the crackdown on opposition protests.</p>
-<p>A number of amateur videos posted online have surfaced purporting to show Arab League observers since the group arrived in Syria last week.</p>
-<p>One video posted Friday purported to show residents of the southwestern city of Daraa telling a monitor about a man who they said had been a victim of torture.</p>
-<p>Another video purported to show that same monitor saying he had witnessed snipers firing in the city, which has been a flashpoint for clashes between anti-government protesters and security forces.</p>
-<p>On Sunday, the head of the Arab League monitors' mission said observers had not seen sniper attacks.</p>
-<p>"We are monitoring the alleged presence of snipers on buildings, but (there is) no evidence of that yet," said Lt. Gen. Mohamed Ahmed Mustafa al-Dabi.</p>
-<p>The Arab League, the United States, the European Union and Turkey have condemned the government crackdown and initiated sanctions. But Russia and China have stood in the way of a strong U.N. Security Council resolution toward the Syrian government.</p>
-<p>Last month, al-Assad agreed to a peace initiative with the Arab League that calls for security forces to withdraw from cities, release detainees and end violence. Part of the agreement calls for Arab League observers to monitor whether the government abides by the initiative.</p>
-<p class="cnn_strycbftrtxt">CNN's Amir Ahmed and Mohammed Jamjoom contributed to this report.</p>
+<p><strong>(CNN)</strong> -- A massive manhunt was under way early Monday for a man wanted for questioning in the shooting death of a park ranger and a shooting that left four injured in Washington state.</p>
+<p>Federal and local authorities described Benjamin Colton Barnes, 24, as a "person of interest" in the shooting of park ranger Margaret Anderson at Mount Rainier National Park on New Year's Day.</p>
+<p>He is heavily armed and wearing body armor, according to authorities who scoured the rough park terrain looking for him.</p>
+<p>"This is probably somebody who is experienced with the outdoors," Pierce County Sheriff Ed Troyer told CNN affiliates KOMO and KIRO of Seattle.</p>
+<p>Barnes is also wanted in connection with a shooting Sunday in the Seattle suburb of Skyway that left four people wounded, the affiliates reported, citing the King County Sheriff's Department.</p>
+<p>The park shooting began with "a normal traffic stop" around 10:30 a.m. PT (1:30 p.m. ET), Mount Rainier National Park spokeswoman Lee Taylor told CNN. But the suspect didn't heed a request to pull over, prompting a ranger to radio ahead requesting assistance.</p>
+<p>Anderson, 34, responded to that call and set up her patrol vehicle as a roadblock. When the gunman arrived at the roadblock, he got out of his car and shot her, Taylor said.</p>
+<p>Anderson managed to call for help, alerting Pierce County Sheriff's deputies that she had been shot, Troyer said.</p>
+<p>Deputies "tried to get to her, and they were fired upon," Troyer said. "They managed to get a small team together to get to her, and get her out of the line of fire. Medic checked her and, unfortunately, she was dead."</p>
+<p>The suspect then ran into the spacious national park, whose border is about 50 miles southeast of Seattle, authorities said. The park -- the centerpiece being the 14,410-foot Mount Rainier, which is considered an active volcano -- comprises 235,625 acres in the Cascade Range.</p>
+<p>Investigators found evidence of weapons and body armor in the suspect's car, Troyer said.</p>
+<p>Authorities used helicopters equipped with infrared cameras late Sunday and early Monday to try to track the gunman in the park, KOMO reported. More than 150 law enforcement officers were involved in the search, authorities said.</p>
+<p>The park was locked down after the shooting. Taylor said authorities evacuated "most of the people ... safely," with more than 100 people "holed up in our primary visitor center" with food, water and five law enforcement officers standing guard.</p>
+<p>"We don't want to try to have those people get to their vehicle and caravan down the park road where it could be dangerous, being sniped at by a gunman," Taylor said Sunday night. "So for now, they are going to sit tight in the visitor center."</p>
+<p>Between 4 to 5 feet of snow is on the ground.</p>
+<p>"There's a lot of snow on the ground, (and) it would be difficult to move through quickly," Taylor said. "And it's heavily forested."</p>
+<p>Anderson was the mother of a 4-year-old and 1-year-old, and the wife of a fellow park ranger, according to Taylor.</p>
+<p>A ranger at Mount Rainier for the past four years, Anderson "was on the job not for money or for glory, but out of a love for wild places and the national parks," Taylor said.</p>
+<p>"She was a person with a quick smile, a very gentle person, a very competent ranger," Taylor said. "This gunman took the life of somebody who had a great deal to live for and was making great contributions to society by being a national park ranger."</p>
+<p class="cnn_strycbftrtxt">CNN's Adam Shivers contributed to this report.</p>
 <!--endclickprintinclude--><!--google_ad_section_end-->
 <!--no partner-->
 
@@ -61,7 +52,7 @@
 
 
 
-<!-- ADSPACE: middle_east/bst/adlinks.607x95 --><!-- CALLOUT|http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=bst&cnn_position=607x95_adlinks&cnn_rollup=world&page.allowcompete=no&params.styles=fs|CALLOUT -->&#13;
+<!-- ADSPACE: justice/mmst/adlinks.607x95 --><!-- CALLOUT|http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=mmst&cnn_position=607x95_adlinks&cnn_rollup=justice&page.allowcompete=no&params.styles=fs|CALLOUT -->&#13;
 
 <style type="text/css" media="screen"><![CDATA[@import "http://media.disqus.com/themes/cnn2/cnn2.css";]]></style></div>
 </div><img src="http://pixel.quantserve.com/pixel/p-89EKCgBk8MZdE.gif" border="0" height="1" width="1" />

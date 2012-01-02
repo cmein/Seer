@@ -21,9 +21,12 @@ filearray.each_with_index do |item,index|										# this would be per feed entr
 	end
 end
 
+
 data_string = "Word,Total Frequency,Mean,SD\n"				#sets up columns for CSV output
 pop_mean = 0.0
 pop_variance = 0.0
+
+
 stats = Hash.new(0)
 freqs.sort_by { |x,y| y.inject(:+) }.reverse.each do |key,value|			# analysis of word samples
 	(n.to_i - value.size).times {value << 0}	#adds n - value.size entries of "0" to the value array
@@ -37,6 +40,8 @@ freqs.sort_by { |x,y| y.inject(:+) }.reverse.each do |key,value|			# analysis of
 	puts "\"#{key}\" found #{(mean*n).to_i} time(s) with a mean of #{mean} and a standard deviation of #{sd}"
 	data_string << (key + "," + sum.to_s + "," + mean.to_s + "," + sd.to_s + "\n")	#appends CSV output
 end
+
+
 #calculate population mean
 pop_mean = pop_mean/freqs.size
 
@@ -51,3 +56,11 @@ pop_sd = Math.sqrt(pop_variance/freqs.size)
 data_string << ("Population," + freqs.size.to_s + "," + pop_mean.to_s + "," + pop_sd.to_s + "\n")
 
 File.new("ruby/testdata.csv", "w").write(data_string)		#writes CSV output
+
+blacklist_string = ""
+blacklist_threshold = 5
+stats.each do |key,value|
+	(value[1] - pop_mean)/pop_sd > blacklist_threshold ? blacklist_string << (key + "\n") : next	#a word's z-score, compared to the pop mean
+end
+File.new("ruby/blacklist.txt", "w").write(blacklist_string)
+

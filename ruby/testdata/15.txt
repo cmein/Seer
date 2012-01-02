@@ -1,5 +1,5 @@
-<div id="cnn-video-1325506368-3" class="cnn_video cnn_video_medium"><a href="http://edition.cnn.com/video/#/video/business/2011/12/27/qmb-the-boss-53.cnn">Click to watch video</a></div>
-<script type="text/javascript">cnnLoadPLayer('business/2011/12/27/qmb-the-boss-53.cnn', 'cnn-video-1325506368-3', '416x374_start_embed_onsite_edition', {}, '' );</script>
+<div id="cnn-video-1325510261-3" class="cnn_video cnn_video_medium"><a href="http://edition.cnn.com/video/#/video/business/2011/12/27/qmb-the-boss-53.cnn">Click to watch video</a></div>
+<script type="text/javascript">cnnLoadPLayer('business/2011/12/27/qmb-the-boss-53.cnn', 'cnn-video-1325510261-3', '416x374_start_embed_onsite_edition', {}, '' );</script>
 <p><strong>(CNN) &#8211;</strong> Three continents, six personalities and one thing in common - being The Boss.</p>
 <p>For more than a year, CNN has followed these business leaders, learning what really goes into running your own company. Some have bowed out, like Michael Wu and Richard Braddock, and some have stepped aside, like Sarah Curran.</p>
 <p>Now the &#034;Boss&#034; era is coming to an end - but first, CNN&#039;s Richard Quest has a few more questions.</p>

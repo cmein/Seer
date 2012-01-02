@@ -1,0 +1,5 @@
+http://rss.cnn.com/rss/edition_prismblog.rss
+http://rss.cnn.com/rss/edition_business360.rss
+http://www.thebeijinger.com/blog/feed
+http://fulltextrssfeed.com/rss.cnn.com/rss/cnn_topstories.rss
+http://fulltextrssfeed.com/feeds.abcnews.com/abcnews/topstories

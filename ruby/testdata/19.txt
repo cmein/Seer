@@ -1,5 +1,5 @@
-<div id="cnn-video-1325506368-5" class="cnn_video cnn_video_medium"><a href="http://edition.cnn.com/video/#/video/business/2011/12/22/wbt-hungary-fmr-mp-eorsi.cnn">Click to watch video</a></div>
-<script type="text/javascript">cnnLoadPLayer('business/2011/12/22/wbt-hungary-fmr-mp-eorsi.cnn', 'cnn-video-1325506368-5', '416x374_start_embed_onsite_edition', {}, '' );</script>
+<div id="cnn-video-1325510261-5" class="cnn_video cnn_video_medium"><a href="http://edition.cnn.com/video/#/video/business/2011/12/22/wbt-hungary-fmr-mp-eorsi.cnn">Click to watch video</a></div>
+<script type="text/javascript">cnnLoadPLayer('business/2011/12/22/wbt-hungary-fmr-mp-eorsi.cnn', 'cnn-video-1325510261-5', '416x374_start_embed_onsite_edition', {}, '' );</script>
 <p><strong>London (CNN) &#8211;</strong>Eager for action and anxious about the future, Hungarians are taking to the streets to protest a gradual overhaul of the country’s key organs of democracy.</p>
 <p>Eastern Europe&#039;s most indebted nation faced another unexpected obstacle after Standard &amp; Poor’s this week became the second ratings agency to cut its debt to “junk” status.</p>
 <p>The move, which followed a similar decision by Moody’s Investors Service, piles pressure on Hungary’s strained finances, making it more expensive to raise money to refinance existing obligations.</p>

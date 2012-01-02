@@ -1,5 +1,5 @@
-<div id="cnn-video-1325506368-2" class="cnn_video cnn_video_medium"><a href="http://edition.cnn.com/video/#/video/business/2011/12/27/along-the-silk-road-ep7.cnn">Click to watch video</a></div>
-<script type="text/javascript">cnnLoadPLayer('business/2011/12/27/along-the-silk-road-ep7.cnn', 'cnn-video-1325506368-2', '416x374_start_embed_onsite_edition', {}, '' );</script>
+<div id="cnn-video-1325510261-2" class="cnn_video cnn_video_medium"><a href="http://edition.cnn.com/video/#/video/business/2011/12/27/along-the-silk-road-ep7.cnn">Click to watch video</a></div>
+<script type="text/javascript">cnnLoadPLayer('business/2011/12/27/along-the-silk-road-ep7.cnn', 'cnn-video-1325510261-2', '416x374_start_embed_onsite_edition', {}, '' );</script>
 <p><strong>Dubai</strong><strong>, UAE (CNN) - </strong>China&#039;s fast-emerging middle class is providing a lifeline to the UAE&#039;s tourism ambitions, with the trickle of Chinese visitors to Dubai rapidly becoming a flood.</p>
 <p>The drama and the glamor of the United Arab Emirates, especially Dubai, have made it one of the Middle East&#039;s glitziest draws for Chinese travelers. The UAE has spent millions of dollars on its luxury hotels and designer brands, which are proving increasingly appealing to the Chinese customer.</p>
 <p>Last year the number of hotel guests in the UAE arriving from China jumped nearly 40%, but they&#039;re still only a small portion of the total tourists.</p>

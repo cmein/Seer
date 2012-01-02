@@ -1,1 +1,45 @@
-readme!
+******************
+Seer Readme
+******************
+
+
+Current Priority:
+-Figure out how to collect a large sample of feed entries (n=5000). Currently most feeds only show latest 10 entries, how to get more entries?
+
+
+Usage:
+-----------------------------
+Rails environment is basically setup but all the "real" code is currently in /ruby for testing.
+
+******************
+samplegetter.rb
+******************
+
+run from / in the command line with:
+$ ruby ruby/samplegetter.rb
+
+This pulls from an array of feeds from ruby/samplefeeds.txt and saves their entries' contents as .txt files to ruby/testdata
+
+
+******************
+textsplitter.rb
+******************
+
+run from / in the command line with:
+$ ruby ruby/textsplitter.rb
+
+Takes the .txt files created by samplegetter.rb (ruby/testdata/*.txt) and analyzes them. Prints each unique word and its frequency, mean, and standard deviation, and saves all this output to ruby/testdata.csv. Estimates which words should belong on the blacklist by z-score and outputs the list to ruby/blacklist.txt.
+
+
+
+
+Unresolved Issues:
+-----------------------------
+-Alternate spellings & misspellings
+-Acronyms
+-Special characters
+
+
+Future Features:
+-----------------------------
+-Get full posts from feeds that only show summaries (like: http://fulltextrssfeed.com/ & http://www.wizardrss.com/)

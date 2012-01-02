@@ -1,28 +1,59 @@
 <div class="cnn_strycntntlft">
 <!--startclickprintexclude-->
+<!--No asset in pageTop or pageTop[0].type is not set: renderPageTop-->
 <div class="cnn_strylftcntnt"><div class="cnn_strylctcntr">
 
-<ul class="cnn_bulletbin cnnStryHghLght"><!--google_ad_section_start--><li>Reports: Missiles are fired on Sunday and Monday as part of maneuvers</li>
-<li>Iran began the exercises on December 24</li>
-<li>The nation says it has no plans to close the Strait of Hormuz</li>
+<ul class="cnn_bulletbin cnnStryHghLght"><!--google_ad_section_start--><li>The Arab body has no plan to act on a call to pull its observers out of Syria, an official says</li>
+<li>Monitors went in last month after the U.N. estimated more than 5,000 people have died</li>
+<li>The advance team is preparing a report on the situation in Syria</li>
+<li>Bashar al-Assad says his forces are cracking down on armed terrorists</li>
 <!--google_ad_section_end-->
 </ul></div></div>
 <!--endclickprintexclude--><!--google_ad_section_start--><!--startclickprintinclude-->
-<p><strong>Tehran, Iran (CNN)</strong> -- Iran test-fired a long-range, shore-to-sea missile on Monday, the final day of its naval exercises in the Strait of Hormuz, state-run media reported.</p>
-<p>The Ghader missile was fired during the "power" stage of the maneuvers, according to the Islamic Republic News Agency. The test was successful, and the missile hit its intended targets, according to the report.</p>
-<p>"A large number of the long-range surface-to-sea Ghader missiles have already been delivered to the Iranian Armed Forces," IRNA said.</p>
-<p>A short-range Nasr missile would also be test-fired, along with a surface-to-surface Noor missile, the news agency said.</p>
-<p>The Noor is an "advanced radar-evading, target-seeking, guided and controlled missile and can easily find its target and destroy it," IRNA reported, quoting 2nd Adm. Seyed Mahmoud Musavi.</p>
-<p>Iran began the exercises in the Persian Gulf and the Sea of Oman on December 24, IRNA said. Western diplomats have described the maneuvers as further evidence of Iran's volatile behavior.</p>
-<p>Iran also successfully test-fired a medium-range, surface-to-air and radar-evading Mehrab missile on Sunday, according to the semi-official Fars news agency. A submarine also successfully fired torpedoes at mock vessels, according to the report.</p>
-<p>Fars added that plans for Monday involve "a new tactic which is designed to prevent any movement in the Strait of Hormuz if the Iranian navy so desires."</p>
-<p>The naval exercises focused attention on the strait -- a shipping channel leading in and out of the Persian Gulf between Iran on one coast and Oman and the United Arab Emirates on the other. It is strategically important because tankers carrying oil travel through it -- some 15 million barrels daily in 2009, according to the U.S. Energy Information Administration.</p>
-<p>Iran last week threatened to close the strait over planned sanctions targeting its oil industry and companies that do business with Iran's Central Bank. The sanctions are intended to force Iran to curtail its nuclear program.</p>
-<p>The Obama administration was quick to say any closure would be unacceptable and vowed to keep the strait open. But Iran's Press TV reported on Saturday the nation has no plans to close the strait.</p>
-<p>On Sunday, Fars reported that Iran had succeeded in building and testing the country's first domestically produced nuclear fuel rod. The rod was successfully tested and installed in the core of a research reactor in Tehran, the news agency said, citing the nation's atomic energy agency website.</p>
-<p>Iran has repeatedly insisted its nuclear program is for peaceful, civilian energy purposes only. But it has rebuffed demands to halt its production of enriched uranium, and a November 8 report by the United Nations' nuclear watchdog found "credible" information that Tehran has carried out work toward nuclear weapons -- including tests of possible bomb components.</p>
-<p>In December, the United States as well as several other Western and Asian nations announced increased sanctions against Iran in an international effort to tighten the screws around the suspected nuclear weapons program.</p>
-<p class="cnn_strycbftrtxt">CNN's Shirzad Bozorgmehr contributed to this report.</p>
+<p><strong>(CNN)</strong> -- Arab League monitors remain in Syria, and more are on the way, a top official with the Arab body said, despite a call by an Arab League advisor to pull the observers out.</p>
+<p>An advance team of monitors returned to Cairo on Sunday after 10 days in the violence-wracked country, but the main body of observers remains in Syria, said the official, who asked not to be named discussing diplomatic business.</p>
+<p>The team that has returned is preparing a report which should be released soon, said the official, speaking late on Sunday.</p>
+<p>Arab League observers went into Syria in December after the United Nations estimated that 5,000 people had been killed since March in an uprising against the government.</p>
+<a name="em1"/>
+<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand15">
+<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/120101032340-nr-jamjoom-syria-new-year-protests-00004709-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>Syria: New Year's protests</span></cite>
+</div>
+<a name="em2"/>
+<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand25">
+<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/111231081420-jamjoom-syria-violence-00000508-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>Protesters carry on in Syria</span></cite>
+</div>
+<a name="em3"/>
+<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand35">
+<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/111231073830-ac-recorded-own-death-00004210-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>Syria man records his own death </span></cite>
+</div>
+<a name="em4"/>
+<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand45">
+<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/111231043248-exp-ac-suffering-in-syria-00002001-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>Suffering in Syria</span></cite>
+</div>
+<p>President Bashar al-Assad's government says it is cracking down on armed terrorists.</p>
+<p>The head of an advisory board to the Arab League called Sunday for the withdrawal of observers from Syria, claiming the mission has allowed Syrian officials to continue a brutal crackdown on protesters.</p>
+<p>"What is happening allows the Syrian regime a cover for the exercise of its inhumane practices under the Arab League's watch," Ali Salem al-Deqbasi said in a statement, according to Egypt's state-run MENA news agency.</p>
+<p>Al-Deqbasi heads the Arab Parliament, an advisory board to the Cairo-based Arab League.</p>
+<p>The Arab League has not scheduled a meeting to discuss al-Deqbasi's statement, the Arab League source said.</p>
+<p>As the fact-finding mission continued Sunday, at least 10 people were killed in Syria, according to an opposition activist group.</p>
+<p>Three people died in Hama, four were killed in Homs, two were killed in the Damascus suburb of Daraya and one was killed in Idlib, the Local Coordination Committees of Syria said. The organization said a child was among its tally of "martyrs," but did not provide additional information.</p>
+<p>Since Arab League monitors entered Syria, the LCC said Sunday that it had documented the deaths of 315 people, including 24 children.</p>
+<p>Meanwhile, the state-run Syrian Arab News agency said Sunday that the bodies of 21 troops "killed in the line of duty by armed terrorist groups" were taken from military hospitals to their final resting places.</p>
+<p>CNN cannot independently verify accounts of violence or reports of deaths and injuries in Syria because al-Assad's government has restricted journalists from working freely in the country.</p>
+<p>In mid-March, al-Assad began a crackdown on anti-government protesters calling for his ouster. The Syrian government has repeatedly blamed "armed terrorist groups" for violence during the uprising.</p>
+<p>The LCC, which has a network of contacts across Syria, said that more than 5,800 people were killed in 2011 during the crackdown on opposition protests.</p>
+<p>A number of amateur videos posted online have surfaced purporting to show Arab League observers since the group arrived in Syria last week.</p>
+<p>One video posted Friday purported to show residents of the southwestern city of Daraa telling a monitor about a man who they said had been a victim of torture.</p>
+<p>Another video purported to show that same monitor saying he had witnessed snipers firing in the city, which has been a flashpoint for clashes between anti-government protesters and security forces.</p>
+<p>On Sunday, the head of the Arab League monitors' mission said observers had not seen sniper attacks.</p>
+<p>"We are monitoring the alleged presence of snipers on buildings, but (there is) no evidence of that yet," said Lt. Gen. Mohamed Ahmed Mustafa al-Dabi.</p>
+<p>The Arab League, the United States, the European Union and Turkey have condemned the government crackdown and initiated sanctions. But Russia and China have stood in the way of a strong U.N. Security Council resolution toward the Syrian government.</p>
+<p>Last month, al-Assad agreed to a peace initiative with the Arab League that calls for security forces to withdraw from cities, release detainees and end violence. Part of the agreement calls for Arab League observers to monitor whether the government abides by the initiative.</p>
+<p class="cnn_strycbftrtxt">CNN's Amir Ahmed and Mohammed Jamjoom contributed to this report.</p>
 <!--endclickprintinclude--><!--google_ad_section_end-->
 <!--no partner-->
 

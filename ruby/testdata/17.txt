@@ -1,5 +1,5 @@
-<p><strong><div id="cnn-video-1325506368-4" class="cnn_video cnn_video_medium"><a href="http://edition.cnn.com/video/#/video/business/2011/12/27/future-cities-dublin-literary-events.cnn">Click to watch video</a></div>
-<script type="text/javascript">cnnLoadPLayer('business/2011/12/27/future-cities-dublin-literary-events.cnn', 'cnn-video-1325506368-4', '416x374_start_embed_onsite_edition', {}, '' );</script> </strong></p>
+<p><strong><div id="cnn-video-1325510261-4" class="cnn_video cnn_video_medium"><a href="http://edition.cnn.com/video/#/video/business/2011/12/27/future-cities-dublin-literary-events.cnn">Click to watch video</a></div>
+<script type="text/javascript">cnnLoadPLayer('business/2011/12/27/future-cities-dublin-literary-events.cnn', 'cnn-video-1325510261-4', '416x374_start_embed_onsite_edition', {}, '' );</script> </strong></p>
 <p><strong>Dublin (CNN) &#8211;</strong> According to an old Irish saying,&#034;in Dublin you can&#039;t throw a stick without hitting a poet.&#034;</p>
 <p>James Joyce, W.B. Yeats and Oscar Wilde are just some of the writers the city has produced over the centuries.</p>
 <p>In recognition of its past and present achievements, the Irish capital was recently named as one of six UNESCO Cities of Literature.</p>

@@ -2,57 +2,42 @@
 
 
 
-
-<p>Dozens of dead blackbirds have fallen from the sky over a small Arkansas town for the second year in a row.</p>
-<p>That the town of Beebe has seen this before, however, doesn't make the deaths of dozens of birds any less odd -- maybe even more so.</p>
-<p>ABC Arkansas affiliate KATV reported that a radar image showed a large mass over Beebe a few hours before midnight Saturday. Then the birds began falling from the sky, just like last year.</p>
-<p>Emily Nichols, a police dispatcher in Beebe, told ABC Radio that she received multiple calls. "Just that blackbirds are falling again and that they found black birds on their streets where they live or at churches," Nichols said.</p>
-<p>Animal Care and Control was called out at about 7 p.m., a few hours earlier than last year, Horace Taylor of Animal Care and Control in Beebe told ABC Radio.</p>
-<div class="rel_container g_4" id="rel_image_feature">
-<div class="rel_content">
-<div class="rel_thumb"><a href="javascript:void(0);" onclick="leftRail.showStoryPhoto('rel_image_feature');" name="lpos=widget[Left_Rail_Image]&amp;lid=view[Image]"><img src="http://a.abcnews.com/images/US/abc_dead_birds3_jt_120101_wg.jpg" width="199" height="112" class="c3" border="0" alt="PHOTO: Dead Blackbirds Fall Again in Ark. Town" title=""/><span class="image_icon"/></a></div>
+<p>Tactical teams searched Mount Rainier National Park's snowy terrain for an armed gunman suspected of killing a park ranger. Other officers used the cover of darkness early Monday to evacuate dozens of tourists who had been kept for their safety at a visitors center.</p>
+<p>About 150 officers converged on the mountain park after ranger Margaret Anderson was shot to death Sunday morning, and searchers used an aircraft with heat-sensing capabilities to hunt from the skies.</p>
+<p>Authorities believe the gunman was still in the woods, with weapons.</p>
+<p>Pierce County Sheriff's spokesman Ed Troyer said that Benjamin Colton Barnes, a 24-year-old believed to have survivalist skills, was a "strong person of interest" in the slaying.</p>
+<p>"We do have a very hot and dangerous situation," Troyer said.</p>
+<p>Safety concerns prompted authorities to keep about 125 tourists quarantined at a visitors center as the manhunt unfolded.</p>
+<p>But early Monday morning, officers began escorting them in their cars out of the park.</p>
+<p>Crews had initially planned to keep everyone in a basement with guards. But Troyer said it was determined to be "better to do it (evacuate) under the cover of darkness than daylight."</p>
+<p>All the visitors were expected to be out by 4 a.m.</p>
+<div class="rel_container g_4 rel_content" id="rel_image">
+<p><img src="http://a.abcnews.com//images/US/25a66bd9a076481eb5f29b20d1791dab_mn.jpg" border="0" width="200" alt="null" /></p>
 <div class="rel_headline">
-<p>ABC</p>
-<div class="photo_caption">Thousands of dead blackbirds rained down on a... <a href="javascript:void(0);" onclick="leftRail.showStoryPhoto('rel_image_feature');" name="lpos=widget[Left_Rail_Image]&amp;lid=view[Image]">View Full Size</a></div>
+<p>AP</p>
+<div class="photo_caption">
+<div id="cap_short">Emergency vehicles speed to the scene of a... <a href="javascript:void(0);" onclick="leftRail.openCaption();">View Full Caption</a></div>
+<div id="cap_full" class="c1">Emergency vehicles speed to the scene of a shooting of a Mount Rainier National Park ranger as another ranger redirects traffic in Mount Rainier, Wash., Sunday, Jan 1, 2012. A Mount Rainier National Park ranger was fatally shot following a New Year's Day traffic stop and authorities believed the gunman was still in the woods with an assault rifle. (AP Photo/The News Tribune, Dean J. Koepfler) <a href="javascript:void(0);" onclick="leftRail.closeCaption();">Close</a></div>
 </div>
 </div>
-<div class="rel_inactive"><img src="http://a.abcnews.com/images/US/abc_dead_birds3_jt_120101_wg.jpg" width="640" height="360" class="c1" border="0" alt="PHOTO: Dead Blackbirds Fall Again in Ark. Town" title=""/>
-</div>
-</div>
-<div class="rel_container g_4" id="rel_1">
-<div class="rel_content">
-<div class="rel_thumb"><a href="javascript:void(0);" onclick="playStoryVideo('rel_1','12544327',true);" name="lpos=widget[Left_Rail_Video_1]&amp;lid=view[Video]"><img src="http://a.abcnews.com/images/GMA/abc_gma_gutman2_110105_wl.jpg" border="0" width="200" height="112"/><span class="image_icon"/></a></div>
-<div class="rel_headline">Dying Birds Mystery Deepens <a href="javascript:void(0);" class="open" onclick="playStoryVideo('rel_1','12544327',true);">Watch Video</a></div>
-</div>
-<div class="rel_inactive"><img src="http://a.abcnews.com/assets/images/spacer.gif" width="640" height="360" border="0" class="c4"/><span class="active_image_closer"><a href="javascript:void(0);" class="close" onclick="closeLeftRailVideo('rel_1');"/></span></div>
-</div>
-<div class="rel_container g_4" id="rel_2">
-<div class="rel_content">
-<div class="rel_thumb"><a href="javascript:void(0);" onclick="playStoryVideo('rel_2','12532352',true);" name="lpos=widget[Left_Rail_Video_2]&amp;lid=view[Video]"><img src="http://a.abcnews.com/images/WNT/abc_wn_birds_110103_wl.jpg" border="0" width="200" height="112"/><span class="image_icon"/></a></div>
-<div class="rel_headline">Blackbirds Dropping in the Dead of Night <a href="javascript:void(0);" class="open" onclick="playStoryVideo('rel_2','12532352',true);">Watch Video</a></div>
-</div>
-<div class="rel_inactive"><img src="http://a.abcnews.com/assets/images/spacer.gif" width="640" height="360" border="0" class="c4"/><span class="active_image_closer"><a href="javascript:void(0);" class="close" onclick="closeLeftRailVideo('rel_2');"/></span></div>
-</div>
-<div class="rel_container g_4" id="rel_3">
-<div class="rel_content">
-<div class="rel_thumb"><a href="javascript:void(0);" onclick="playStoryVideo('rel_3','12527498',true);" name="lpos=widget[Left_Rail_Video_3]&amp;lid=view[Video]"><img src="http://a.abcnews.com/images/US/abc_wnn_dead_birds_110103_wl.jpg" border="0" width="200" height="112"/><span class="image_icon"/></a></div>
-<div class="rel_headline">Dead Blackbirds Fall on Arkansas <a href="javascript:void(0);" class="open" onclick="playStoryVideo('rel_3','12527498',true);">Watch Video</a></div>
-</div>
-<div class="rel_inactive"><img src="http://a.abcnews.com/assets/images/spacer.gif" width="640" height="360" border="0" class="c4"/><span class="active_image_closer"><a href="javascript:void(0);" class="close" onclick="closeLeftRailVideo('rel_3');"/></span></div>
 </div>
 
-<p>"Well, there was just birds falling down on the street and people dodging and missing them," Taylor said. "And we were down the street picking them up. We got called out by the chief and we all [came] out trying to pick them off the street."</p>
-<p>Taylor added that the Game and Fish Department took about 30 of the nearly 100 birds for testing to try to determine what happened.</p>
-<p>Fireworks were blamed for the deaths of thousands of blackbirds last year, but it's unclear whether fireworks were the cause this time. Police imposed an impromptu ban on fireworks when the birds began falling this year.</p>
-<p>Lt. Brian Duke of the Beebe Police Department told ABC this year wasn't nearly as bad as last year, when the birds covered the streets of Beebe. This year, they were concentrated in a smaller area and the birds were cleaned up quickly. There haven't been any reports of people being hit by a falling bird.</p>
-<p>Biologists said last year's kill was caused by birds who were spooked off their roosts by the loud explosions and began flying into homes, cars, telephone poles and each other.</p>
-<p>Around this same time last year, thousands of dead fish also turned up in the Arkansas River, prompting conspiracies about the end of the world, poison and environmental catastrophe.</p>
-<p>Taylor and Duke both agree, though: it's <em>probably</em> just the fireworks in Beebe.</p>
-<p><em>ABC News Radio and the Associated Press contributed to this report.</em></p>
+<p>Evacuee Dinh Jackson, a mother from Olympia, Wash., who came to the mountain to sled with family and friends, told The Associated Press that officials ordered people to hurry into the lodge after the shooting.</p>
+<p>Jackson said officials had everyone get on their knees and place hands behind their heads as they went through the building, looking at faces to make sure the gunman was not among them.</p>
+<p>"That was scary for the kids," she said.</p>
+<p>Michael Wall, an elementary school teacher from Puyallup, Wash., spent the morning hiking with his son. They didn't find out about the violence until returning.</p>
+<p>Wall said he was impressed by how staff members and visitors kept each other comfortable with food and conversation.</p>
+<p>"It was calm, cool, easygoing," Wall said. "I didn't notice any tenseness or terseness."</p>
+<p>A parks spokesman said Barnes was an Iraq war veteran, and the mother of his child had alleged he suffered from post-traumatic stress following his deployments.</p>
+<p>Barnes was involved in a custody dispute in Tacoma in July 2011, during which the toddler's mother sought a temporary restraining order against him, according to court documents. In an affidavit, the woman wrote that Barnes was suicidal and possibly suffered from PTSD after deploying to Iraq in 2007-2008. She said he gets easily irritated, angry and depressed and keeps an arsenal of weapons in his home.</p>
+<p>Barnes was also a suspect in the early Sunday morning shooting of four people at a house party south of Seattle, police said.</p>
+<p>Sgt. Cindi West, King County Sheriff's spokesperson, said late Sunday that Barnes was connected to an early-morning shooting at a New Year's house party in Skyway, Wash., south of Seattle that left four people injured, two critically. That incident happened about 3 a.m., and stemmed from an argument over a gun.</p>
+<p>West said three people fled the scene. Two were located, and West said authorities were trying to find Barnes and had been in contact with his family, trying to have them convince him to "come to the police and tell his side of the story" in the Skyway shooting.</p>
 <div id="social-bar">
 
 <div class="sbText">on Twitter, become a fan on <a href="http://www.facebook.com/abcnews" class="fb">Facebook</a></div>
 
 </div>
+
 
 </div><img src="http://pixel.quantserve.com/pixel/p-89EKCgBk8MZdE.gif" border="0" height="1" width="1" />
