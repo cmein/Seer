@@ -66,13 +66,55 @@ Takes the .txt files created by samplegetter.rb (ruby/testdata/\*.txt) and analy
 ---
 
 ##Classes
-- Word => { name => string }
+<pre>
+Word => { 
+	belongs_to => category,
+	name => string,
+	history => serialized text => float array,
+	population_mean => float,
+	population_sd => float,
+	alert => int,
+	category_id => int,
+	hour-count => int array (TEMPORARY, NOT AN ATTRIBUTE)
+}
+</pre>
 
 <pre>
-Category => { 
-		blacklist => set of words, 
-		moving average paramter => array of options [type, subset size, alpha coefficient]
+Category => {
+	has_many => [feeds, words],
+	name => string,
+	iterations => integer,
+	p_thresh => float,
+	word_trial-length => float,
+	feed_settings => serialized text => hash [feed trial length, minimum post rate, prune threshold],
+	word_stats => serialized text => hash [pop mean, pop standard deviation],
+	blacklist => serialized text => set (of words), 
+	moving_avg_param => serialized text => hash [type, subset size, alpha coefficient]
 }</pre>
 
-- Feed =>
-- Feed Entry =>
+<pre>
+Feed => {
+	belongs_to => category,
+	has_many => feed_entries,
+	name => string,
+	url => string,
+	alert => int,
+	week_pop_mean => float,
+	week_sample_mean => float,
+	history => serialized text => int array,
+	category_id => int
+}
+</pre>
+
+<pre>
+Feed Entry => {
+	belongs_to => feed,
+	name => string,
+	summary => text,
+	content => text,
+	url => string,
+	published_at => datetime,
+	guid => int,
+	feed_id => int
+}
+</pre>
