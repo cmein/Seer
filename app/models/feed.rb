@@ -2,9 +2,17 @@ class Feed < ActiveRecord::Base
 	belongs_to :category
 	validates_presence_of :name, :category_id
 	validates :url, :presence => true, :uri => { :format => /(^$)|(^(http|https):\/\/[a-z0-9]+([\-\.]{1}[a-z0-9]+)*\.[a-z]{2,5}(([0-9]{1,5})?\/.*)?$)/ix }	
-    attr_accessible :name, :url
+    attr_accessible :name, :url, :alert, :pop_mean, :sample_mean, :history
 	has_many :feed_entries, :dependent => :destroy
-	after_create :init_feed_entries
+	before_create :init, :init_feed_entries
+	serialize :history, Array
+
+	def init
+		self.alert ||= 0
+		self.pop_mean ||= 0.0
+		self.pop_sd ||= 0.0
+		self.sample_mean ||= 0.0
+	end
 
 	def self.add_all_feed_entries
 		feeds = Feed.all

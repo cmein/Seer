@@ -71,11 +71,11 @@ Word => {
 	belongs_to => category,
 	name => string,
 	history => serialized text => float array,
-	population_mean => float,
-	population_sd => float,
+	pop_mean => float,
+	pop_sd => float,
 	alert => int,
 	category_id => int,
-	hour-count => int array (TEMPORARY, NOT AN ATTRIBUTE)
+	hour_count => int array (TEMPORARY, NOT AN ATTRIBUTE)
 }
 </pre>
 
@@ -84,12 +84,12 @@ Category => {
 	has_many => [feeds, words],
 	name => string,
 	iterations => integer,
-	p_thresh => float,
-	word_trial-length => float,
+	alert_threshold => float,
+	word_settings => serialized text => hash [word trial length, blacklist z-score],
 	feed_settings => serialized text => hash [feed trial length, minimum post rate, prune threshold],
 	word_stats => serialized text => hash [pop mean, pop standard deviation],
 	blacklist => serialized text => set (of words), 
-	moving_avg_param => serialized text => hash [type, subset size, alpha coefficient]
+	map (moving average parameters) => serialized text => hash [type, subset size, alpha coefficient]
 }</pre>
 
 <pre>
@@ -99,8 +99,9 @@ Feed => {
 	name => string,
 	url => string,
 	alert => int,
-	week_pop_mean => float,
-	week_sample_mean => float,
+	pop_mean => float,
+	pop_sd => float,
+	sample_mean => float,
 	history => serialized text => int array,
 	category_id => int
 }

@@ -11,13 +11,18 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20111214160237) do
+ActiveRecord::Schema.define(:version => 20120103145114) do
 
   create_table "categories", :force => true do |t|
     t.string   "name"
     t.integer  "iteration"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.float    "alert_threshold"
+    t.text     "word_settings"
+    t.text     "feed_settings"
+    t.text     "word_stats"
+    t.text     "map"
   end
 
   create_table "feed_entries", :force => true do |t|
@@ -35,6 +40,22 @@ ActiveRecord::Schema.define(:version => 20111214160237) do
   create_table "feeds", :force => true do |t|
     t.string   "name"
     t.string   "url"
+    t.integer  "category_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.integer  "alert"
+    t.float    "pop_mean"
+    t.float    "sample_mean"
+    t.text     "history"
+    t.float    "pop_sd"
+  end
+
+  create_table "words", :force => true do |t|
+    t.string   "name"
+    t.integer  "alert"
+    t.float    "pop_mean"
+    t.float    "pop_sd"
+    t.text     "history"
     t.integer  "category_id"
     t.datetime "created_at"
     t.datetime "updated_at"

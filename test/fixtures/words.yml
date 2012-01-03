@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  name: MyString
+  alert: 1
+  pop_mean: 1.5
+  pop_sd: 1.5
+  history: MyText
+  category_id: 1
+
+two:
+  name: MyString
+  alert: 1
+  pop_mean: 1.5
+  pop_sd: 1.5
+  history: MyText
+  category_id: 1

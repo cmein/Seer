@@ -39,5 +39,12 @@ class CategoriesController < ApplicationController
 		end
 	end
 
+	def destroy
+		@category = Category.find(params[:id])
+		@category.destroy
+		flash[:notice] = "Successfully destroyed category."
+		redirect_to new_category_path
+	end
+
 end
 

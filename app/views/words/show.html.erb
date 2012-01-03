@@ -1,0 +1,35 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Name:</b>
+  <%= @word.name %>
+</p>
+
+<p>
+  <b>Alert:</b>
+  <%= @word.alert %>
+</p>
+
+<p>
+  <b>Pop mean:</b>
+  <%= @word.pop_mean %>
+</p>
+
+<p>
+  <b>Pop sd:</b>
+  <%= @word.pop_sd %>
+</p>
+
+<p>
+  <b>History:</b>
+  <%= @word.history %>
+</p>
+
+<p>
+  <b>Category:</b>
+  <%= @word.category_id %>
+</p>
+
+
+<%= link_to 'Edit', edit_word_path(@word) %> |
+<%= link_to 'Back', words_path %>

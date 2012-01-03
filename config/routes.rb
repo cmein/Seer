@@ -1,5 +1,7 @@
 Seer::Application.routes.draw do
 
+  resources :words
+
 	resources :categories do
 		resources :feeds do
 			get :updatefeed, :on => :member
