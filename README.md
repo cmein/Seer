@@ -67,9 +67,9 @@ Takes the .txt files created by samplegetter.rb (ruby/testdata/\*.txt) and analy
 
 ##Classes
 - Word => { name => string }
-- Category => { 
+- ```Category => { 
 	blacklist => set of words, 
 	moving average paramter => array of options [type, subset size, alpha coefficient]
-	}
+	}```
 - Feed =>
 - Feed Entry =>
