@@ -1,10 +1,12 @@
 #Seer Readme
 
 Notes: Syntatically and semantically unbiased; core features will be based purely on statistics. Language-specific functions will be contained to modules. 
+  
 
 ###Current Priority
 - Figure out how to collect a large sample of feed entries (n=5000). Currently most feeds only show latest 10 entries, how to get more entries?
 
+  
 
 ###Usage:
 Rails environment is basically setup but all the "real" code is currently in /ruby for testing.
@@ -30,10 +32,12 @@ Takes the .txt files created by samplegetter.rb (ruby/testdata/\*.txt) and analy
 - Special characters
 - Plurals
 - Conjugations
+  
 
 
 ###Future Features
 - Get full posts from feeds that only show summaries (like: http://fulltextrssfeed.com/ & http://www.wizardrss.com/)
+  
 
 
 ###Development Roadmap
@@ -45,7 +49,6 @@ Takes the .txt files created by samplegetter.rb (ruby/testdata/\*.txt) and analy
 - Implement code into rails
 - Finish basic feed parsing & analysis functions, test
 - Determine ideal p threshold. If this is even the best approach?
-
 - Automated feed pruning
 - Develop "conceptual maps"/"relational maps" for words using Wikipedia database, and weighting based on those maps
 - Incorporating presence of HTML tags in weighting word importance?
@@ -53,6 +56,7 @@ Takes the .txt files created by samplegetter.rb (ruby/testdata/\*.txt) and analy
 - Automated article recommendations based on trending words
 - Automated feed discovery
 - Phrase detection with markov chains (or a better approach)
+  
 
 
 ###Considerations
