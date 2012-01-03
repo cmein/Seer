@@ -12,6 +12,10 @@ end
 blacklist = Set.new([ "" ])
 
 unique_count_string = "Entries,Unique Words\n"									# will look at relationship b/w number of entries analyzed & number of unique words found
+data_string = "Word,Total Frequency,Mean,SD\n"				#sets up columns for test dataCSV output
+pop_mean = 0.0
+pop_variance = 0.0
+
 
 freqs = Hash.new { |hash,key| hash[key] = [] }
 n = filearray.size.to_f															# n, simplified for this program
@@ -25,10 +29,6 @@ filearray.each_with_index do |item,index|										# this would be per feed entr
 end
 
 File.new("ruby/uniquewords.csv", "w").write(unique_count_string) # writes unique word count CSV output
-
-data_string = "Word,Total Frequency,Mean,SD\n"				#sets up columns for CSV output
-pop_mean = 0.0
-pop_variance = 0.0
 
 
 stats = Hash.new(0)
@@ -58,9 +58,9 @@ end
 pop_sd = Math.sqrt(pop_variance/freqs.size) 
 
 data_string << ("Population," + freqs.size.to_s + "," + pop_mean.to_s + "," + pop_sd.to_s + "\n")
-
 File.new("ruby/testdata.csv", "w").write(data_string)		# writes test data CSV output
 
+#blacklist generation
 blacklist_string = ""
 blacklist_threshold = 5
 stats.each do |key,value|

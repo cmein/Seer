@@ -1,0 +1,8 @@
+<p>Headline from the San Francisco Chronicle:</p>
+<p><img src="http://languagelog.ldc.upenn.edu/myl/TrackingFunds1.jpeg" alt="" width="500" /></p>
+<p>Are some consultants funding their salary increases by tracking things &#8212; maybe by tracking *us*? Has something been revealed about a raise awarded to the consultants to "tracking funds", whatever those might be?</p>
+<p><span id="more-3661"></span></p>
+<p>Apparently not. The on-line version of the article (Marisa Lagos, "<a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2011/12/25/BAT31MFDL2.DTL">State tracks commercial fundraising for charities</a>", 12/25/2011) tells us about a report by the California attorney general on the activities of commercial fund-raising consultants who are hired to raise money for charities. This year, about 45% of the money actually went to the charities, up from 43% a year ago.</p>
+<p>So the headline is short for "[The attorney general is] tracking [the] funds [that] consultants raise [for charities]". The telegraphic style leaves us with four words, three of which are syntactically ambiguous. They could have saved a few characters, and increased the ambiguity still further, by using "Tracking funds firms raise"</p>
+<p>A picture of the print headline in context is <a href="http://languagelog.ldc.upenn.edu/myl/TrackingFunds.jpeg">here</a>.</p>
+<p>[Tip of the hat to John V. Burke.]</p>

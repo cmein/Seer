@@ -1,0 +1,32 @@
+<div id="main">
+
+<div id="articleheads">
+<h4 class="rubric">Ink</h4>
+
+<h4 id="articleauthor"><span class="c cs"><span>by</span> <a rel="author" href="http://www.newyorker.com/magazine/bios/tad_friend/search?contributorName=tad%20friend">Tad Friend</a></span> <span class="dd dds">January 9, 2012</span></h4>
+</div>
+<div id="realviewUrl" class="showBlueNote">Subscribers can read this article on our <a href="http://www.newyorker.com/app">iPad app</a> or in our <a href="http://archives.newyorker.com/?i=2012-01-09#folio=021" target="_blank">online archive.</a> (Others can pay for access.)</div>
+<div id="articleRail">
+<p><img src="http://www.newyorker.com/images/covers/2012/2012_01_09_p323.jpg" alt="January 9, 2012 Issue"/></p>
+
+</div>
+<div id="articlebody">
+<div id="articletext">
+<p class="noindent">ABSTRACT: Talk story about John Logan and his adaptation of William Shakespeare’s “Coriolanus.”</p>
+</div>
+<div id="abstractThumbnail">
+<div class="img-abstract-left"><a href="http://archives.newyorker.com/?i=2012-01-09#folio=021" target="_blank"><img src="http://static.cdn.realviewdigital.com/global/content/GetImage.aspx?pguid=FC9071DC-DD99-441F-A727-1B74670350BC&amp;width=232&amp;i=2012-01-09&amp;folio=020" title="read the full text..." alt="read the full text..."/></a></div>
+<div class="img-abstract-right"><a href="http://archives.newyorker.com/?i=2012-01-09#folio=021" target="_blank"><img src="http://static.cdn.realviewdigital.com/global/content/GetImage.aspx?pguid=FC9071DC-DD99-441F-A727-1B74670350BC&amp;width=232&amp;i=2012-01-09&amp;folio=021" title="read the full text..." alt="read the full text..."/></a></div>
+
+</div>
+</div>
+
+<div id="archivesNotices">
+<p class="archivesNotice">Newyorker.com has a complete archive of <em>The New Yorker</em>, back to 1925. The complete archive is available to subscribers in the digital edition. If you subscribe to the magazine, <a href="http://newyorker.com/go/digitaleditionsubscriberregister" title="Register Now" target="_blank">register now</a> to get access. If you don't, <a href="http://newyorker.com/subscriberedirect" title="Subscribe Now" target="_blank">subscribe now</a>.</p>
+<p class="archivesNotice">You can also <a href="http://archives.newyorker.com/skins/realview/tny/subscribe.asp?i=2011_05_16" title="buy online access to a single issue" target="_blank">buy online access to a single issue</a>. Individual back issues are available for sale through our customer-service department, at 1-800-825-2510.</p>
+<p class="archivesNotice">All articles published before May, 2008, can be found in “<a href="http://www.thenewyorkerstore.com/books_completenewyorker_middle.asp" title="The Complete New Yorker" target="_blank">The Complete New Yorker</a>,” which is available for purchase on hard drive and DVD. Most <em>New Yorker</em> articles published since December, 2000, are available through <a href="http://www.nexis.com" title="Nexis" target="_blank">Nexis</a>.</p>
+<p class="archivesNotice">To search for <em>New Yorker</em> cartoons and covers, visit the <a href="http://www.cartoonbank.com" title="Cartoon Bank" target="_blank">Cartoon Bank</a>.</p>
+</div>
+
+
+</div><img src="http://pixel.quantserve.com/pixel/p-89EKCgBk8MZdE.gif" border="0" height="1" width="1" />

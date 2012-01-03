@@ -1,19 +1,63 @@
-<div>
-<p>ROCK RAPIDS, Iowa – Leaving his second campaign event on New Year’s Day, Rick Santorum responded to a dig thrown his way by the campaign’s front-runner, Mitt Romney, who Sunday called him a “career politician.”</p>
-<p>“It’s just pretty funny,” Santorum told ABC News as he left his event in Orange City. “I mean, I didn’t spend my entire career, I worked as a lawyer, I worked in private sector working in a small technology company for three years and done other things in the private sector, been on corporate boards and managed those things. So Gov. Romney suggests that if you’ve served three terms in the House and two terms in the Senate because you won elections where he has not won elections that somehow or another you are a career politician.”</p>
-<p>He said being in the front-runner’s sights “suggests we are on the move.”</p>
-<p>“We are resonating with the people of this state and I think we are going to resonate with the people of this country because I think we reflect the values of the people a lot better than the folks in the field, at least I hope that’s the case,” Santorum said.</p>
-<p>At his three events Sunday, Santorum was excited, enthusiastic and clearly buoyed by Saturday night’s Des Moines Register poll that showed the former Pennsylvania senator surging in the final two days of polling. At Romney’s event Sunday in Atlantic, Iowa, he compared Santorum to Newt Gingrich’s aiming to paint them both as lifelong politicians.</p>
-<p>“Like Speaker Gingrich, Sen. Santorum has spent his career in the government, in Washington; nothing wrong with that, but it’s a very different background than I have, and I think that the people of this country recognize that with our economy as the major issue we face right now that it would be helpful to have someone who understands the economy firsthand, who’s spent the bulk of his career working in the private sector,” Romney said, adding that his new rival “has worked hard. I wouldn’t be surprised if we see him do well on Tuesday night.”</p>
-<p>Crowds throughout the day were enthusiastic and much bigger than those that have turned out for Santorum on the trail.</p>
-<p>In Orange City, more than 200 people sat in the basement of a bank to listen to the candidate.</p>
-<p>As he gave his closing argument to voters, he told them about his grandfather who immigrated to America from Italy. He often mentions him on the stump, but Sunday he seemed emotional, choking up while giving the final pitch.</p>
-<p>“Do not miss, do not miss. This country is too important,” Santorum said.</p>
-<p>At Santorum’s first event in Sioux City, two of the men introducing him, talk radio host Sam Clovis and author Brad Thor, broke down in tears when speaking about why they are backing Santorum.</p>
-<p><a href="http://abcnews.go.com/blogs/politics/2012/01/santorum-gives-closing-argument-defends-warts-and-dings-perry/" target="_blank">For the second time in two back-to-back events,</a> he was asked by a supporter what to say to friends who don’t like him because of the candidate’s 2004 Senate endorsement of Arlen Specter over the more conservative Pat Toomey.</p>
-<p>In Orange City, Santorum repeated his defense: he did it to ensure Specter’s support to confirm President Bush’s Supreme Court nominees.</p>
-<p>It’s an issue <a href="http://abcnews.go.com/blogs/politics/2011/12/rick-santorum-counters-anti-campaign-literature-in-iowa/" target="_blank">he’s had to deal with here throughout his campaign.</a> Anonymous groups often place fliers in cars at his events connecting the two. Friday, a flier placed in cars in Ames called the strident anti-abortion rights supporter a “pro-life fraud.”</p>
-<p>In Rock Rapids, Santorum was again greeted by a packed room with about 150 voters in another bank basement. Santorum spoke and took questions for almost two hours and told the crowd the country needs a “clear contrast conservative.”</p>
-<p>“We need dramatic change in Washington,” Santorum said, stressing that voters “can’t settle” for the candidate that others may think is more electable, but is too similar to President Obama. Although he didn’t mention Romney by name, he was clearly referencing him.</p>
-<p>“We need bright, bold colors, not pale pastels,” he said, repeating a phrase of Ronald Reagan’s, pitching himself just two days before the caucuses that he’s the only candidate who can bring that dramatic change to Washington.</p>
+<div id="storyText">
+
+
+
+
+<p>Twelve new suspected arson fires broke out early today in the Los Angeles area as police officials acknowledged they finally have a person of interest in the <a href="http://abcnews.go.com/US/fires-set-years-eve-la-serial-arson-attacks/story?id=15268683" target="external">spree of blazes that has engulfed the city since Dec. 30</a>.</p>
+<p>"We currently have a person of interest that they [detectives] are interviewing," Capt. Jaime Moore, Los Angeles Fire Department spokesman said today on "<a href="http://gma.yahoo.com" target="external">Good Morning America</a>."</p>
+<p>Police Sunday distributed DVDs of a 20- to 30-year-old white male caught on surveillance video Saturday leaving an underground parking structure on Hollywood Boulevard where a car fire was reported.</p>
+<p>Officials asked for the public's help in identifying the man, now wanted for questioning in connection with the 55 fires that have been set since Thursday.</p>
+<p>Detectives estimated the man, who has a receding hairline and is seen in the video wearing a bulky jacket, is between 5-foot-6 and 6-foot-1.</p>
+<p>Police Sunday also acknowledged they know of at least two other people who might be involved in the fires. Capt. Moore declined to say whether the person detectives are interviewing is the same man seen on the surveillance video.</p>
+<p>"It's still too early to speculate whether or not this is the same person," he told "GMA." "It's always a possibility that it could be just one individual, but we also have to look at the possibility of this being the work of more than one."</p>
+<div class="rel_container g_4" id="rel_image_feature">
+<div class="rel_content">
+<div class="rel_thumb"><a href="javascript:void(0);" onclick="leftRail.showStoryPhoto('rel_image_feature');" name="lpos=widget[Left_Rail_Image]&amp;lid=view[Image]"><img src="http://a.abcnews.com/images/US/ap_la_arson_120101_wg.jpg" width="199" height="112" class="c3" border="0" alt="PHOTO: A Los Angeles Fire Department firefighter waits for water to extinguish multiple cars on fire in a carport in the Sun Valley neighborhood of Los Angeles on Saturday, Dec. 31, 2011." title=""/><span class="image_icon"/></a></div>
+<div class="rel_headline">
+<p>Dan Steinberg/AP Photo</p>
+<div class="photo_caption">A Los Angeles Fire Department firefighter... <a href="javascript:void(0);" onclick="leftRail.showStoryPhoto('rel_image_feature');" name="lpos=widget[Left_Rail_Image]&amp;lid=view[Image]">View Full Size</a></div>
+</div>
+</div>
+<div class="rel_inactive"><img src="http://a.abcnews.com/images/US/ap_la_arson_120101_wg.jpg" width="640" height="360" class="c1" border="0" alt="PHOTO: A Los Angeles Fire Department firefighter waits for water to extinguish multiple cars on fire in a carport in the Sun Valley neighborhood of Los Angeles on Saturday, Dec. 31, 2011." title=""/>
+</div>
+</div>
+<div class="rel_container g_4" id="rel_1">
+<div class="rel_content">
+<div class="rel_thumb"><a href="javascript:void(0);" onclick="playStoryVideo('rel_1','15262733',true);" name="lpos=widget[Left_Rail_Video_1]&amp;lid=view[Video]"><img src="http://a.abcnews.com/images/WNT/abc_wn_fires_111230_wl.jpg" border="0" width="200" height="112"/><span class="image_icon"/></a></div>
+<div class="rel_headline">More Than a Dozen Fires in the Hollywood Hills <a href="javascript:void(0);" class="open" onclick="playStoryVideo('rel_1','15262733',true);">Watch Video</a></div>
+</div>
+<div class="rel_inactive"><img src="http://a.abcnews.com/assets/images/spacer.gif" width="640" height="360" border="0" class="c4"/><span class="active_image_closer"><a href="javascript:void(0);" class="close" onclick="closeLeftRailVideo('rel_1');"/></span></div>
+</div>
+<div class="rel_container g_4" id="rel_2">
+<div class="rel_content">
+<div class="rel_thumb"><a href="javascript:void(0);" onclick="playStoryVideo('rel_2','15260129',true);" name="lpos=widget[Left_Rail_Video_2]&amp;lid=view[Video]"><img src="http://a.abcnews.com/images/US/abc_arson_presser_111230_wl.jpg" border="0" width="200" height="112"/><span class="image_icon"/></a></div>
+<div class="rel_headline">Hollywood Fires 'Intentionally Set' <a href="javascript:void(0);" class="open" onclick="playStoryVideo('rel_2','15260129',true);">Watch Video</a></div>
+</div>
+<div class="rel_inactive"><img src="http://a.abcnews.com/assets/images/spacer.gif" width="640" height="360" border="0" class="c4"/><span class="active_image_closer"><a href="javascript:void(0);" class="close" onclick="closeLeftRailVideo('rel_2');"/></span></div>
+</div>
+<div class="rel_container g_4" id="rel_3">
+<div class="rel_content">
+<div class="rel_thumb"><a href="javascript:void(0);" onclick="playStoryVideo('rel_3','15058511',true);" name="lpos=widget[Left_Rail_Video_3]&amp;lid=view[Video]"><img src="http://a.abcnews.com/images/US/wcti_arson_mishap_111130_wl.jpg" border="0" width="200" height="112"/><span class="image_icon"/></a></div>
+<div class="rel_headline">Arsonists' Plan Blows Up in Their Faces <a href="javascript:void(0);" class="open" onclick="playStoryVideo('rel_3','15058511',true);">Watch Video</a></div>
+</div>
+<div class="rel_inactive"><img src="http://a.abcnews.com/assets/images/spacer.gif" width="640" height="360" border="0" class="c4"/><span class="active_image_closer"><a href="javascript:void(0);" class="close" onclick="closeLeftRailVideo('rel_3');"/></span></div>
+</div>
+
+<p>According to the Associated Press, detectives also served a search warrant at a home in the San Fernando Valley. Several interviews were conducted, but no arrests were made.</p>
+<p>The fires have remained clustered in the areas of Hollywood and North Hollywood but, overnight, the arsons expanded to the San Fernando Valley. Capt. Moore confirmed today that 10 of the fires set overnight Sunday were in Los Angeles, while two were in West Hollywood.</p>
+<p>"The commonality in a lot of these fires is we have automobile fires that are intentionally set underneath carports or parking structures or adjacent to apartments where people are actually residing," he said.</p>
+<p>Police have not yet released details on how the car fires were sparked or what information they have collected at the scenes as they continue to search for suspects.</p>
+<p>"Our arson investigators are looking at all the fire scenes and doing everything they can to gather as much evidence as they can," Capt. Moore said. "If this is the work of more than one individual, they can ensure those other individuals don't get away."</p>
+<p>"In the last two days, we've seen that as day break comes, we start finding more clues and more evidence because there are fires that didn't quite take off as were intended by this individual or these individuals," he said.</p>
+<p>In nearly every case, the fires were set overnight. So far, there have been no injuries as a result of the fires.</p>
+<p>Law enforcement sources in LA County told <a href="http://abcnews.go.com" target="external">ABC News</a> that the police and the fire department have built a unified task force coordinated by LAPD in anticipation of a long-term operation, should that be necessary.</p>
+<p>"We are creating an 'org' chart with sustained 'ops' and multiple operational periods," one official involved in planning said. The joint fire police task force is employing surveillance cameras and using air support.</p>
+<p>Officials are also offering a $60,000 reward for information leading to an arrest. Anyone with information is urged to call 911.</p>
+<p><em>The Associated Press contributed to this report.</em></p>
+<div id="social-bar">
+
+<div class="sbText">on Twitter, become a fan on <a href="http://www.facebook.com/abcnews" class="fb">Facebook</a></div>
+
+</div>
+
 </div><img src="http://pixel.quantserve.com/pixel/p-89EKCgBk8MZdE.gif" border="0" height="1" width="1" />

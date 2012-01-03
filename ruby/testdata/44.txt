@@ -1,16 +1,35 @@
 <div class="cnn_strycntntlft">
 <!--startclickprintexclude-->
+<div class="cnn_stryimg640captioned"><img src="http://i2.cdn.turner.com/cnn/dam/assets/120102102704-mubarak-trial-story-top.jpg" alt="An Egyptian anti-Mubarak protester holds up scales in front of riot police in Cairo in September, 2011" border="0" height="360" width="640"/></div>
+<div class="cnn_stryimg640caption"><div class="cnn_strycaptiontxt">An Egyptian anti-Mubarak protester holds up scales in front of riot police in Cairo in September, 2011</div></div>
+<a name="em0"/>
 <div class="cnn_strylftcntnt"><div class="cnn_strylctcntr">
 
-<ul class="cnn_bulletbin cnnStryHghLght"><!--google_ad_section_start--><li>Egypt's upper house elections will be finished by mid-February</li>
-<li>The announcement moves up the planned balloting by nearly three weeks</li>
+<ul class="cnn_bulletbin cnnStryHghLght"><!--google_ad_section_start--><li>Mubarak is charged with ordering the killing of protesters </li>
+<li>He also faces corruption charges</li>
+<li>The trial is expected to resume "almost daily" starting this week</li>
+<li>Many Egyptians are critical of the court proceedings and worry he may be acquitted </li>
 <!--google_ad_section_end-->
 </ul></div></div>
 <!--endclickprintexclude--><!--google_ad_section_start--><!--startclickprintinclude-->
-<p><strong>(CNN)</strong> -- Egypt's ruling military council has moved up the scheduled elections for the upper house of parliament by nearly three weeks, with voting now scheduled to start in late January, the state news agency MENA reported Sunday.</p>
-<p>Balloting will be held in two stages instead of three, first on January 29-30 and then on February 14-15, MENA said, citing a decree from the Supreme Council of the Armed Forces. The goal is to have winners seated by February 28.</p>
-<p>Elections for the lower house were completed in December.</p>
-<p>The generals have ruled Egypt since the revolt that toppled longtime strongman Hosni Mubarak last February. Sunday's announcement follows weeks of street protests calling on them to cede power to a civilian government.</p>
+<p><strong>Cairo (CNN)</strong> -- Former Egyptian President Hosni Mubarak was wheeled into court in a gurney Monday as his trial in the killings of hundreds of protesters resumed in Cairo.</p>
+<p>Mubarak is charged with ordering the killing of protesters to try to quash the uprising that ended his 30-year rule in February. He also faces corruption charges.</p>
+<p>He has pleaded not guilty.</p>
+<p>The hearing is described as "procedural" to allow a judge to decide on specific requests presented by the lawyers during last weeks' session, according to Khaled Abu Bakr, a civil rights lawyer representing families of the victims.</p>
+<p>"The judge will decide ... number of witnesses that will take the stand in the next hearing, and will also announce his decision on the defendants requests to include the latest clashes in Tahrir Square into the file," Abu Bakr said.</p>
+<p>The court will also decide on the date of the postponed testimony of Gen. Sami Anan, deputy head of the Supreme Council of the Armed Forces.</p>
+<p>Many Egyptians are critical of the court proceedings and some worry that Mubarak may be acquitted from the murder charges. Five police officers accused of killing protesters were acquitted last week.</p>
+<p>The killings in question took place in front of a police station near downtown Cairo during January 28 and 29.</p>
+<p>" Most people panicking after the verdict do not know that two families of the victims involved in this case have withdrawn the charges against the officers, " Abu Bakr said. " Their case was considered self-defense because the officers were defending their police station, which is different than the cases of those protesters killed by snipers from a distance in Tahrir."</p>
+<p>Mubarak's health has been in question since his detention in April, 2011 after reports of his cancer and heart problems surfaced in the media.</p>
+<div class="cnn_strylftcntnt"><div class="cnn_strylctcntr cnn_strylctcquote"><div class="cnn_strylctcqcntr">
+<div>The judge will decide ... number of witnesses that will take the stand in the next hearing <br/><span>Khaled Abu Bakr, civil rights lawyer</span></div>
+</div></div></div>
+<p>Hauled away from the court house on his hospital gurney, Mubarak hid his face and covered his eyes from TV cameras.</p>
+<p>Former Egyptian Interior Minister Habib El Adly, six of his aides and two of Mubarak's sons are also on trial on a variety of charges.</p>
+<p>Sons Gamal and Alaa, also present in the courtroom's cage, have also pleaded not guilty.</p>
+<p>The trial is expected to resume "almost daily" starting this week as announced by the judge handling the case during its previous session.</p>
+<p>About 840 people died and more than 6,000 were wounded in the 18 days of uprising that toppled Mubarak, according to Amnesty International.</p>
 
 <!--endclickprintinclude--><!--google_ad_section_end-->
 <!--no partner-->
@@ -18,7 +37,7 @@
 <div class="cnn_strybtmcntnt">
 
 
-<!-- ADSPACE: africa/bst/adlinks.607x95 --><!-- CALLOUT|http://ads.cnn.com/html.ng/site=cnn_international&cnn_intl_pagetype=bst&cnn_intl_position=607x95_adlinks&cnn_intl_rollup=africa&page.allowcompete=no&params.styles=fs|CALLOUT -->&#13;
+<!-- ADSPACE: africa/mmst/adlinks.607x95 --><!-- CALLOUT|http://ads.cnn.com/html.ng/site=cnn_international&cnn_intl_pagetype=mmst&cnn_intl_position=607x95_adlinks&cnn_intl_rollup=africa&page.allowcompete=no&params.styles=fs|CALLOUT -->&#13;
 
 <style type="text/css" media="screen"><![CDATA[@import "http://media.disqus.com/themes/cnn2/cnn2.css";]]></style></div>
 </div><img src="http://pixel.quantserve.com/pixel/p-89EKCgBk8MZdE.gif" border="0" height="1" width="1" />

@@ -3,56 +3,65 @@
 <div class="cnnStryVidCont">
 <div id="cnnCVP1">
 <div class="cnn_stryimg640captioned">
-<img width="640" height="360" border="0" alt="" src="http://i2.cdn.turner.com/cnn/dam/assets/120101093803-sotvo-hawaii-civil-union-ceremony-00005301-story-top.jpg"/><div id="cnnCVP2" class="cnn_mtt1plybttn">
+<img width="640" height="360" border="0" alt="" src="http://i2.cdn.turner.com/cnn/dam/assets/120102120230-es-wian-arson-person-of-interest-00004409-story-top.jpg"/><div id="cnnCVP2" class="cnn_mtt1plybttn">
 <div id="play_button">
-<a onclick="s_objectID='/video/?us/2012/01/01/sotvo-hawaii-civil-union-ceremony.kitv';return false;" href="http://edition.cnn.com/video/?us/2012/01/01/sotvo-hawaii-civil-union-ceremony.kitv">
+<a onclick="s_objectID='/video/?bestoftv/2012/01/02/es-wian-arson-person-of-interest.cnn';return false;" href="http://edition.cnn.com/video/?bestoftv/2012/01/02/es-wian-arson-person-of-interest.cnn">
 <img src="http://i.cdn.turner.com/cnn/.e/img/3.0/1px.gif" alt="Click to play" border="0" class="cnn_ie6png"/></a>
 </div>
 </div>
 </div>
 <div class="cnn_stryimg640caption">
-<div class="cnn_strycaptiontxt">Gay couples first civil unions in Hawaii</div>
+<div class="cnn_strycaptiontxt">Man held for questioning in arson probe</div>
 </div>
 </div>
 </div>
 <a name="em0"/>
 <div class="cnn_strylftcntnt"><div class="cnn_strylctcntr">
 
-<ul class="cnn_bulletbin cnnStryHghLght"><!--google_ad_section_start--><li>Hawaii and Delaware began allowing same-sex civil unions Sunday</li>
-<li>5 states recognize same-sex civil unions; 6 and DC recognize same-sex marriage</li>
-<li>Opponents say civil unions are a springboard to redefining marriage</li>
-<li>"It means that our state supports us," one member of a same-sex civil union says</li>
+<ul class="cnn_bulletbin cnnStryHghLght"><!--google_ad_section_start--><li><b>NEW:</b> There have been 55 "fires of concern" since Friday, authorities say </li>
+<li>A man is detained for questioning </li>
+<li>A video released by authorities showed a man allegedly tied to at least two fires </li>
+<li>A search was conducted at a residence</li>
 <!--google_ad_section_end-->
 </ul></div></div>
 <!--endclickprintexclude--><!--google_ad_section_start--><!--startclickprintinclude-->
-<p><strong>(CNN)</strong> -- Several same-sex couples came together in the first minutes of New Year's Day in Honolulu to become the first in the state's history to enter into civil unions.</p>
-<p>"We really don't want to wait any longer because we have been together for 33 years waiting for the opportunity and our rights and everything that goes with it," said Donna Gedge, who was with her partner Monica Montgomery, speaking to CNN affiliate KITV. "So why wait?"</p>
-<p>The couple told CNN last week about their plans to stay up late for the ceremony.</p>
-<p>With Hawaii and Delaware joining the list Sunday, five states now recognize same-sex civil unions, while six other states and Washington, D.C., allow same-sex marriage, according to the National Conference of State Legislatures.</p>
-<p>Illinois, New Jersey, and Rhode Island already recognize civil unions providing state-level spousal rights to same-sex couples, the NCSL says.</p>
-<p>Marriage licenses are given to same-sex couples in Massachusetts, Connecticut, Iowa, Vermont, New Hampshire, New York and the District of Columbia, the NCSL says.</p>
-<p>California does not currently allow same-sex marriages to be performed.</p>
-<p>In May 2008, the state's Supreme Court ruled that same-sex couples have the right to marry in California. Proposition 8, a state constitutional amendment defining marriage as between a man and a woman, passed later that year.</p>
-<p>In 2010, a federal district judge ruled that Proposition 8 violated the U.S. Constitution, but enforcement of that decision was stayed pending appeal.</p>
-<p>Delaware said its new law became effective at 10 a.m. Sunday.</p>
-<p>In Hawaii, online application for civil union licenses was made available beginning at midnight, despite the fact that government offices are closed until Tuesday, the state government said.</p>
-<p>The union becomes valid after a ceremony performed by someone licensed by the Department of Health.</p>
-<p>"It means that our state supports us, and that's a really good feeling after all this time," Montgomery said at the ceremony.</p>
-<p>The laws in Delaware and Hawaii followed heated debates in both states.</p>
-<p>In 2010, then-Gov. Linda Lingle, a Republican, vetoed a similar bill in Hawaii, saying the issue needed to be put to a referendum.</p>
-<p>Some religious groups were among those pushing for the move. "We need you to mount a campaign to flood the governor's office with requests to veto the bill," Larry Silva, Catholic bishop of Honolulu, wrote on the Diocese of Honolulu's website at the time.</p>
-<p>A group called the Hawaii Family Forum argued that "a vote for civil unions is a vote for same-sex marriage."</p>
-<p>"Civil unions are a desperate and dishonest attempt to force same-sex 'marriage' on Hawaii," the group said. Despite the opposition, there was no referendum.</p>
-<p>In both Hawaii and Delaware, the language of the law emphasizes that "it is not the legislature's intent to revise the definition or eligibility requirements of marriage."</p>
-<p>Gedge and Montgomery told CNN last week they hope there will one day be federally recognized same-sex marriage.</p>
-<p>Hawaii Gov. Neil Abercrombie, a Democrat, signed the state's civil unions bill into law last February, calling it "a prime example of exercising civic courage. It is about doing what is right, no matter how difficult, no matter how much opposition."</p>
-<p>Delaware Gov. Jack Markell, a Democrat, signed his state's bill into law in May.</p>
-<p>The Delaware Family Policy Council, which says its goal is to "educate, equip, unify and engage the citizens of Delaware in advocating for family values and preserving the integrity of the family as an institution," argued that civil unions "are a springboard to redefining marriage."</p>
-<p>"You can't really talk about civil unions without talking about same-sex 'marriage' because there really isn't any difference," the group argued.</p>
-<p>But Markell, at a signing ceremony last year, said, "This bill is about a new energy and excitement. It's about a moment in our history that came about because people came together to work for it, because it became clear that Delaware's LGBT (lesbian, gay, bisexual and transgender) community is in fact part of every Delaware community. The greater good is served when we speak out and fight hard when we see that bias, prejudice or even outdated laws attempt to lessen any one of us."</p>
-<p>Bonnie Limatoc, who was part of the midnight ceremony in Hawaii on Sunday, told KITV, "The historic part for me is to be one of the first to open that door so that the rest of them after us, there's others out there that want to do this. ... We can show them, "Hey, you love somebody, you have the right to be with them the rest of your life also.'"</p>
-<p>"Our message is go for the gusto," her partner Lydia Pontin added. "Don't be ashamed."</p>
-<p class="cnn_strycbftrtxt">CNN's Brianna Keilar contributed to this report.</p>
+<p><strong>Los Angeles (CNN)</strong> -- Authorities have detained a man for questioning in connection with a suspected arson spree in the Los Angeles area, officials said Monday.</p>
+<p>It was not immediately clear whether it's the same man seen in a surveillance video released by authorities.</p>
+<p>Fifty-five "fires of concern" have broken out in the Los Angeles area since Friday, the city fire department said. Those include 45 in the Los Angeles area, nine in West Hollywood, and one in Burbank. Several came in the early hours Monday.</p>
+<p>The video released by authorities showed a man who appears to be in his late 20s to mid-30s and has a ponytail, receding hairline and dark hair.</p>
+<p>CNN saw a man with a ponytail detained in a sheriff's department vehicle near the location of several fires.</p>
+<p>Capt. Brian Dameron of the fire department said the man was arrested near Sunset Boulevard and Fairfax Avenue.</p>
+<p>Michael Moriarty, a commander in the Los Angeles Police Department's detectives bureau, said authorities have video of a man in two instances directly tied to recent fires.</p>
+<p>Authorities have not announced whether the man arrested is the man in the video.</p>
+<p>The arrest came after a series of new blazes erupted overnight, very early Monday, after authorities released the video.</p>
+<p>Cars were set on fire in Hollywood and Van Nuys, Capt. Jaime Moore of the Los Angeles Fire Department said early Monday.</p>
+<a name="em1"/>
+<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand111">
+<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/120102070122-ca-arson-suspect-00001212-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>California arsonist spotted?</span></cite>
+</div>
+<a name="em2"/>
+<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand211">
+<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
+<img src="http://i2.cdn.turner.com/cnn/dam/assets/111230052135-bts-hollywood-ca-fire-arson-00001130-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>String of arsons in Hollywood</span></cite>
+</div>
+<p>Los Angeles has not seen such a rash of fires since the city's riots in 1992.</p>
+<p>City councilman Tom LaBonge described the fires as the work of an arsonist who struck "like lightning."</p>
+<p>"There's nothing worse than something that can be prevented," the councilman said.</p>
+<p>A joint task force that includes city and county fire and police department officials is investigating the string of fires.</p>
+<p>It includes about 25 personnel from the federal Bureau of Alcohol, Tobacco, Firearms and Explosives that spokesman Patrick Gorman said would be on the scene by Monday.</p>
+<p>These personnel have "special experience to determine the cause and origin of fires," Gorman said.</p>
+<p>Moriarty said the law enforcement officers "executed a search warrant" Sunday morning at a single-family residence.</p>
+<p>"We interviewed a number of people, (but) we did not make any arrests," he said.</p>
+<p>There is a $60,000 reward in the case.</p>
+<p>Police were asking residents in the area to bring forward any surveillance video from their properties that might show suspicious activity. Residents are also being encouraged to follow the "see something, say something" motto and report suspicious behavior to authorities.</p>
+<p>Officials sought Sunday to show their commitment to finding the person or people behind the fires.</p>
+<p>"We're not going to rest and we're going to put all the resources out there," Assistant Fire Chief Patrick Butler said.</p>
+<p>They also asked residents to help deter the perpetrator by leaving porch lights on and locking their vehicles, as many of the fires were set using a car as the incendiary device.</p>
+<p>"Auto fires, as soon as they get going, they get really hot, really fast," Butler said. "They essentially give off their own combustibles."</p>
+<p>Some of the fires spread to nearby buildings, though no injuries have been reported. Among the homes damaged was one that was once occupied by The Doors frontman Jim Morrison.</p>
+<p>"When you have millions of people living with millions of cars in these very dense neighborhoods, this is becoming a new form of domestic terrorism that really has got our community in a very bad spot," West Hollywood Mayor John J. Duran told CNN Saturday.</p>
+
 <!--endclickprintinclude--><!--google_ad_section_end-->
 <!--no partner-->
 

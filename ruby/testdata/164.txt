@@ -1,0 +1,524 @@
+<p>You've probably noticed that how people talk depends on who they're talking with. And for 40 years or so, linguists and psychologists and sociologists have referred to this process as "<a href="http://en.wikipedia.org/wiki/Communication_accommodation_theory">speech accommodation</a>" or "communication accommodation" &#8212; or, for short, just plain "accommodation".  This morning's Breakfast Experiment™  explores a version of the speech accommodation effect as applied to groups rather than individuals &#8212; some ways that men and women talk differently in same-sex vs. mixed-sex conversations.</p>
+<p><span id="more-3672"></span></p>
+<p>I got the idea of doing this a couple of days ago, as I was indexing some conversational transcripts in order to find material for an experiment on a completely different topic. The transcripts in question come from a large collection of telephone conversations known as the "Fisher English" corpus, collected at the LDC in 2003 and published in <a href="http://www.ldc.upenn.edu/Catalog/catalogEntry.jsp?catalogId=LDC2004T19">2004</a> and <a href="http://www.ldc.upenn.edu/Catalog/catalogEntry.jsp?catalogId=LDC2005T19">2005</a>.  These two publications together comprise 11,699 two-person conversations, involving a diverse collection of speakers. While the sample is not demographically balanced in a strict sense, there is a good representation of speakers from all over the United States, across a wide range of ages, educational levels, occupations, and so forth.</p>
+<p>As the documentation explains,</p>
+<p style="padding-left: 30px;"><span style="color: #000080;">Under the Fisher protocol, a very large number of participants each make a few calls of short duration speaking to other participants, whom they typically do not know, about assigned topics. This maximizes inter-speaker variation and vocabulary breadth although it also increases formality. [&#8230;]</span></p>
+<p style="padding-left: 30px;"><span style="color: #000080;">To encourage a broad range of vocabulary, Fisher participants are asked to speak on an assigned topic which is selected at random from a list.</span></p>
+<p>You can see a sample transcript <a href="http://www.ldc.upenn.edu/Catalog/desc/addenda/LDC2005T19.txt">here</a>.  In that case, the randomly-assigned topic was</p>
+<p style="padding-left: 30px;"><span style="color: #800000;">If an unknown benefactor offered each of you a million dollars - with the only stipulation being that you could never speak to your best friend again - would you take the million dollars? </span></p>
+<p>You can see one of the lists of topics used <a href="http://www.ldc.upenn.edu/Catalog/docs/LDC2005T19/fe_03_topics.sgm">here</a>.  The language of these conversations is typical of small-talk among strangers, as you would expect from the way the conversations were set up.</p>
+<p>Anyhow, there were 3,143 male/male conversations, comprising 6,322,608 words; 4,736 female/female conversations, comprising 9,330,364; and 3,820 mixed-sex conversations, comprising 7,496,547 words, of which 3,840,493 came from the male participants, and 3,656,054 came from the female participants.</p>
+<p>This is enough material to get decent estimates for the rate of use of many words, not only overall but also in variously-defined slices of the collection. In particular, it occurred to me, we can look at how often certain words are used by men and women in same-sex vs. mixed-sex collections.</p>
+<table border="1" cellpadding="2">
+<tbody>
+<tr>
+<td></td>
+<td colspan="2" align="center"><strong>Same Sex</strong></td>
+<td colspan="2" align="center"><strong>Mixed Sex</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>M (count)</strong></td>
+<td><strong>F (count)</strong></td>
+<td><strong>M (count)</strong></td>
+<td><strong>F (count)</strong></td>
+</tr>
+<tr>
+<td><strong><em>daughter</em></strong></td>
+<td style="text-align: center;">380</td>
+<td style="text-align: center;">3043</td>
+<td style="text-align: center;">410</td>
+<td style="text-align: center;">696</td>
+</tr>
+<tr>
+<td><strong><em>son</em></strong></td>
+<td style="text-align: center;">581</td>
+<td style="text-align: center;">2014</td>
+<td style="text-align: center;">442</td>
+<td style="text-align: center;">872</td>
+</tr>
+<tr>
+<td><strong><em>engineering</em></strong></td>
+<td style="text-align: center;">166</td>
+<td style="text-align: center;">39</td>
+<td style="text-align: center;">70</td>
+<td style="text-align: center;">42</td>
+</tr>
+<tr>
+<td><strong><em>actor</em></strong></td>
+<td style="text-align: center;">218</td>
+<td style="text-align: center;">73</td>
+<td style="text-align: center;">76</td>
+<td style="text-align: center;">56</td>
+</tr>
+</tbody>
+</table>
+<p>These raw counts are hard to compare, since the overall number of words varies from cell to cell, e.g. from 3.7 million in the case of women in mixed-sex conversations, to 9.3 million for the case of women in same-sex conversations. The obvious thing to do is to normalize the counts to proportional frequencies, dividing them by the total number of words for the cell in question. The resulting numbers will have a lot of zeros after the decimal point, e.g.  (for female uses of son in mixed-sex conversations)<br />
+872/3656054 = 0.0002385085,<br />
+so it's convenient to express the frequency in terms of the expected incidence per million words, which in this case is<br />
+1000000*872/2545054 = 238.509,<br />
+or a frequency of 239 per million words if we round to a reasonable number of digits.</p>
+<p>Hwre's the same table with the counts expressed as frequencies per million words:</p>
+<table border="1" cellpadding="2">
+<tbody>
+<tr>
+<td></td>
+<td colspan="2" align="center"><strong>Same Sex</strong></td>
+<td colspan="2" align="center"><strong>Mixed Sex</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>M (per MW)</strong></td>
+<td><strong>F  (per MW)</strong></td>
+<td><strong>M (per MW)</strong></td>
+<td><strong>F (per MW)</strong></td>
+</tr>
+<tr>
+<td><strong><em>daughter</em></strong></td>
+<td style="text-align: center;">60</td>
+<td style="text-align: center;">326</td>
+<td style="text-align: center;">107</td>
+<td style="text-align: center;">190</td>
+</tr>
+<tr>
+<td><strong><em>son</em></strong></td>
+<td style="text-align: center;">92</td>
+<td style="text-align: center;">302</td>
+<td style="text-align: center;">115</td>
+<td style="text-align: center;">239</td>
+</tr>
+<tr>
+<td><strong><em>engineering</em></strong></td>
+<td style="text-align: center;">26</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">18</td>
+<td style="text-align: center;">11</td>
+</tr>
+<tr>
+<td><strong><em>actor</em></strong></td>
+<td style="text-align: center;">34</td>
+<td style="text-align: center;">8</td>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">15</td>
+</tr>
+</tbody>
+</table>
+<p>We can see a sort of accommodation going on in this table &#8212; the frequencies in the mixed-sex case are clearly more similar than they are in the same-sex case.</p>
+<p>How can we quantify this similarity? One possibility is to compare ratios (of male and female frequencies) in the two cases.  The greatest possible similarity would be a ratio of 1. But in this approach, a frequency difference of 1,000 vs. 100 gives a ratio of 10, whereas a frequency difference of 100 vs. 1,000 gives a ratio of 0.1.   In the way we naturally think of numbers &#8212; and certainly the way our visual system naturally interprets graphs &#8212; 10 seems a lot farther from 1 than 0.1 does.</p>
+<p>We can eliminate this asymmetry by taking the log of the ratios. Now perfect similarity is 0, and increasingly dissimilar ratios are symmetrically positive and negative. And again, for presentational convenience, we can scale the results into a convenient range of integers, in this case multiplying by 100 and rounding to the nearest integer.</p>
+<p>Adding a column for these scaled log ratios to the table above, we get:</p>
+<table border="1" cellpadding="2">
+<tbody>
+<tr>
+<td></td>
+<td colspan="3" align="center"><strong>Same Sex</strong></td>
+<td colspan="3" align="center"><strong>Mixed Sex</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Male</strong></td>
+<td><strong>Female</strong></td>
+<td><strong>100*log(M/F)</strong></td>
+<td><strong>Male</strong></td>
+<td><strong>Female</strong></td>
+<td><strong>100*log(M/F)</strong></td>
+</tr>
+<tr>
+<td><strong><em>daughter</em></strong></td>
+<td style="text-align: center;">60</td>
+<td style="text-align: center;">326</td>
+<td style="text-align: center;">-169</td>
+<td style="text-align: center;">107</td>
+<td style="text-align: center;">190</td>
+<td style="text-align: center;">-58</td>
+</tr>
+<tr>
+<td><strong><em>son</em></strong></td>
+<td style="text-align: center;">32</td>
+<td style="text-align: center;">302</td>
+<td style="text-align: center;">-119</td>
+<td style="text-align: center;">115</td>
+<td style="text-align: center;">239</td>
+<td style="text-align: center;">-73</td>
+</tr>
+<tr>
+<td><strong><em>engineering</em></strong></td>
+<td style="text-align: center;">26</td>
+<td style="text-align: center;">4</td>
+<td style="text-align: center;">184</td>
+<td style="text-align: center;">18</td>
+<td style="text-align: center;">11</td>
+<td style="text-align: center;">46</td>
+</tr>
+<tr>
+<td><strong><em>actor</em></strong></td>
+<td style="text-align: center;">34</td>
+<td style="text-align: center;">8</td>
+<td style="text-align: center;">148</td>
+<td style="text-align: center;">20</td>
+<td style="text-align: center;">15</td>
+<td style="text-align: center;">26</td>
+</tr>
+</tbody>
+</table>
+<p>In each row, we can see that the log ratio in the mixed-sex conversations is closer to zero (i.e. the usage frequencies are more similar) than in the same-sex conversations.</p>
+<p>Although these counts are plenty high enough to give us statistically-significant results, the data for such words come from a small to moderate proportion of conversations. Thus it's plausible that men use the word <em>engineering</em> more than women do &#8212; but this word was used in only 210 of 11,699 conversations. One way to make a more convincing case for the reality of this group accommodation effect would be to look at the patterns for a lot of words &#8212; but another would be to look sex differences in very frequent words.</p>
+<p>And as James Pennbaker and others have repeatedly shown over the years, such differences do exist. (For a review, see Matthew Newman et al., "<a href="http://homepage.psy.utexas.edu/HomePage/Faculty/Pennebaker/Reprints/NewmanSexDif2007.pdf">Gender Differences in Language Use: An Analysis of 14,000 Text Samples</a>", <em>Discourse Processes</em> 2008.) In particular, there are modest but significant differences in the relative frequency with which men and women use some pronouns, including some very common ones.</p>
+<p>So here's a table, showing pronoun frequency (per million words) for men and women in same-sex vs. mixed-sex conversations from the Fisher English collection, along with the scaled log ratios. I've included less common as well as more common pronouns.</p>
+<table border="1" cellpadding="2">
+<tbody>
+<tr>
+<td></td>
+<td colspan="3" align="center"><strong>Same Sex</strong></td>
+<td colspan="3" align="center"><strong>Mixed Sex</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Male</strong></td>
+<td><strong>Female</strong></td>
+<td><strong>100*log(M/F)</strong></td>
+<td><strong>Male</strong></td>
+<td><strong>Female</strong></td>
+<td><strong>100*log(M/F)</strong></td>
+</tr>
+<tr>
+<td><strong><em>I</em></strong></td>
+<td align="right">42035</td>
+<td align="right">43758</td>
+<td align="center">-4</td>
+<td align="right">42549</td>
+<td align="right">43176</td>
+<td align="center">-1</td>
+</tr>
+<tr>
+<td><strong><em>me</em></strong></td>
+<td align="right">2441</td>
+<td align="right">2929</td>
+<td align="center">-18</td>
+<td align="right">2544</td>
+<td align="right">2779</td>
+<td align="center">-9</td>
+</tr>
+<tr>
+<td><em><strong>my</strong></em></td>
+<td align="right">4435</td>
+<td align="right">6763</td>
+<td align="center">-42</td>
+<td align="right">4899</td>
+<td align="right">5839</td>
+<td align="center">-18</td>
+</tr>
+<tr>
+<td><em><strong>mine</strong></em></td>
+<td align="right">134</td>
+<td align="right">245</td>
+<td align="center">-60</td>
+<td align="right">150</td>
+<td align="right">165</td>
+<td align="center">-46</td>
+</tr>
+<tr>
+<td><strong><em>you</em></strong></td>
+<td align="right">34967</td>
+<td align="right">30579</td>
+<td align="center">13</td>
+<td align="right">32958</td>
+<td align="right">32379</td>
+<td align="center">2</td>
+</tr>
+<tr>
+<td><strong><em>your</em></strong></td>
+<td align="right">2082</td>
+<td align="right">2118</td>
+<td align="center">-2</td>
+<td align="right">2164</td>
+<td align="right">2226</td>
+<td align="center">-3</td>
+</tr>
+<tr>
+<td><em><strong>yours</strong></em></td>
+<td align="right">29</td>
+<td align="right">42</td>
+<td align="center">-36</td>
+<td align="right">35</td>
+<td align="right">33</td>
+<td align="center">8</td>
+</tr>
+<tr>
+<td><em><strong>he</strong></em></td>
+<td align="right">3363</td>
+<td align="right">4521</td>
+<td align="center">-30</td>
+<td align="right">3230</td>
+<td align="right">3984</td>
+<td align="center">-21</td>
+</tr>
+<tr>
+<td><em><strong>him</strong></em></td>
+<td align="right">665</td>
+<td align="right">982</td>
+<td align="center">-39</td>
+<td align="right">650</td>
+<td align="right">847</td>
+<td align="center">-27</td>
+</tr>
+<tr>
+<td><em><strong>his</strong></em></td>
+<td align="right">581</td>
+<td align="right">723</td>
+<td align="center">-22</td>
+<td align="right">571</td>
+<td align="right">659</td>
+<td align="center">-14</td>
+</tr>
+<tr>
+<td><em><strong>she</strong></em></td>
+<td align="right">1589</td>
+<td align="right">2992</td>
+<td align="center">-63</td>
+<td align="right">1889</td>
+<td align="right">2242</td>
+<td align="center">-17</td>
+</tr>
+<tr>
+<td><em><strong>her</strong></em></td>
+<td align="right">593</td>
+<td align="right">1223</td>
+<td align="center">-72</td>
+<td align="right">687</td>
+<td align="right">908</td>
+<td align="center">-28</td>
+</tr>
+<tr>
+<td><em><strong>hers</strong></em></td>
+<td align="right">4</td>
+<td align="right">10</td>
+<td align="center">-98</td>
+<td align="right">4</td>
+<td align="right">8</td>
+<td align="center">-58</td>
+</tr>
+<tr>
+<td><em><strong>it</strong></em></td>
+<td align="right">25158</td>
+<td align="right">24712</td>
+<td align="center">2</td>
+<td align="right">24569</td>
+<td align="right">24336</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td><em><strong>its</strong></em></td>
+<td align="right">78</td>
+<td align="right">63</td>
+<td align="center">20</td>
+<td align="right">67</td>
+<td align="right">66</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td><em><strong>we</strong></em></td>
+<td align="right">5209</td>
+<td align="right">7177</td>
+<td align="center">-32</td>
+<td align="right">5615</td>
+<td align="right">6343</td>
+<td align="center">-12</td>
+</tr>
+<tr>
+<td><em><strong>us</strong></em></td>
+<td align="right">563</td>
+<td align="right">775</td>
+<td align="center">-32</td>
+<td align="right">621</td>
+<td align="right">718</td>
+<td align="center">-14</td>
+</tr>
+<tr>
+<td><em><strong>our</strong></em></td>
+<td align="right">767</td>
+<td align="right">1088</td>
+<td align="center">-35</td>
+<td align="right">819</td>
+<td align="right">962</td>
+<td align="center">-16</td>
+</tr>
+<tr>
+<td><em><strong>ours</strong></em></td>
+<td align="right">20</td>
+<td align="right">39</td>
+<td align="center">-67</td>
+<td align="right">22</td>
+<td align="right">30</td>
+<td align="center">-29</td>
+</tr>
+<tr>
+<td><em><strong>they</strong></em></td>
+<td align="right">11860</td>
+<td align="right">12933</td>
+<td align="center">-9</td>
+<td align="right">12535</td>
+<td align="right">12741</td>
+<td align="center">-2</td>
+</tr>
+<tr>
+<td><em><strong>them</strong></em></td>
+<td align="right">1834</td>
+<td align="right">2233</td>
+<td align="center">-20</td>
+<td align="right">1944</td>
+<td align="right">2150</td>
+<td align="center">-10</td>
+</tr>
+<tr>
+<td><em><strong>their</strong></em></td>
+<td align="right">1292</td>
+<td align="right">1445</td>
+<td align="center">-11</td>
+<td align="right">1377</td>
+<td align="right">1460</td>
+<td align="center">-6</td>
+</tr>
+<tr>
+<td><em><strong>theirs</strong></em></td>
+<td align="right">7</td>
+<td align="right">11</td>
+<td align="center">-40</td>
+<td align="right">8</td>
+<td align="right">9</td>
+<td align="center">-20</td>
+</tr>
+</tbody>
+</table>
+<p>In 22 out of 23 cases, the frequencies in the mixed-sex cases are more similar (log ratio closer to zero) than in the same-sex cases. Here's a graphical presentation of the same data:</p>
+<p><a href="http://languagelog.ldc.upenn.edu/myl/Accommodation1.png"><img title="Click to embiggen" src="http://languagelog.ldc.upenn.edu/myl/Accommodation1.png" alt="" width="490" /></a></p>
+<p>Since these are relatively short conversations, most likely this effect represents speakers taking a different approach to the topic, rather than speakers adjusting their vocabulary based on their interlocutor's word usage. (We could  explore this by looking at rates in the first and second halves of the conversations &#8212; but that's an experiment for some other breakfast hour&#8230;)</p>
+<p>Another area where there are well-documented sex differences in word frequency is cussing. Some examples from the same data set:</p>
+<table border="1" cellpadding="2">
+<tbody>
+<tr>
+<td></td>
+<td colspan="3" align="center"><strong>Same Sex</strong></td>
+<td colspan="3" align="center"><strong>Mixed Sex</strong></td>
+</tr>
+<tr>
+<td></td>
+<td><strong>Male</strong></td>
+<td><strong>Female</strong></td>
+<td><strong>100*log(M/F)</strong></td>
+<td><strong>Male</strong></td>
+<td><strong>Female</strong></td>
+<td><strong>100*log(M/F)</strong></td>
+</tr>
+<tr>
+<td><strong>gosh</strong></td>
+<td align="right">42</td>
+<td align="right">267</td>
+<td align="center">-184</td>
+<td align="right">77</td>
+<td align="right">184</td>
+<td align="center">-87</td>
+</tr>
+<tr>
+<td><strong>goodness</strong></td>
+<td align="right">22</td>
+<td align="right">186</td>
+<td align="center">-216</td>
+<td align="right">43</td>
+<td align="right">124</td>
+<td align="center">-104</td>
+</tr>
+<tr>
+<td><strong>shit</strong></td>
+<td align="right">135</td>
+<td align="right">11</td>
+<td align="center">251</td>
+<td align="right">37</td>
+<td align="right">25</td>
+<td align="center">39</td>
+</tr>
+<tr>
+<td><strong>hell</strong></td>
+<td align="right">106</td>
+<td align="right">24</td>
+<td align="center">149</td>
+<td align="right">58</td>
+<td align="right">47</td>
+<td align="center">22</td>
+</tr>
+<tr>
+<td><strong>damn</strong></td>
+<td align="right">63</td>
+<td align="right">12</td>
+<td align="center">167</td>
+<td align="right">29</td>
+<td align="right">26</td>
+<td align="center">13</td>
+</tr>
+<tr>
+<td><strong>fucking</strong></td>
+<td align="right">39</td>
+<td align="right">2</td>
+<td align="center">302</td>
+<td align="right">8</td>
+<td align="right">8</td>
+<td align="center">5</td>
+</tr>
+<tr>
+<td><strong>ass</strong></td>
+<td align="right">32</td>
+<td align="right">4</td>
+<td align="center">205</td>
+<td align="right">11</td>
+<td align="right">11</td>
+<td align="center">2</td>
+</tr>
+<tr>
+<td><strong>jesus</strong></td>
+<td align="right">21</td>
+<td align="right">7</td>
+<td align="center">105</td>
+<td align="right">26</td>
+<td align="right">20</td>
+<td align="center">43</td>
+</tr>
+<tr>
+<td><strong>pissed</strong></td>
+<td align="right">21</td>
+<td align="right">5</td>
+<td align="center">149</td>
+<td align="right">15</td>
+<td align="right">11</td>
+<td align="center">36</td>
+</tr>
+<tr>
+<td><strong>fuck</strong></td>
+<td align="right">21</td>
+<td align="right">1</td>
+<td align="center">309</td>
+<td align="right">7</td>
+<td align="right">5</td>
+<td align="center">32</td>
+</tr>
+<tr>
+<td><strong>christ</strong></td>
+<td align="right">12</td>
+<td align="right">5</td>
+<td align="center">89</td>
+<td align="right">9</td>
+<td align="right">8</td>
+<td align="center">8</td>
+</tr>
+<tr>
+<td><strong>piss</strong></td>
+<td align="right">6</td>
+<td align="right">2</td>
+<td align="center">121</td>
+<td align="right">3</td>
+<td align="right">4</td>
+<td align="center">-31</td>
+</tr>
+</tbody>
+</table>
+<p>And again, the results in graphical form:</p>
+<p><a href="http://languagelog.ldc.upenn.edu/myl/Accommodation2.png"><img title="Click to embiggen" src="http://languagelog.ldc.upenn.edu/myl/Accommodation2.png" alt="" width="490" /></a></p>

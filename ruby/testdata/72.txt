@@ -1,39 +1,27 @@
 <div class="cnn_strycntntlft">
 <!--startclickprintexclude-->
-<div class="cnn_stryimg640captioned"><img src="http://i2.cdn.turner.com/cnn/dam/assets/111231075257-california-firefighter-story-top.jpg" alt="Officials are offering a $60,000 reward for information leading to an arrest in the arson spree in the Hollywood area." border="0" height="360" width="640"/></div>
-<div class="cnn_stryimg640caption"><div class="cnn_strycaptiontxt">Officials are offering a $60,000 reward for information leading to an arrest in the arson spree in the Hollywood area.</div></div>
-<a name="em0"/>
 <div class="cnn_strylftcntnt"><div class="cnn_strylctcntr">
 
-<ul class="cnn_bulletbin cnnStryHghLght"><!--google_ad_section_start--><li>Seven fires are reported overnight New Year's Eve</li>
-<li>No arrests have been made</li>
-<li>A joint task force is investigating the suspected arson spree</li>
+<ul class="cnn_bulletbin cnnStryHghLght"><!--google_ad_section_start--><li>A 12-year-old boy was watching fireworks when he was hit, a sheriff's office says</li>
+<li>A bullet -- possibly fired from miles away -- went through the top of his head</li>
+<li>He is now in critical condition in a Tampa hospital</li>
 <!--google_ad_section_end-->
 </ul></div></div>
 <!--endclickprintexclude--><!--google_ad_section_start--><!--startclickprintinclude-->
-<p><strong>Los Angeles (CNN)</strong> -- The number of fires believed to be linked to an arson spree has risen to 39 across the Los Angeles area, fire officials said Sunday.</p>
-<p>A total of 32 fires have been set in Los Angeles and seven others in neighboring West Hollywood since the suspected spree began Friday, Assistant Chief Patrick Butler of the Los Angeles Fire Department said. Seven of those fires occurred Saturday night, with one described as "significant," though only cars were damaged, fire officials said.</p>
-<p>A joint task force comprised of city and county fire officials and police departments is investigating the string of fires.</p>
-<p>Despite a $60,000 reward, authorities had not made an arrest by Sunday. Police are asking residents in the area to bring forward any surveillance video from their properties that might show suspicious activity. Residents are also being encouraged to follow the "see something, say something" motto and report suspicious behavior to authorities.</p>
-<p>Officials sought Sunday to show their commitment to finding the person or people behind the fires.</p>
-<a name="em1"/>
-<div class="cnn_strylftcntnt cnn_strylftcexpbx" id="expand16">
-<div class="cnn_strylceclbtn"><img src="http://i.cdn.turner.com/cnn/.e/img/3.0/mosaic/bttn_close.gif" alt="" border="0" height="23" width="58"/></div>
-<img src="http://i2.cdn.turner.com/cnn/dam/assets/111230052135-bts-hollywood-ca-fire-arson-00001130-story-body.jpg" alt="" border="0" class="box-image" height="120" width="214"/><cite class="expCaption"><span>String of arsons in Hollywood</span></cite>
-</div>
-<p>"We're not going to rest and we're going to put all the resources out there," Butler said.</p>
-<p>They also asked residents to help deter the perpetrator by leaving porch lights on and locking their vehicles, as many of the fires were set using a car as the incendiary device.</p>
-<p>"Auto fires, as soon as they get going, they get really hot, really fast," Butler said. "They essentially give off their own combustibles."</p>
-<p>Some of the fires spread to nearby buildings, though no injuries have been reported. Among the homes damaged was one that was once occupied by The Doors frontman Jim Morrison.</p>
-<p>"When you have millions of people living with millions of cars in these very dense neighborhoods, this is becoming a new form of domestic terrorism that really has got our community in a very bad spot," West Hollywood Mayor John J. Duran told CNN Saturday.</p>
-
+<p><strong>(CNN)</strong> -- A west Florida boy is in critical condition after a bullet apparently fired skyward during a New Year's celebration went into his head, authorities said Sunday.</p>
+<p>The 12-year-old boy was sitting in the front yard of his Ruskin, Florida, home watching fireworks around 1 a.m. Sunday when he fell to the ground, bleeding from the nose and eyes, Larry McKinnon of the Hillsborough County Sheriff's Office said Sunday in a statement.</p>
+<p>The victim's mother drove him to South Bay Hospital in Sun City Center, where doctors determined that a gunshot had gone through the top of the boy's head. The child was then transported to Tampa General Hospital, where he was in critical condition Sunday afternoon with the bullet still lodged in his head, McKinnon said.</p>
+<p>No one in the immediate area around the victim's house was firing a gun, the boy's relatives and neighbors told detectives. Police believe that celebratory gunfire, possibly shot from miles away, wounded the boy.</p>
+<p>If true, this would not be the first time that a child was inadvertently shot in the Southeast on New Year's Eve and in the hours after midnight. In 2009, 4-year-old Marquel Peters died after a bullet went through the roof a suburban Atlanta church and hit him.</p>
+<p>The boy's mother, Nathalee Peters, has since launched an online effort -- called Marquel's Pledge -- to urge people not to shoot into the air in celebration. It's one of several such campaigns nationwide, including one in Miami called, "One bullet kills the party."</p>
+<p class="cnn_strycbftrtxt">CNN's George Howell contributed to this report.</p>
 <!--endclickprintinclude--><!--google_ad_section_end-->
 <!--no partner-->
 
 <div class="cnn_strybtmcntnt">
 
 
-<!-- ADSPACE: us/mmst/adlinks.607x95 --><!-- CALLOUT|http://ads.cnn.com/html.ng/site=cnn_international&cnn_intl_pagetype=mmst&cnn_intl_position=607x95_adlinks&cnn_intl_rollup=us&page.allowcompete=no&params.styles=fs|CALLOUT -->&#13;
+<!-- ADSPACE: us/bst/adlinks.607x95 --><!-- CALLOUT|http://ads.cnn.com/html.ng/site=cnn_international&cnn_intl_pagetype=bst&cnn_intl_position=607x95_adlinks&cnn_intl_rollup=us&page.allowcompete=no&params.styles=fs|CALLOUT -->&#13;
 
 <style type="text/css" media="screen"><![CDATA[@import "http://media.disqus.com/themes/cnn2/cnn2.css";]]></style></div>
 </div><img src="http://pixel.quantserve.com/pixel/p-89EKCgBk8MZdE.gif" border="0" height="1" width="1" />

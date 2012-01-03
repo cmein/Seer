@@ -18,3 +18,14 @@ http://fulltextrssfeed.com/rss.cnn.com/rss/edition_sport.rss
 http://rss.cnn.com/rss/edition_connecttheworld.rss
 http://rss.cnn.com/rss/edition_ime.rss
 http://rss.cnn.com/rss/edition_inthefield.rss
+http://underthebutton.com/feed/
+http://www.jingdaily.com/en/feed/
+http://languagelog.ldc.upenn.edu/nll/?feed=rss2
+http://fulltextrssfeed.com/www.newyorker.com/services/mrss/feeds/reporting.xml
+http://fulltextrssfeed.com/www.newyorker.com/services/mrss/feeds/everything.xml
+http://fulltextrssfeed.com/www.newyorker.com/services/mrss/feeds/arts.xml
+http://fulltextrssfeed.com/www.newyorker.com/services/mrss/feeds/humor.xml
+http://fulltextrssfeed.com/www.newyorker.com/services/mrss/feeds/fiction.xml
+http://fulltextrssfeed.com/www.newyorker.com/services/mrss/feeds/financial.xml
+http://fulltextrssfeed.com/www.newyorker.com/services/mrss/feeds/politics.xml
+http://fulltextrssfeed.com/www.newyorker.com/online/blogs/georgepacker/rss.xml

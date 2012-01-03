@@ -1,0 +1,36 @@
+<p>Many have begged me to give up on my campaign to get journalists to stop using the term "passive" in its grammatical sense when they have no idea what it means.  Some warn me that the quest is hopeless and no one will ever listen; some say I have failed to see that some sort of metaphorical passivity is being alluded to and I should get with the lexicographical program; and some just find the experience of me pointing these cases out is like being repeatedly hit over the head with <A HREF="http://www.cambridge.org/uk/linguistics/cgel"><I>The Cambridge Grammar of the English Language</I></A>.  But I will not give up.  I will never surrender.  If we are going to be told on a weekly basis that evil is being done through the dastardly use of passive clauses &mdash; crimes being concealed, lies smuggled into our brains &mdash; then it is my job to warn Language Log readers that grammatical falsehoods are being retailed. Today we have a good example of <a href="http://www.rollingstone.com/politics/blogs/taibblog/obama-and-geithner-government-enron-style-20111220">Matt Taibbi making the usual blunder</a>: </p>
+<blockquote><p>Obama is simply not telling the truth about the supposedly insufficient penalties available to regulators. Employing the famous "mistakes were made" use of the passive tense, Obama copped out in his December&nbsp;6 speech by saying that "penalties are too weak."</p>
+</blockquote>
+<p> <span id="more-3667"></span></p>
+<p>The passive isn't a tense, but it is a well described grammatical construction type, which <i>mistakes were made</i> does exemplify; and <i>penalties are too weak</i> is not an example of it.   </p>
+<p><i>Penalties are too weak</i> is an active simple intransitive clause, with the copular verb <b><i>be</i></b> and an adjective phrase complement. For present purposes, it has exactly the same structure as any of these: <dir><br />
+<table>
+<tr>
+<td align="right"><small>Noun Phrase:</small></td>
+<td align="center"><small>Verb:</small></td>
+<td><small>Adjective Phrase</small></td>
+</tr>
+<tr>
+<td bgcolor="#FFCCCC" align="right"><i>Journalists</i></td>
+<td bgcolor="#FFCCCC" align="center"><i>are </td>
+<td bgcolor="#FFCCCC"><i>entirely ineducable</i>.</td>
+</tr>
+<tr>
+<td bgcolor="#CCFFCC" align="right"><i>Matt Taibbi</i></td>
+<td bgcolor="#CCFFCC" align="center"><i>is </td>
+<td bgcolor="#CCFFCC"><i>grammatically ignorant.</i></td>
+</tr>
+<tr>
+<td bgcolor="#CCCCFF" align="right"><i>My quest </i></td>
+<td bgcolor="#CCCCFF" align="center"><i>is </td>
+<td bgcolor="#CCCCFF"><i>quite hopeless</i>.</td>
+</tr>
+</table>
+<p></dir> </p>
+<p>Why should this be thought important?  Because there are technical terms in this world, and serious journalism should be using them in roughly the standard way.  In economics, <i>inflation</i> has a technical sense that it doesn't have in ballooning.  Inflation of a balloon means pumping gas into it, but inflation of a currency means a general rise in the average cost of goods and services (hence a concomitant decrease in the purchasing power of the currency).  You don't have to use economic technical terms if you don't want to, but you really shouldn't write newspaper columns on politics and business using the word <i>inflation</i> to mean something else, like "growth of the economy", or "hot air pumped into the political climate by spin doctors". </p>
+<p>The difference is that any newspaper editor would know enough economics to stop you if you used the word <i>inflation</i> in such a totally ignorant way, whereas, it seems, no newspaper editor knows enough elementary grammar to stop you using the word <i>passive</i> in a totally ignorant way. </p>
+<p>So Matt, if you think anti-fraud regulations are not being enforced on Wall Street firms, and that calling the penalties too weak sounds disingenuous coming from someone who has the regulators working for him, then by all means say so.  Talk about law, and banking, and regulation, and fraud, and ethics.  By all means repeat (as you do, with approval) Jeff Connaughton's point from the <i>Huffington Post</i> that the President should have said "the penalties my own regulators chose to dish out were too weak."  These are important matters, and charges of presidential disingenuousness or mendacity should be heard.  But don't make a fool of yourself by saying that the distinction between active and passive voice is implicated here.</p>
+<p>Obama didn't use the passive voice in the utterance you quote.  You don't seem to have any idea what the passive is.  I've written a <a href="http://languagelog.ldc.upenn.edu/nll/?p=2922">detailed account of it</a> but you haven't read it and probably never will.  So just lay off the syntax. It seems like you're trying to make yourself look more highly educated, and enhance your readers' level of respect for you, by making them believe falsely that you know grammatical analysis when in fact you don't.  But doesn't that count as "simply not telling the truth"?  In fact, isn't it exactly the sort of belief-manipulation we call "fraud" when it's perpetrated in the financial domain?</p>
+<p><small>
+<p>[<i>Comments have not been opened.</i>  Now, <b>that</b>'s a passive.]</p>
+<p></small></p>

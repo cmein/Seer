@@ -1,29 +1,16 @@
 <div class="cnn_strycntntlft">
 <!--startclickprintexclude-->
-<div class="cnn_stryimg640captioned"><img src="http://i2.cdn.turner.com/cnn/dam/assets/111228101238-sudan-refugees-story-top.jpg" alt="A worker lays out bags of grain at the Doro refugee camp about 26 miles from the border in South Sudan's Upper Nile state." border="0" height="360" width="640"/></div>
-<div class="cnn_stryimg640caption"><div class="cnn_strycaptiontxt">A worker lays out bags of grain at the Doro refugee camp about 26 miles from the border in South Sudan's Upper Nile state.</div></div>
-<a name="em0"/>
 <div class="cnn_strylftcntnt"><div class="cnn_strylctcntr">
 
-<ul class="cnn_bulletbin cnnStryHghLght"><!--google_ad_section_start--><li>Roughly 4,000 reinforcements are being sent to Pibor, an official says</li>
-<li>The town is under attack by 6,000 fighters from a rival tribe</li>
-<li>Casualties are still being counted from the weekend attacks, the official says</li>
+<ul class="cnn_bulletbin cnnStryHghLght"><!--google_ad_section_start--><li>Egypt's upper house elections will be finished by mid-February</li>
+<li>The announcement moves up the planned balloting by nearly three weeks</li>
 <!--google_ad_section_end-->
 </ul></div></div>
 <!--endclickprintexclude--><!--google_ad_section_start--><!--startclickprintinclude-->
-<p><strong>Khartoum, Sudan (CNN)</strong> -- Thousands of soldiers and police are being sent to reinforce South Sudanese troops and U.N. peacekeepers in a remote town that has been under attack by 6,000 fighters from a rival tribe, a military official said Monday.</p>
-<p>Roughly 4,000 army and police reinforcements were on the way to Pibor, even as authorities continued counting casualties from weekend attacks that forced thousands to flee, said Col. Philip Auger of the South Sudan army.</p>
-<p>Ethnic tensions in the South Sudan state of Jonglei have flared as tribes fight over grazing lands and water rights -- disagreements that have dissolved into cattle raids and abduction of women and children.</p>
-<p>The United Nations said it sent a battalion of peacekeepers to Pibor last week amid reports that fighters -- members of the Lou Nuer tribe -- were marching toward the town, home to the Murle tribe, after attacking the village of Lukangol.</p>
-<p>The fighters first struck Pibor on Saturday, attacking a portion that was out of the reach of U.N. peacekeepers, Auger said.</p>
-<p>Aid workers affiliated with the non-profit group Doctors Without Borders, also known as Medecins Sans Frontieres, working in the area "fled into the bush, along with the populations" of Pibor and Lukangol before the attack, said Emily Linendoll, a spokeswoman for the group.</p>
-<p>The non-profit's clinic in Lukangol was "burned and looted," she said, adding that its Pibor clinic "has been targeted."</p>
-<p>In addition to the threat of violence, Linendoll said that Doctors Without Borders believes "thousands are currently without access to water, food or health care" in the region.</p>
-<p>Doctors Without Borders "is extremely worried for the populations of ... Lukangol and Pibor," she said.</p>
-<p>The attack on Pibor follows reports last week that Lou Nuer fighters raided Lukangol, burning it to the ground and forcing thousands to flee toward Pibor.</p>
-<p>U.N. Secretary-General Ban Ki-moon last week urged the groups to work with the government of South Sudan to find solutions.</p>
-<p>South Sudan's vice president, Riek Machar, is leading an initiative to bridge the differences between the Lou Nuer and Murle tribes, including encouraging the armed groups to disband and go home, the United Nations has said.</p>
-<p>The violence in Jonglei state is the latest to rock South Sudan, which officially gained its statehood in July after separating from the north.</p>
+<p><strong>(CNN)</strong> -- Egypt's ruling military council has moved up the scheduled elections for the upper house of parliament by nearly three weeks, with voting now scheduled to start in late January, the state news agency MENA reported Sunday.</p>
+<p>Balloting will be held in two stages instead of three, first on January 29-30 and then on February 14-15, MENA said, citing a decree from the Supreme Council of the Armed Forces. The goal is to have winners seated by February 28.</p>
+<p>Elections for the lower house were completed in December.</p>
+<p>The generals have ruled Egypt since the revolt that toppled longtime strongman Hosni Mubarak last February. Sunday's announcement follows weeks of street protests calling on them to cede power to a civilian government.</p>
 
 <!--endclickprintinclude--><!--google_ad_section_end-->
 <!--no partner-->
@@ -31,7 +18,7 @@
 <div class="cnn_strybtmcntnt">
 
 
-<!-- ADSPACE: africa/mmst/adlinks.607x95 --><!-- CALLOUT|http://ads.cnn.com/html.ng/site=cnn_international&cnn_intl_pagetype=mmst&cnn_intl_position=607x95_adlinks&cnn_intl_rollup=africa&page.allowcompete=no&params.styles=fs|CALLOUT -->&#13;
+<!-- ADSPACE: africa/bst/adlinks.607x95 --><!-- CALLOUT|http://ads.cnn.com/html.ng/site=cnn_international&cnn_intl_pagetype=bst&cnn_intl_position=607x95_adlinks&cnn_intl_rollup=africa&page.allowcompete=no&params.styles=fs|CALLOUT -->&#13;
 
 <style type="text/css" media="screen"><![CDATA[@import "http://media.disqus.com/themes/cnn2/cnn2.css";]]></style></div>
 </div><img src="http://pixel.quantserve.com/pixel/p-89EKCgBk8MZdE.gif" border="0" height="1" width="1" />
