@@ -12,17 +12,14 @@ Notes: Syntatically and semantically unbiased; core features will be based purel
 Rails environment is basically setup but all the "real" code is currently in /ruby for testing.
 
 ####samplegetter.rb
-To install it, you just need to add it to your Gemfile:
-    gem 'lazy_high_charts'
-
 run from / in the command line with:
-    ruby ruby/samplegetter.rb
+    <pre>$ ruby ruby/samplegetter.rb</pre>
 
 This pulls from an array of feeds from ruby/samplefeeds.txt and saves their entries' contents as .txt files to ruby/testdata
 
 ####textsplitter.rb
 run from / in the command line with:
-    ruby ruby/textsplitter.rb
+    <pre>$ ruby ruby/textsplitter.rb</pre>
 
 Takes the .txt files created by samplegetter.rb (ruby/testdata/\*.txt) and analyzes them. Prints each unique word and its frequency, mean, and standard deviation, and saves all this output to ruby/testdata.csv. Estimates which words should belong on the blacklist by z-score and outputs the list to ruby/blacklist.txt.
 
