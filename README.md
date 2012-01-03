@@ -11,19 +11,18 @@ Rails environment is basically setup but all the "real" code is currently in /ru
 
 ####samplegetter.rb
 run from / in the command line with:
-	$ ruby ruby/samplegetter.rb
+    $ ruby ruby/samplegetter.rb
 
 This pulls from an array of feeds from ruby/samplefeeds.txt and saves their entries' contents as .txt files to ruby/testdata
 
 ####textsplitter.rb
 
 run from / in the command line with:
-	$ ruby ruby/textsplitter.rb
+    $ ruby ruby/textsplitter.rb
 
 Takes the .txt files created by samplegetter.rb (ruby/testdata/\*.txt) and analyzes them. Prints each unique word and its frequency, mean, and standard deviation, and saves all this output to ruby/testdata.csv. Estimates which words should belong on the blacklist by z-score and outputs the list to ruby/blacklist.txt.
 
-
-
+---
 
 ###Unresolved Issues
 - Alternate spellings & misspellings
@@ -62,13 +61,13 @@ Takes the .txt files created by samplegetter.rb (ruby/testdata/\*.txt) and analy
 - For conjugations, consider using: https://github.com/ged/linguistics
 - So far, the biggest contributor to program time is downloading all the entries. With enough feeds to check, it may not be feasible to check multiple categories each hour.
 
-
+---
 
 ##Classes
-Word => { name => string }
-Category => { 
+- Word => { name => string }
+- Category => { 
 	blacklist => set of words, 
 	moving average paramter => array of options [type, subset size, alpha coefficient]
 	}
-Feed =>
-Feed Entry =>
+- Feed =>
+- Feed Entry =>
