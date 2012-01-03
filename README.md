@@ -12,13 +12,12 @@ Notes: Syntatically and semantically unbiased; core features will be based purel
 Rails environment is basically setup but all the "real" code is currently in /ruby for testing.
 
 ####samplegetter.rb
-run from / in the command line with:
-    $ ruby ruby/samplegetter.rb
+run from / in the command line with:  
+	'$ ruby ruby/samplegetter.rb'
 
 This pulls from an array of feeds from ruby/samplefeeds.txt and saves their entries' contents as .txt files to ruby/testdata
 
 ####textsplitter.rb
-
 run from / in the command line with:
     $ ruby ruby/textsplitter.rb
 
@@ -31,9 +30,8 @@ Takes the .txt files created by samplegetter.rb (ruby/testdata/\*.txt) and analy
 - Acronyms
 - Special characters
 - Plurals
-- Conjugations
+- Conjugations  
   
-
 
 ###Future Features
 - Get full posts from feeds that only show summaries (like: http://fulltextrssfeed.com/ & http://www.wizardrss.com/)
