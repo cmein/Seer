@@ -12,6 +12,9 @@ Notes: Syntatically and semantically unbiased; core features will be based purel
 Rails environment is basically setup but all the "real" code is currently in /ruby for testing.
 
 ####samplegetter.rb
+To install it, you just need to add it to your Gemfile:
+    gem 'lazy_high_charts'
+
 run from / in the command line with:
     ruby ruby/samplegetter.rb
 
