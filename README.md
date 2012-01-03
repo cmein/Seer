@@ -13,13 +13,13 @@ Rails environment is basically setup but all the "real" code is currently in /ru
 
 ####samplegetter.rb
 run from / in the command line with:
-    <pre>$ ruby ruby/samplegetter.rb</pre>
+    ```$ ruby ruby/samplegetter.rb```
 
 This pulls from an array of feeds from ruby/samplefeeds.txt and saves their entries' contents as .txt files to ruby/testdata
 
 ####textsplitter.rb
 run from / in the command line with:
-    <pre>$ ruby ruby/textsplitter.rb</pre>
+    ```$ ruby ruby/textsplitter.rb```
 
 Takes the .txt files created by samplegetter.rb (ruby/testdata/\*.txt) and analyzes them. Prints each unique word and its frequency, mean, and standard deviation, and saves all this output to ruby/testdata.csv. Estimates which words should belong on the blacklist by z-score and outputs the list to ruby/blacklist.txt.
 
