@@ -280,6 +280,10 @@ label {
 	margin:2px 0 4px 0;
 }
 
+.sublabel {
+	font-size:12px;
+}
+
 a {
 	color:#3F939D;
 }

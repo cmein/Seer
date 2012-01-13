@@ -84,4 +84,5 @@ File.new("ruby/blacklist.txt", "w").write(blacklist_string)
 data_string << ("Population," + freqs.size.to_s + "," + pop_mean.to_s + "," + pop_sd.to_s + "," + "0" + "," + total_words.to_s + "," + "0" + "\n")
 File.new("ruby/testdata.csv", "w").write(data_string)		# writes test data CSV output
 
-puts freqs
+#puts freqs
+#puts stats

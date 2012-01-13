@@ -1,0 +1,5 @@
+adapter: 'sqlite3'
+host: 'localhost'
+user: 'root'
+password: 'root'
+database: 'my_database'

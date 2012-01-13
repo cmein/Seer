@@ -7,6 +7,7 @@ Seer::Application.routes.draw do
 			get :updatefeed, :on => :member
 			resources :feed_entries
 		end
+		resources :words
 	end
   
   # The priority is based upon order of creation:

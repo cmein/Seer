@@ -1,5 +1,15 @@
 <div id="category_main">
-	<%= render "category_header", :category => @category %>	
+	<%= render "category_header", :category => @category %>
+	<div id="category_settings">
+		<b>Alert Threshold:</b> p = <%= @category.alert_threshold %><br />
+		<b>Word Settings:</b> <u>Trial Length:</u> <%= @category.word_settings["trial_length"] %> intervals; 
+			<u>Blacklist Z-Score Threshold:</u> <%= @category.word_settings["blacklist_z"] %><br />
+		<b>Feed Settings:</b> <u>Trial Length:</u> <%= @category.feed_settings["trial_length"] %> intervals;
+			<u>Minimum Posting Rate:</u> <%= @category.feed_settings["min_post_rate"] %>posts/week; 
+			<u>Pruning Threshold:</u> <%= @category.feed_settings["prune_threshold"] %><br />
+		<b>Moving Average Parameters:</b> <%= @category.map %><br />
+		<b>Word Stats:</b> <%= @category.word_stats %>
+	</div>
 </div><!-- #category_main -->
 
 <%= render "shared/feeds_list", :category => @category %>

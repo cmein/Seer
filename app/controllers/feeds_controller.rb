@@ -48,7 +48,7 @@ class FeedsController < ApplicationController
 
 	def updatefeed
 		@feed = Feed.find(params[:id])
-		@feed.update_single_feed_entries
+		@feed.update_feed_entries
 		redirect_to category_feed_path(@category, @feed) 
 	end
 

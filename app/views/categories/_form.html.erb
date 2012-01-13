@@ -6,26 +6,34 @@
 	<%= f.text_field :name %><br /><br />
 
 	<%= f.label :alert_threshold %><br />
-	<%= f.text_field :alert_threshold %><br /><br />
+	<%= f.text_field :alert_threshold, :size => 5 %><br /><br />
 
 	<%= f.label :word_settings %><br />
 	<%= f.fields_for :word_settings do |w| %>
-		<%= w.label :trial_length %>: <%= w.text_field :trial_length, :value => @category.word_settings["trial_length"] %>
-        <%= w.label :blacklist_z %>: <%= w.text_field :blacklist_z, :value => @category.word_settings["blacklist_z"] %>
+		<%= w.label :trial_length, :class => "sublabel" %><br />
+			<%= w.text_field :trial_length, :size => 5, :value => @category.word_settings["trial_length"] %><br />
+		<%= w.label :blacklist_z, :class => "sublabel" %><br />
+			<%= w.text_field :blacklist_z, :size => 5, :value => @category.word_settings["blacklist_z"] %><br />
 	<% end %><br /><br />
 
 	<%= f.label :feed_settings %><br />
 	<%= f.fields_for :feed_settings do |w| %>
-		<%= w.label :trial_length %>: <%= w.text_field :trial_length, :value => @category.feed_settings["trial_length"] %>
-        <%= w.label :min_post_rate %>: <%= w.text_field :min_post_rate, :value => @category.feed_settings["min_post_rate"] %>
-        <%= w.label :prune_threshold %>: <%= w.text_field :prune_threshold, :value => @category.feed_settings["prune_threshold"] %>
+		<%= w.label :trial_length, :class => "sublabel" %><br />
+			<%= w.text_field :trial_length, :size => 5, :value => @category.feed_settings["trial_length"] %><br />
+		<%= w.label :min_post_rate, :class => "sublabel" %><br />
+			<%= w.text_field :min_post_rate, :size => 5, :value => @category.feed_settings["min_post_rate"] %><br />
+		<%= w.label :prune_threshold, :class => "sublabel" %><br />
+			<%= w.text_field :prune_threshold, :size => 5, :value => @category.feed_settings["prune_threshold"] %><br />
 	<% end %><br /><br />
 
 	<%= f.label :map %><br />
 	<%= f.fields_for :map do |w| %>
-		<%= w.label :type %>: <%= w.text_field :type, :value => @category.map["type"] %>
-        <%= w.label :subset_size %>: <%= w.text_field :subset_size, :value => @category.map["subset_size"] %>
-        <%= w.label :alpha %>: <%= w.text_field :alpha, :value => @category.map["alpha"] %>
+		<%= w.label :type, :class => "sublabel" %><br />
+			<%= w.text_field :type, :size => 5, :value => @category.map["type"] %><br />
+		<%= w.label :subset_size, :class => "sublabel" %><br />
+			<%= w.text_field :subset_size, :size => 5, :value => @category.map["subset_size"] %><br />
+		<%= w.label :alpha, :class => "sublabel" %><br />
+			<%= w.text_field :alpha, :size => 5, :value => @category.map["alpha"] %><br />
 	<% end %><br /><br />
 
 	<%= f.submit %>

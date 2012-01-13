@@ -1,83 +1,64 @@
 class WordsController < ApplicationController
-  # GET /words
-  # GET /words.json
-  def index
-    @words = Word.all
 
-    respond_to do |format|
-      format.html # index.html.erb
-      format.json { render json: @words }
-    end
-  end
+	before_filter :get_category
 
-  # GET /words/1
-  # GET /words/1.json
-  def show
-    @word = Word.find(params[:id])
+	def index
+		@words = @category.words
+	end
 
-    respond_to do |format|
-      format.html # show.html.erb
-      format.json { render json: @word }
-    end
-  end
+	def new
+		@word = @category.words.build
+	end
 
-  # GET /words/new
-  # GET /words/new.json
-  def new
-    @word = Word.new
+	def create
+		@word = @category.words.build(params[:word])
+		respond_to do |format|
+		  if @word.save
+			format.html { redirect_to new_category_word_path(@category) }
+		  else     
+			format.html { render action: "new", :id => @category.id }
+		  end
+		end
+	end
 
-    respond_to do |format|
-      format.html # new.html.erb
-      format.json { render json: @word }
-    end
-  end
+	def show
+		@word = Word.find(params[:id])
+	end
 
-  # GET /words/1/edit
-  def edit
-    @word = Word.find(params[:id])
-  end
+	def edit
+		@word = Word.find(params[:id])
+	end
 
-  # POST /words
-  # POST /words.json
-  def create
-    @word = Word.new(params[:word])
+	def update
+		@word = Word.find(params[:id])
+		if @word.update_attributes(params[:word])
+			flash[:notice] = "Successfully updated word."
+			redirect_to category_url(@word.category_id)
+		else
+			render :action => 'edit'
+		end
+	end
 
-    respond_to do |format|
-      if @word.save
-        format.html { redirect_to @word, notice: 'Word was successfully created.' }
-        format.json { render json: @word, status: :created, location: @word }
-      else
-        format.html { render action: "new" }
-        format.json { render json: @word.errors, status: :unprocessable_entity }
-      end
-    end
-  end
+	def destroy
+		@word = Word.find(params[:id])
+		@word.destroy
+		flash[:notice] = "Successfully destroyed word."
+		redirect_to category_url(@word.category_id)
+	end
 
-  # PUT /words/1
-  # PUT /words/1.json
-  def update
-    @word = Word.find(params[:id])
+	def updateword
+		@word = Word.find(params[:id])
+		@word.update_single_word_entries
+		redirect_to category_word_path(@category, @word) 
+	end
 
-    respond_to do |format|
-      if @word.update_attributes(params[:word])
-        format.html { redirect_to @word, notice: 'Word was successfully updated.' }
-        format.json { head :ok }
-      else
-        format.html { render action: "edit" }
-        format.json { render json: @word.errors, status: :unprocessable_entity }
-      end
-    end
-  end
+	private
 
-  # DELETE /words/1
-  # DELETE /words/1.json
-  def destroy
-    @word = Word.find(params[:id])
-    @word.destroy
+	def get_category
+		@category = Category.find(params[:category_id])
+	end
 
-    respond_to do |format|
-      format.html { redirect_to words_url }
-      format.json { head :ok }
-    end
-  end
 end
+
+
+
