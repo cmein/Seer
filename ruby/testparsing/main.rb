@@ -22,6 +22,8 @@ if !Datachunk.table_exists?
   p "Creating table..."
   ActiveRecord::Base.connection.create_table(:datachunks) do |t|
     t.column :course_title, :string
+		t.column :course_instructor, :string
+		t.column :course_location, :string
   end
 end
 
