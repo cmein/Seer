@@ -1,0 +1,16 @@
+body: //div[@class="body-copy"]
+
+author: //span[@class="display-name"]
+
+date: substring(/html/head/link[@rel="canonical"]/@href, 23, 10)
+# update to pull the date out of the canonical URL
+
+title: //div[@class="headline"]
+strip_id_or_class: crunchbase
+
+# The following is for the mobile site
+body: //div[@id="singlentry"]
+author: substring-after(//span[@class="single-post-meta-top"],'rsaquo; ')
+date: substring-before(//div[@class="single-post-meta-top"],' @')
+title: //a[@class="sh2"]
+test_url: http://techcrunch.com/2011/10/18/apples-insanely-great-q1-2012/

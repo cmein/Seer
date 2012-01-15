@@ -1,0 +1,6 @@
+title: //h1[@class="entry-title headline lg"]
+author: //span[@class="byline"]/a
+date: //span[@class="localtime"]/text()
+
+body: //div[@class="entryContent clearfix"]
+test_url: http://www.salon.com/2011/10/25/occupying_the_rust_belt/singleton/

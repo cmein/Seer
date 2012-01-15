@@ -1,0 +1,5 @@
+strip_id_or_class: 'lineno'
+strip_id_or_class: 'block-toolbar-button'
+strip_id_or_class: 'recipe_score'
+
+test_url: http://code.activestate.com/recipes/577758-sleepsort-with-processes-and-pipes/

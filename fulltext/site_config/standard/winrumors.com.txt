@@ -1,0 +1,6 @@
+title: //h1[ @class='entry-title' ]
+author: //div[ @class='post-meta' ]/strong
+body: //div[ @class='entry-content' ]
+
+# Date seems impossible to retrieve on its own. Ignoring
+test_url: http://www.winrumors.com/windows-8-really-does-change-everything-its-mind-blowing/

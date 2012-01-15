@@ -1,0 +1,13 @@
+title: //div[@class='articleHead']//h1
+author: //p[@class="byline"]/a[1]
+body: //div[@class="articleText"]
+
+# remove 'From the Lab' and 'Recent posts' text
+strip: //div[@class='blogLabel']
+
+# remove byline
+strip: //p[@class="byline"]
+
+
+# copes less well with Review pages, seems fine for News
+test_url: http://www.macworld.com/article/163184/2011/10/the_ipod_as_an_iconic_cultural_force.html

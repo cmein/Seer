@@ -1,0 +1,11 @@
+strip_id_or_class: sIFR-alternate
+title: //div[@id='page-title-wrapper']/div[@id='page-title']/h2
+single_page_link: //a[contains(@href, 'pagination=false') and not(contains(@href, 'printpage=true'))]
+
+body: //div[@id = 'article-body']
+strip_id_or_class:article-tools
+author://div[@id = 'page-title']/h3
+date://div[@id = 'page-title']/h5/a[starts-with(@href,'/issues/')]
+
+
+test_url: http://www.nybooks.com/articles/archives/2011/aug/18/how-google-dominates-us/

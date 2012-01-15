@@ -1,0 +1,11 @@
+body: //div[@class="article_body"]
+strip://div[@class="relative primary-slot padding-top img-border gallery-container photo-wrapper"]
+strip://div[@id="wp-column six end"]
+strip://div[@class="hidden"]
+strip://div[@class="module component todays-paper-module curved"]
+strip://div[@class="module component live-qa curved img-border"]
+strip://div[@class="module component newsletter-signup curved"]
+strip://div[@class="module featured-stories component curved img-border"]
+
+move_into(//div[@class="article_body" and position() = 1]): //div[@class="article_body" and position() > 1]
+test_url: http://www.washingtonpost.com/world/europe/in-europe-new-fears-of-german-might/2011/10/19/gIQA3baZ7L_story.html?hpid=z1

@@ -1,0 +1,9 @@
+body://div[@id = 'content']
+author://span[@class = 'authors']
+author://span[@class = 'ht-vtag'][1]
+date:substring-before(//meta[@name = 'dc.date']/@content,'T')
+strip://div[contains(@class, 'region-ubercontent')]
+strip://h1
+strip://div[@id = 'ht-author']
+strip://ul[@class = 'links inline'] 
+test_url: http://www.historytoday.com/roger-moorhouse/peter-wild-boy

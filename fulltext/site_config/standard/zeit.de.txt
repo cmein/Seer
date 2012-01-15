@@ -1,0 +1,13 @@
+# 2011-08-20 [carlo@zottmann.org] added author, fixed date
+# 2011-08-23 [carlo@zottmann.org] changed single page link to use print version: page works better, less ambiguity. Related cleanups and simplifications.
+
+single_page_link: //a[@title="Druckversion"]
+tidy: no
+
+title: //title
+date: substring-before( //li[@class="date"], " " )
+author: //li[@class="author"]/a/text() | //li[@class="author first"]/a/text()
+
+strip_id_or_class: articleheader
+strip: //div[@id="comments"] | //div[@class="pagination block"] | //p[@class="ressortbacklink"]
+test_url: http://www.zeit.de/politik/deutschland/2011-08/zwist-union-euro

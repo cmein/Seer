@@ -1,0 +1,30 @@
+<page>
+	<title></title>
+	<revision>
+		<text xml:space="preserve">#REDIRECT [[Computer accessibility]] {{R from CamelCase}}</text> # a redirect TO link
+	</revision>
+</page>
+
+<page>
+	<title></title>
+	<revision>
+		<text xml:space="preverse">
+			{{Redirect|Anarchist|the fictional character|Anarchist (comics)}} # <= {{Redirect|Redirected from|For...|Click here|}}
+				# Anarchist" redirects here. For the fictional character, see Anarchist (comics).
+			{{Redirect|Anarchists}} # <= redirected from "Anarchists", redirect to disambiguation links
+				# "Anarchists" redirects here. For other uses, see Anarchists (disambiguation).
+			{{about|the political philosophy|the medical condition|Anorchism}} # <= to resolve possible confusion
+				# This article is about the political philosophy. For the medical condition, see Anorchism.
+
+			{{Anarchism sidebar}} # <= show the sidebar for Anarchism
+			{{Libertarianism sidebar}} # <= show the sidebar for Libertarianism
+
+			#REST OF THE TEXT IS HERE
+			{{Cite journal|params}}
+			==Sets off Section Title==
+			[[wikipedia link]]
+			{{Related articles|Wikipedia link}}
+
+		</text>
+	</revision>
+</page>

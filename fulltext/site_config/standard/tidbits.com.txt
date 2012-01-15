@@ -1,0 +1,14 @@
+strip: //h2
+
+strip_id_or_class: featured_meta
+strip_id_or_class: social-media
+strip_id_or_class: sponsorbox
+strip_id_or_class: sponsorbox_bottom
+strip_id_or_class: cb_block
+strip_id_or_class: rightcolumn
+strip_id_or_class: tc_books_frame
+strip_id_or_class: emailart_message_box
+
+author: //*[@class='byline']/a[1]
+strip: //*[@class='byline']
+test_url: http://www.tidbits.com/article/12209

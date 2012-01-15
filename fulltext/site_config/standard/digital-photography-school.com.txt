@@ -1,0 +1,6 @@
+title: //div[@class='post-title-details']/h1
+body: //div[@class='post-content']
+strip: //div[@class='post-meta']
+author: //a[@rel='author']
+
+test_url: http://www.digital-photography-school.com/9-pet-photography-tips

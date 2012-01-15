@@ -1,0 +1,6 @@
+title: //div[@class="story"]/h1
+body: //div[@id="story-body-text"]
+author: //span[@class="byline"]
+date: //p[@class="date"]
+
+test_url: http://www.baltimoresun.com/news/maryland/bs-md-bwi-collision-20111023,0,3810389.story?track=rss

@@ -1,0 +1,19 @@
+#basics
+author://div[contains(@class,'author')]
+date: substring-before(//a[@class='issue'], '&mdash;')
+body://div[@class = 'entry']
+
+#moves header image and tagline into body
+move_into(//div[@class='entry']/div)://div[@class = 'lead_image']
+move_into(//div[@class='entry']/div)://div[@class = 'standfirst']
+
+
+# moves author info to end of text
+move_into(//p[strong[string(.) = 'Follow Prospect on Twitter']])://div[@id='sidebar_content']/p/em
+
+# strips social links
+strip_id_or_class:login-status
+strip_id_or_class:shareinpost
+strip_id_or_class:postutils
+strip://strong[string(.) = 'Follow Prospect on Twitter']
+test_url: http://www.prospectmagazine.co.uk/2011/07/postmodernism-is-dead-va-exhibition-age-of-authenticism/

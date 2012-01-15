@@ -1,0 +1,9 @@
+title: //h1[@class='print-title']
+body: //div[@class='print-created' or @class='print-content']
+author: //a[contains(@href, '/authors')]
+date: //span[@class='article-date']
+prune: no
+
+single_page_link: //ul[contains(@class, 'article-actions-bar')]//a[contains(@href, '/print/article/')]
+
+test_url: http://www.thenation.com/article/162331/hard-against-time-roy-fisher

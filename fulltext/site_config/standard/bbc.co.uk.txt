@@ -1,0 +1,19 @@
+body: //div[@class="story-body"]
+title: //h1[@class="story-header"]
+date: //span[@class="story-date"]/span[@class='date']
+
+strip: //div[@class="story-feature narrow"]
+strip: //div[@class="story-feature wide"]
+strip: //span[@class="story-date"]
+strip: //div[@class="caption body-narrow-width"]
+strip: //div[@class="warning"]//p
+strip: //div[@id='page-bookmark-links-head']
+strip: //object
+strip: //div[contains(@class, "bbccom_advert_placeholder")]
+strip: //div[contains(@class, "embedded-hyper")]
+replace_string(<noscript>): <div>
+replace_string(</noscript>): </div>
+prune: no
+
+dissolve: //h2
+test_url: http://www.bbc.co.uk/news/business-15060862

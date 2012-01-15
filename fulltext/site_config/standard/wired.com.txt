@@ -1,0 +1,13 @@
+title: //h1
+title: //*[@class='posttitle']
+author: //*[@class='entryAuthor']/a[1]
+author://*[@class='member-title']
+date: substring-after(//div[@class='entryAuthor'], '·')
+date: substring-before(//*[@class='entryDate'], '|')
+body: //div[@class='entry']
+strip_id_or_class: ngg-galleryoverview 
+strip: //p[span[contains(@class, 'contentjump')]]
+strip: //text()[contains(., 'nextpage')]
+
+single_page_link: //a[contains(@href, '/all/1')]
+test_url: http://www.wired.com/cloudline/2011/10/meet-arms-cortex-a15-the-future-of-the-ipad-and-possibly-the-macbook-air/

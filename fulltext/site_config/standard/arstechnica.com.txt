@@ -1,0 +1,9 @@
+# Needed to be this broad to include div#pager at the bottom of multipage stories
+body: //div[@id='story']
+strip: //h2[@class='title']
+strip_id_or_class: byline
+prune: no
+
+date: //div[@class='byline']/span[@class='posted']//abbr/@original-title
+date: //div[@class='byline']/span[@class='posted']//abbr
+test_url: http://arstechnica.com/apple/reviews/2009/08/mac-os-x-10-6.ars/1

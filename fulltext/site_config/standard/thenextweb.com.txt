@@ -1,0 +1,6 @@
+body: //div[@class= 'KonaBody']
+author: //div[@class='featured mb-1']//a[starts-with(@href,'/author')]
+
+strip: //div[@class = 'bargo']
+strip: //div[@class = 'tf']
+test_url: http://thenextweb.com/apple/2011/07/02/10-things-apple-needs-to-do-the-create-the-ultimate-macbook-pro/

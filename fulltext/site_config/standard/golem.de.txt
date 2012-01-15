@@ -1,0 +1,5 @@
+title: //h1
+body: //div[@class='formatted']
+prune: no
+
+test_url: http://www.golem.de/1106/84008.html

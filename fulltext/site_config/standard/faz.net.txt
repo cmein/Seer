@@ -1,0 +1,33 @@
+# fforst@googlemail.com
+#
+# added single page link
+
+body: //div[@class='Article']
+
+single_page_link: //a[@class='BoxTool Drucken']
+
+# some authors are known and have a link, others don't
+author: //p[@class='Author']/a
+author: substring-after(//p[@class='Author'], 'Von')
+strip: //p[@class='Author']
+
+# get date
+date: //span[@id='dateline']
+#strip date
+strip_id_or_class: dateline
+
+# strip title as we already know it
+strip: //h1
+strip: //h2
+
+# strip captions
+strip: //span[@class='Caption']
+
+# looks like strip_id_or_class doesn't work with
+# case sensitive class names
+strip: //div[@class='BoxTool Aufklappen_Grau']
+strip: //div[@class='LinkBoxModulSmall']
+strip: //div[@class='ModulArtikelServices']
+strip: //div[@class='SocialMediaUnten']
+strip: //div[@class='ModulVerlagsInfo']
+test_url: http://www.faz.net/artikel/C30833/polizeiliche-datengier-teheran-damaskus-minsk-dresden-30446733.html

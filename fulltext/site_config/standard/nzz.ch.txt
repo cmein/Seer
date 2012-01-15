@@ -1,0 +1,18 @@
+## better than before but still not optimal
+
+strip: //div[@class='contentItem breadcrumbs']
+strip: //div[@class='printOrSend group']
+date: substring-before(//div[@class='contentItem artikel memonic_body']//p[@class='dachzeile'],',')
+strip: //p[@class='dachzeile']
+title: //div[@class='contentItem artikel memonic_body']/h1
+dissolve: //div[@class='leadImg2columns']
+strip: //img[@class='zoomIcon']
+author: substring-after(//div[@class='contentItem artikel memonic_body']//p[@class='autor'],'Von ')
+
+strip: //div[@class='bildStrecke']
+strip: //div[@class='video']
+strip: //div[@class='vermarktungsflaeche hide']
+strip: //p[@class='fussnote']
+strip: //div[@class='linkZumArtikel']
+
+test_url: http://www.nzz.ch/nachrichten/politik/international/gilad_shalit_und_hunderte_von_palaestinensern_zurueck_bei_ihren_angehoerigen_1.13042666.html

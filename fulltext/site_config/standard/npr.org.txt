@@ -1,0 +1,16 @@
+body: //div[@id='storyspan02']//*[@class='duration' or @class='download'] | //div[@class='storylocation']
+
+strip: //div[@class='enlarge_measure']
+strip: //div[@class='enlarge_html']
+strip: //a[@class='enlargeicon']
+strip: //div[contains(@class, 'bookedition')]
+strip: //div[@class='textsize']
+strip: //ul[@class='genres']
+strip: //span[@class='bull']
+strip_id_or_class: secondary
+strip_id_or_class: con1col
+strip: //h3[@class='conheader']
+
+prune: yes
+
+test_url: http://www.npr.org/blogs/thetwo-way/2011/07/12/137799301/sports-loses-its-escapist-gleam-in-a-summer-of-court-dates

@@ -1,0 +1,3 @@
+strip: //div[@class='articleExcerpt']
+
+test_url: http://online.wsj.com/article/SB10001424052702304906004576367121835831168.html

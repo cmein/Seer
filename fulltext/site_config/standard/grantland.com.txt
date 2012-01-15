@@ -1,0 +1,10 @@
+# this is fragile with footnotes -- leave it for now
+
+#tidy: no
+#prune: no
+#move_into(//article): //aside[@id='footnotes']
+#strip: //header//h1
+author: //header/cite/a
+date: //time/@datetime
+#strip: //aside[contains(@class, 'page-actions')]
+test_url: http://www.grantland.com/story/_/id/6626431/space-time-dvr-mechanics

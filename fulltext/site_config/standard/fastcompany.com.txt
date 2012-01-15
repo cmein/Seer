@@ -1,0 +1,6 @@
+title: //h2[@id="hdr_article-headline"]
+author: //cite/a
+date: //*[@class='timestamp']
+body: //div[@class="content"]
+
+test_url: http://www.fastcompany.com/1701972/how-tynt-helps-online-publishers-figure-out-what-readers-are-really-interested-in

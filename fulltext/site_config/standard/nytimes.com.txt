@@ -1,0 +1,25 @@
+title://h1[@class="articleHeadline"]
+body://div[@id="article"]
+strip_id_or_class:articleTools
+strip_id_or_class:readerscomment
+strip://div[@class="articleInline runaroundLeft"]
+strip_id_or_class:pageLinks
+strip_id_or_class:memberTools
+strip_id_or_class:articleExtras
+strip_id_or_class:singleAd
+strip_id_or_class:byline
+strip_id_or_class:dateline
+strip_id_or_class:articleheadline
+strip_id_or_class:articlebottomextra
+strip://a[contains(@href, 'nytimes.com/adx/')]
+strip: //nyt_byline
+
+date: substring-after(//*[contains(@class, 'dateline')], 'Published:')
+
+single_page_link: //a[contains(@href, 'pagewanted=all') and not(contains(@href, 'login'))]
+
+strip://ul[@id = 'toolsList']
+strip://h6[@class = 'kicker']
+author:substring-after(//h6[@class='byline'],'By ')
+
+test_url: http://www.nytimes.com/2011/07/24/books/review/an-academic-authors-unintentional-masterpiece.html

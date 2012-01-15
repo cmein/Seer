@@ -1,0 +1,15 @@
+body: //div[@id="cnnStoryContent"]
+title: //div[@id="cnnStoryHeadline"]//h1
+author: //div[@id="cnnSubBanner"]//strong
+date: substring-after(//div[@id="cnnTimeStamp"], "Updated: ")
+date: substring-after(//div[@id="cnnTimeStamp"], "Posted: ")
+
+# kill ugly font buttons
+strip: //div[@id="cnnSCFontButtons"]
+
+# kill misc filler videos & etc
+strip: //div[@class="cnnDivideContent"]
+
+# keep pagination links if they exist. sadly no single page link.
+move_into(//div[@id="cnnStoryContent"]): //div[@id="cnnStoryPagination"]
+test_url: http://sportsillustrated.cnn.com/2011/writers/peter_king/10/24/Week7/index.html

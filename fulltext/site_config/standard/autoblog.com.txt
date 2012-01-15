@@ -1,0 +1,6 @@
+prune: no
+body: //div[@class='body']
+author: //p[@class='byline']//a
+date: substring-after(//div[@class='about']/p[2], 'Posted')
+strip: //div[@class='body']/div[@class='meta']
+test_url: http://www.autoblog.com/2011/07/17/shelby-supercars-crowns-its-newest-creation-say-hello-to-the-tu/

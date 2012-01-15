@@ -1,0 +1,4 @@
+author: //div[@id="Sidebar"]/p/strong
+date: //h6[@class="dateline"]
+title: //div[@class="article"]/h1
+test_url: http://daringfireball.net/2011/10/apps_are_the_new_channels

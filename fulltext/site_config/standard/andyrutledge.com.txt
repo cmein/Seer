@@ -1,0 +1,5 @@
+title: //h2
+author: string('Andy Rutledge')
+date: //div[@class='articledate']
+body: //div[@class='copybody']
+test_url: http://www.andyrutledge.com/rfp-idiocy.php

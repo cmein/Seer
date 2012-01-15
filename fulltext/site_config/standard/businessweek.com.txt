@@ -1,0 +1,21 @@
+# story has several pages, should be detected
+body: //div[@id='storyBody']
+body: //div[@id='article_body']
+
+# article author
+author: //p[@class='author']/a
+# story author(s)
+author: substring-after(//p[@class='byline'], 'By ')
+
+# article date
+date: //span[@class='published_date']
+# story date
+date: //span[@class='date']
+
+strip_id_or_class: inset
+strip: //p/span[@class='photoCredit']
+strip: //h1
+
+single_page_link: //li[@id='stPrint']/a
+
+test_url: http://www.businessweek.com/magazine/buyback-insurance-a-good-deal-for-retailers-07282011.html

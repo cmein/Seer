@@ -1,0 +1,16 @@
+title: //h1[@class='content-headline']
+
+body: //h2[@class='sub-header'] | //div[contains(@class, 'contributor-type') or @class='display-date' or @class='content-container']
+
+strip_id_or_class: bc
+strip_id_or_class: utilities
+strip_id_or_class: list-supporting
+strip_id_or_class: yrail
+strip_id_or_class: urail
+
+prune: no
+
+single_page_link: //li[@class='utility-print']/a
+
+test_url: http://www.vanityfair.com/politics/features/2011/05/egypt-revolutionaries-201105
+test_url: http://www.vanityfair.com/politics/features/2008/08/hitchens200808

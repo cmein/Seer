@@ -1,0 +1,6 @@
+title: //div[@id='print1']/h1
+date: substring-before(//div[@class='subline'],'|')
+body: //div[@class='teaser']
+move_into(//div[@class='teaser']): //div[@class='text']//div[@id='print2']
+strip: //div[@id='rechtespalte']
+test_url: http://www.salzburg.com/online/nachrichten/weltpolitik/Massive-Streiks-laehmen-Leben-in-Griechenland.html?article=eGMmOI8Ve2sZumL91n3bGUlaqOmBwg0h8z8XZMb&img=&text=&mode=&

@@ -1,0 +1,13 @@
+# Please convert this to *.blogspot.com, as users receive individual subdomains.
+
+# Tried several ways to keep the author byline, but Instapaper seemed to strip it no matter what I did
+
+title://*[contains(@class,'post-title')]
+body://div[contains(@class,'post-body')]
+body://div[contains(@class,'entry-content')]
+strip_comments:no
+prune:no
+convert_double_br_tags:yes
+tidy:yes
+date: //*[contains(@class, 'date-header')]
+test_url: http://themerryone.blogspot.com/2010/08/new-move-new-blog.html
