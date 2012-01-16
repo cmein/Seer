@@ -1,6 +1,7 @@
 # updates all feeds
 def update_feeds
-	Category.find(:all).each do |category|
+	log_string = "" # *TEST*
+	Category.all.each do |category|
 		@category = category
 		@category_word_count = 0												# <= for keeping track of unique words found during this iteration # *TEST*
 		print "Updating " + @category.name + "...\n"		# *TEST*
@@ -12,11 +13,12 @@ def update_feeds
 		connect_error_feeds = []												# <= holds the feeds that couldn't be connected to	# *TEST* HOWEVER may be adapted to feed pruning
 
 		# start updating each feed
-		@category.feeds.find(:all).each_with_index do |raw_feed,index|
+		@category.feeds.all.each_with_index do |raw_feed,index|
 			word_counts[index] = 0
+			print "Fetching " + raw_feed.url + "\n"			# *TEST*
 			feed = Feedzirra::Feed.fetch_and_parse(raw_feed.url)
 			# if feedzirra couldn't reach the feed, count it as a connect error
-			if feed==0
+			if feed==0 or feed.nil?
 				connect_errors += 1										# *TEST*
 				connect_error_feeds << raw_feed.url		# *TEST* => HOWEVER this will later be adapted to feed pruning
 				next
@@ -52,11 +54,21 @@ def update_feeds
 
 		if new_entries > 0
 			print "Processing words...\n"			# *TEST*	
-			n = @category.feeds.find(:all).size - connect_errors 	# <= calculate "n" for the sample		
+			n = @category.feeds.all.size - connect_errors 	# <= calculate "n" for the sample		
 			process_words(freqs, n, word_counts)									# <= process the words
+			@category.update_attributes(:iteration => @category.iteration + 1)
+			print "This category has gone through " + @category.iteration.to_s + " iterations.\n" # *TEST*
+
+			# *TEST*
+			# log printing:
+			log_string << @category.name + "\nHad " + connect_errors.to_s + " connect errors.\n"
+			connect_error_feeds.each { |feed| log_string << ("\t" + feed + "\n") }
+			log_string << ("Found " + @category_word_count.to_s + " new unique words in " + new_entries.to_s + " new entries.\n")
+			log_string << ("This was the category's " + @category.iteration.to_s + " iteration.\n\n")
 		end
 	end
 	print "Update complete!\n"				# *TEST*
+	File.new("logs/"+Time.new.strftime("%Y%m%d%H%M%S")+".txt", "w").write(log_string)			#	*TEST*
 end
 
 private
@@ -100,14 +112,6 @@ def process_words(freqs, n, word_counts)
 		update_word_stats(key, stats[key])
 	end
 	update_category_stats(freqs.size)
-	# *TEST*
-	#puts freqs
-	#puts stats
-	#Word.find(:all).each do |word|
-	#	puts word.name
-	#	word.stats.find(:all).each { |stat| puts stat.mean.to_s + ", " + stat.sd.to_s + ", " + stat.presence.to_s  }
-	#end
-	# end *TEST*
 end
 
 # Crunch Word Stats
@@ -148,7 +152,7 @@ def update_word_stats(key, stats)
 	word.stats.create(:mean => stats[0], :sd => stats[1], :presence => stats[2])
 end
 
-# Update Category States
+# Update Category Stats
 # 	n => the size of the freqs hash
 # Creates a new stat record for the category.
 def update_category_stats(n)

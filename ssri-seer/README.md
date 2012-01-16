@@ -8,11 +8,12 @@ Run from the command line:
 
 Accepted arguments:
 	<pre>
-	feeds => returns all feeds with their id, category, url, and number of entries
+		feeds => returns all feeds with their id, category, url, and number of entries
 	blacklist => returns all blacklist words
 	feed [ID] => returns all entries for a feed with the given [ID] and total number of entries
 	word [WORD] => returns the full stat history for the given [WORD]
 	categories => returns all categories with feeds, number of feeds, and number of words
+	category [NAME] [RESULTS] => returns the most frequently appearing words for the [NAME] category, limited by [RESULTS] (optional, default returns 100 results)
 	update => updates all feeds, returns how many entries were added
 	spawn => will create the database & populate with categories, feeds, and blacklist items
 	migrate => will update the database with newly added feeds or blacklist items
@@ -33,11 +34,8 @@ NOTE: Removing items from the text files will not remove them from the database.
 
 
 ###To Do
-- Auto-stat-pruning (ASP) based on category history size param (requires scheduling/cron)
-- Feed stat tracking (requires scheduling/cron)
 - Output to CSV command, or graph output functions
-- Automatic/scheduled updates (requires scheduling/cron)
-  
+- Category settings, map
 
 
 

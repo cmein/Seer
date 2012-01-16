@@ -14,6 +14,8 @@ require 'yaml'
 require 'feedzirra'
 require "sanitize"
 
+require 'fileutils' # <= only for copying files (making database backups)
+
 dir = File.dirname(__FILE__)
 Dir[dir+"/models/*.rb"].each {|file| require file }
 require dir+"/core.rb"
@@ -50,20 +52,34 @@ db_connect # connect to database
 case ARGV[0]
 # Displays all feed urls
 when "feeds"
-	print Feed.find(:all).size.to_s + " feeds\n"
-	Feed.find(:all).each { |feed| print [feed.id, feed.category.name, feed.url, feed.feed_entries.size].join(' => ') + " entries \n" }
+	print Feed.all.size.to_s + " feeds\n"
+	Feed.all.each { |feed| print [feed.id, feed.category.name, feed.url, feed.feed_entries.size].join(' => ') + " entries \n" }
 # Displays all blacklisted words
 when "blacklist"
-	Blacklist.find(:all).each { |word| print word.word + "\n" }
+	Blacklist.all.each { |word| print word.word + "\n" }
 # Displays entries for a single feed
 when "feed"
 	display_feed_entries(ARGV)
+# Category-specific commands
+when "category"
+	if ARGV[1].nil?
+		print "Please include a category name\n"
+	else
+		category = Category.find_by_name(ARGV[1])
+		if category.nil?
+			print "This category doesn't seem to exist!\n"
+		else
+			ARGV[2].nil? ? limit_num = 100 : limit_num = ARGV[2]
+			Word.where(:category_id => category.id).joins(:stats).order("stats.mean DESC").limit(limit_num).each { |word| puts word.name }
+		end
+	end
 # Displays all categories with their feeds,
 # number of feeds, and number of words
 when "categories"
-	Category.find(:all).each do |category|
+	Category.all.each do |category|
 		print category.name + "\n"
 		print category.feeds.size.to_s + " feeds, " + category.words.size.to_s + " unique words\n"
+		print category.iteration.to_s + " iterations\n"
 		category.feeds.each { |feed| print "\t" + feed.url + "\n" }
 	end
 # Looks for the given word,
@@ -73,11 +89,12 @@ when "word"
 		print "Please include a word to search for.\n"
 	else
 		if Word.find_by_name(ARGV[1]).nil?
-			print "Couldn't find this word."
+			print "Couldn't find this word.\n"
 		else
-			Category.find(:all).each do |category|
+			Category.all.each do |category|
 				word = category.words.find_by_name(ARGV[1])
 				next if word.nil?
+				puts category.name
 				word.stats.each do |stat|
 					print stat.created_at.to_s + " => "
 					print "Mean: " + stat.mean.to_s
@@ -89,6 +106,7 @@ when "word"
 	end
 # Updates all feeds
 when "update"
+	FileUtils.cp("db/database", "db/backups/"+Time.new.strftime("%Y%m%d%H%M%S"))
 	update_feeds
 # Spawns a new database if none exists,
 # populates categories, feeds, and blacklist tables
@@ -105,6 +123,7 @@ when "migrate"
 # For testing from scratch
 # Will DELETE the current database.
 when "test"
+	FileUtils.cp("db/database", "db/backups/"+Time.new.strftime("%Y%m%d%H%M%S"))
 	File.delete("db/database")
 	spawn_tables
 	spawn_feeds
@@ -120,6 +139,8 @@ else
 		"\tfeed [ID] => returns all entries for a feed with the given [ID]\n"\
 		"\tword [WORD] => returns the full stat history for the given [WORD]\n"\
 		"\tcategories => returns all categories with feeds, number of feeds, and number of words\n"\
+		"\tcategory [NAME] [RESULTS] => returns the most frequently appearing words for the [NAME] category,\n"\
+		"\t\t\tlimited by [RESULTS] (optional, default returns 100 results)\n"\
 		"\tupdate => updates all feeds, returns how many entries were added\n"\
 		"\tspawn => will create the database & populate with categories, feeds, and blacklist items\n"\
 		"\tmigrate => will update the database with newly added feeds or blacklist items\n"\
