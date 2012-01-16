@@ -1,4 +1,4 @@
-#SSRI-Seer (Small-Scale, Rails Independent Seer) Readme
+#SSRI-Seer (Small-Scale, Rails Independent Seer)
 
 SSRI-Seer is a small-scale, Rails-independent development version of Seer. ActiveRecord is still used for handling the database and models. SSRI-Seer is a testing ground for developing Seer's core logic and collecting sample data. Except for feed fetching (accomplished via FeedZirra), everything is offline.
 
@@ -8,7 +8,7 @@ Run from the command line:
 
 Accepted arguments:
 	<pre>
-		feeds => returns all feeds with their id, category, url, and number of entries
+	feeds => returns all feeds with their id, category, url, and number of entries
 	blacklist => returns all blacklist words
 	feed [ID] => returns all entries for a feed with the given [ID] and total number of entries
 	word [WORD] => returns the full stat history for the given [WORD]

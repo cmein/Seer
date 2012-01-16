@@ -21,6 +21,9 @@ Dir[dir+"/models/*.rb"].each {|file| require file }
 require dir+"/core.rb"
 require dir+"/db/migrate.rb"
 
+# ENABLE FOR PROFILING
+require 'ruby-prof'
+
 # displays feed entries in the console
 def display_feed_entries(argv)
 	if argv[1].nil?
@@ -45,6 +48,20 @@ def display_feed_entries(argv)
 			print "\n" + feed.feed_entries.size.to_s + " entries \n"
 		end
 	end
+end
+
+def print_profiler_results
+	# ENABLE FOR PROFILING
+	result = RubyProf.stop
+  # Print a flat profile to text
+  printer = RubyProf::FlatPrinter.new(result)
+  printer.print(File.open('profiler/prof_flat.txt', 'w'), {:min_percent => 0, :print_file => true})
+	printera = RubyProf::GraphPrinter.new(result)
+  printera.print(File.open('profiler/prof_graph.txt', 'w'), {:min_percent => 0, :print_file => true})
+	printerb = RubyProf::CallTreePrinter.new(result)
+	printerb.print(File.open('profiler/prof_tree.txt', 'w'), {:min_percent => 0, :print_file => true})
+	printerc = RubyProf::GraphHtmlPrinter.new(result)
+	printerc.print(File.open('profiler/prof_graph.html', 'w'), {:min_percent => 0, :print_file => true})
 end
 
 db_connect # connect to database
@@ -123,6 +140,8 @@ when "migrate"
 # For testing from scratch
 # Will DELETE the current database.
 when "test"
+	print "Beginning profiling test...\n" if ARGV[1] = "profile"
+	RubyProf.start if ARGV[1] = "profile"
 	FileUtils.cp("db/database", "db/backups/"+Time.new.strftime("%Y%m%d%H%M%S"))
 	File.delete("db/database")
 	spawn_tables
@@ -131,6 +150,7 @@ when "test"
 	print "Database successfully created!\n"
 	print "Updating feeds...\n"
 	update_feeds
+	print_profiler_results if ARGV[1] = "profile"
 # Displays commands
 else
 	print "You may use the following arguments:\n"\
@@ -147,3 +167,6 @@ else
 		"\ttest => will destroy the database, spawn a new one, and update the feeds\n"
 end
 
+
+
+ 	

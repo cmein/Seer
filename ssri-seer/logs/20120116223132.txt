@@ -1,0 +1,11 @@
+Music
+Had 0 connect errors.
+Found 5496 new unique words in 165 new entries.
+This was the category's 1 iteration.
+
+World News
+Had 1 connect errors.
+	http://feeds.guardian.co.uk/theguardian/world/rss
+Found 7628 new unique words in 120 new entries.
+This was the category's 1 iteration.
+
