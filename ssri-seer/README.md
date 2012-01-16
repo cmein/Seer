@@ -7,7 +7,8 @@ Run from the command line:
     <pre>$ ruby main.rb [arguments]</pre>
 
 Accepted arguments:
-	<pre>feeds => returns all feeds with their id, category, url, and number of entries
+	<pre>
+	feeds => returns all feeds with their id, category, url, and number of entries
 	blacklist => returns all blacklist words
 	feed [ID] => returns all entries for a feed with the given [ID] and total number of entries
 	word [WORD] => returns the full stat history for the given [WORD]
