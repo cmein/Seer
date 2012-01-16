@@ -7,20 +7,22 @@ Run from the command line:
     <pre>$ ruby main.rb [arguments]</pre>
 
 Accepted arguments:
-- feeds => returns all feeds with their id, category, url, and number of entries
-- blacklist => returns all blacklist words
-- feed [ID] => returns all entries for a feed with the given [ID] and total number of entries
-- word [WORD] => returns the full stat history for the given [WORD]
-- categories => returns all categories with feeds, number of feeds, and number of words
-- update => updates all feeds, returns how many entries were added
-- spawn => will create the database & populate with categories, feeds, and blacklist items
-- migrate => will update the database with newly added feeds or blacklist items
-- test => will destroy the database, spawn a new one, and update the feeds
+	<pre>feeds => returns all feeds with their id, category, url, and number of entries
+	blacklist => returns all blacklist words
+	feed [ID] => returns all entries for a feed with the given [ID] and total number of entries
+	word [WORD] => returns the full stat history for the given [WORD]
+	categories => returns all categories with feeds, number of feeds, and number of words
+	update => updates all feeds, returns how many entries were added
+	spawn => will create the database & populate with categories, feeds, and blacklist items
+	migrate => will update the database with newly added feeds or blacklist items
+	test => will destroy the database, spawn a new one, and update the feeds
+	</pre>
 
 
 ###Notes
 Feeds and blacklist items are read from text files. When either of these files are changed, you must run the "migrate" command:
 	<pre>$ ruby main.rb migrate</pre>
+
 - blacklist.txt contains blacklisted words
 - Each category has it's own text file in feeds/. The category name is taken from the text filename.
 NOTE: Removing items from the text files will not remove them from the database.
