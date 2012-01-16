@@ -33,12 +33,10 @@ NOTE: Removing items from the text files will not remove them from the database.
 
 
 ###To Do
-- Population stat tracking for words
-- Feed stat tracking
-- Category word stat tracking
+- Auto-stat-pruning (ASP) based on category history size param (requires scheduling/cron)
+- Feed stat tracking (requires scheduling/cron)
 - Output to CSV command, or graph output functions
-- Keep track of unique word count
-- Automatic/scheduled updates
+- Automatic/scheduled updates (requires scheduling/cron)
   
 
 

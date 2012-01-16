@@ -1,1 +1,2 @@
 http://www.gorillavsbear.net/feed/
+http://www.daytrotter.com/rss/daytrotter.xml

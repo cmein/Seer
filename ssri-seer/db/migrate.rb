@@ -25,7 +25,6 @@ def spawn_tables
 		ActiveRecord::Base.connection.create_table(:feeds) do |t|
 			t.column :url, :string
 			t.column :alert, :integer
-			t.column :pop_stats, :text
 			t.column :category_id, :integer
 			t.column :created_at, :datetime
 			t.column :updated_at, :datetime
@@ -44,7 +43,6 @@ def spawn_tables
 		ActiveRecord::Base.connection.create_table(:categories) do |t|
 			t.column :name, :string
 			t.column :iteration, :integer
-			t.column :word_stats, :text
 			t.column :word_settings, :text
 			t.column :feed_settings, :text
 			t.column :map, :text
@@ -57,7 +55,6 @@ def spawn_tables
 		ActiveRecord::Base.connection.create_table(:words) do |t|
 			t.column :name, :string
 			t.column :alert, :integer
-			t.column :pop_stats, :text
 			t.column :category_id, :integer
 			t.column :created_at, :datetime
 			t.column :updated_at, :datetime
@@ -93,7 +90,7 @@ end
 
 # creates or adds blacklist items from blacklist.txt
 def spawn_blacklist
-	File.open("../blacklist.txt", "r").each_line do |line|
+	File.open("blacklist.txt", "r").each_line do |line|
 		Blacklist.create(:word => line.strip) unless !Blacklist.find_by_word(line.strip).nil?
 	end
 end

@@ -63,7 +63,7 @@ when "feed"
 when "categories"
 	Category.find(:all).each do |category|
 		print category.name + "\n"
-		print category.feeds.size.to_s + " feeds, " + category.words.size.to_s + " words\n"
+		print category.feeds.size.to_s + " feeds, " + category.words.size.to_s + " unique words\n"
 		category.feeds.each { |feed| print "\t" + feed.url + "\n" }
 	end
 # Looks for the given word,

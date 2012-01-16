@@ -2,13 +2,14 @@
 def update_feeds
 	Category.find(:all).each do |category|
 		@category = category
-		print "Updating " + @category.name + "...\n"
+		@category_word_count = 0												# <= for keeping track of unique words found during this iteration # *TEST*
+		print "Updating " + @category.name + "...\n"		# *TEST*
 		# set up some variables for this iteration:
 		freqs = Hash.new { |hash,key| hash[key] = [] }	# <= for holding word stats	for each feed
-		word_counts = Array.new
+		word_counts = Array.new													# <= for keeping track of how many words there are per feed
 		new_entries = 0																	# <= for keeping track of how many new entries there are
-		connect_errors = 0 															# <= number of feeds that couldn't be connected to
-		connect_error_feeds = []												# <= holds the feeds that couldn't be connected to
+		connect_errors = 0 															# <= number of feeds that couldn't be connected to	# *TEST*
+		connect_error_feeds = []												# <= holds the feeds that couldn't be connected to	# *TEST* HOWEVER may be adapted to feed pruning
 
 		# start updating each feed
 		@category.feeds.find(:all).each_with_index do |raw_feed,index|
@@ -16,8 +17,8 @@ def update_feeds
 			feed = Feedzirra::Feed.fetch_and_parse(raw_feed.url)
 			# if feedzirra couldn't reach the feed, count it as a connect error
 			if feed==0
-				connect_errors += 1
-				connect_error_feeds << raw_feed.url
+				connect_errors += 1										# *TEST*
+				connect_error_feeds << raw_feed.url		# *TEST* => HOWEVER this will later be adapted to feed pruning
 				next
 			end
 			# create new records for this feed's feed entries
@@ -37,7 +38,7 @@ def update_feeds
 				end
 			end
 		end
-		# print some info
+		# print some info *TEST*
 		if new_entries > 0
 			print "Update complete. There were " + new_entries.to_s + " new entries.\n"
 		else
@@ -47,12 +48,15 @@ def update_feeds
 			print "Couldn't connect to " + connect_errors.to_s + " feeds:\n"
 			puts connect_error_feeds
 		end
+		# END *TEST*
 
-		n = @category.feeds.find(:all).size - connect_errors 	# <= calculate "n" for the sample
-		print "Processing words...\n"
-		process_words(freqs, n, word_counts) if new_entries > 0			# <= process the words
+		if new_entries > 0
+			print "Processing words...\n"			# *TEST*	
+			n = @category.feeds.find(:all).size - connect_errors 	# <= calculate "n" for the sample		
+			process_words(freqs, n, word_counts)									# <= process the words
+		end
 	end
-	print "Update complete!\n"
+	print "Update complete!\n"				# *TEST*
 end
 
 private
@@ -61,6 +65,7 @@ private
 # 	index 				=> feed number, for this iteration
 # 	entry_content => the entry text to be farmed
 # 	freqs 				=> the word frequency hash for this iteration
+# 	word_counts		=> total number of words in this feed's update
 # Collects frequency of appearance for each word in this feed
 def farm_words(index, entry_content, freqs, word_counts)
 	words = Sanitize.clean(entry_content.downcase).split(/[^a-zA-Z](?<!['\-])/) 	# <= clean up & split the words
@@ -78,36 +83,44 @@ end
 
 # Word Processing
 # 	freqs => the word frequency hash for this iteration
-# 	connect_errors => number of feeds that couldn't be reached
+# 	n => number of feeds that were parsed
 # 	word_counts => array of total word counts per feed
 # After all the feeds have been farmed,
 # the frequency hash is converted from
 # absolute frequencies to relative frequencies
 def process_words(freqs, n, word_counts)
+	@category_means = []													# <= for holding mean relative frequency for each word found during this iteration
+	@category_presences = []											# <= for holding feed presences for each word found during this iteration
 	# per word calculations
 	stats = Hash.new
 	freqs.each do |key,value|										# <= for each word...
 		(n - value.size).times { value << 0 } 				# <= "fills up" word frequency array with 0s
 		freqs[key] = value.each_with_index.map { |freq,index| freq.to_f/(word_counts[index]==0 ? 1 : word_counts[index])}		# <= converts each absolute frequency to a relative frequency
-		stats[key] = crunch_stats(freqs[key], n)
-		update_stats(key, stats[key])
+		stats[key] = crunch_word_stats(freqs[key], n)
+		update_word_stats(key, stats[key])
 	end
+	update_category_stats(freqs.size)
+	# *TEST*
 	#puts freqs
 	#puts stats
-	Word.find(:all).each do |word|
-		puts word.name
-		word.stats.find(:all).each { |stat| puts stat.mean.to_s + ", " + stat.sd.to_s + ", " + stat.presence.to_s  }
-	end
+	#Word.find(:all).each do |word|
+	#	puts word.name
+	#	word.stats.find(:all).each { |stat| puts stat.mean.to_s + ", " + stat.sd.to_s + ", " + stat.presence.to_s  }
+	#end
+	# end *TEST*
 end
 
-# Crunch Stats
+# Crunch Word Stats
+# 	value => array of relative frequencies for the word
+# 	n => number of feeds that were parsed
+# Calculates some statistics for a word (mean, standard deviation, feed presence)	
+# Returns an array of:
 # 	mean = average percent frequency of word in feeds
 # 	sd = standard deviation of percent frequency of word in feeds
 # 	feed_presence = percent of feeds this word was found in
-# Calculates some statistics for a word (mean, standard deviation, feed presence)
-
-def crunch_stats(value, n)
+def crunch_word_stats(value, n)
 	mean = value.inject(:+)/n.to_f
+	@category_means << mean	# <= add this word's mean to the category_means array
 	variance = 0	# <= technically, this is actually variance*n
 	feed_presence = 0	
 	value.each do |item|
@@ -115,18 +128,40 @@ def crunch_stats(value, n)
 		feed_presence += 1 if item > 0
 	end
 	feed_presence = feed_presence/n.to_f
+	@category_presences << feed_presence # <= add this word's feed presence to the category_presence array
 	sd = Math.sqrt(variance/n)
 	return [mean, sd, feed_presence]
 end
 
-# Update Stats
-# 	key = the word, used as a key for the stats hash
-# 	stats = the array of that word's statistics for this iteration
+# Update Word Stats
+# 	key => the word, used as a key for the stats hash
+# 	stats => the array of that word's statistics for this iteration
 # 		=> [mean, sd, feed_presence]
-# Updates the statistics for a word record.
+# Creates stat record for a word record.
 # If no word record exists, one is created.
-def update_stats(key, stats)
-	@category.words.create(:name => key) if @category.words.find_by_name(key).nil?	# <= create a new word if it doesn't exist
+def update_word_stats(key, stats)
+	if @category.words.find_by_name(key).nil?	# <= create a new word if it doesn't exist
+		@category.words.create(:name => key)
+		@category_word_count += 1			# *TEST*
+	end
 	word = @category.words.find_by_name(key)
 	word.stats.create(:mean => stats[0], :sd => stats[1], :presence => stats[2])
 end
+
+# Update Category States
+# 	n => the size of the freqs hash
+# Creates a new stat record for the category.
+def update_category_stats(n)
+	category_mean = @category_means.inject(:+)/n
+	category_presence = @category_presences.inject(:+)/n
+	category_variance = 0	# <= technically, this is variance*n
+	@category_means.each { |item| category_variance += (item - category_mean)**2 }
+	category_sd = Math.sqrt(category_variance/n)
+	# For this category, this iteration:
+	# 	mean = mean relative frequency for words,
+	# 	sd = standard deviation from the mean,
+	# 	presence = mean presence for words,
+	# 	pop = unique words found
+	@category.stats.create(:mean => category_mean, :sd => category_sd, :presence => category_presence, :pop => @category_word_count)
+end
+

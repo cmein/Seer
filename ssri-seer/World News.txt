@@ -1,0 +1,16 @@
+http://fulltextrssfeed.com/rss.cnn.com/rss/edition_world.rss
+http://fulltextrssfeed.com/rss.cnn.com/rss/edition_africa.rss
+http://fulltextrssfeed.com/rss.cnn.com/rss/edition_americas.rss
+http://fulltextrssfeed.com/rss.cnn.com/rss/edition_asia.rss
+http://fulltextrssfeed.com/rss.cnn.com/rss/edition_meast.rss
+http://fulltextrssfeed.com/rss.cnn.com/rss/edition_europe.rss
+http://fulltextrssfeed.com/rss.cnn.com/rss/edition_us.rss
+http://fulltextrssfeed.com/www.aljazeera.com/Services/Rss/?PostingId=2007731105943979989
+http://feeds.guardian.co.uk/theguardian/world/rss
+http://www.huffingtonpost.com/feeds/verticals/world/index.xml
+http://fulltextrssfeed.com/feeds.bbci.co.uk/news/world/rss.xml
+http://fulltextrssfeed.com/feeds.nytimes.com/nyt/rss/World
+http://fulltextrssfeed.com/feeds.reuters.com/reuters/worldNews
+http://fulltextrssfeed.com/feeds2.feedburner.com/time/world
+http://news.yahoo.com/rss/world
+http://fulltextrssfeed.com/rss.msnbc.msn.com/id/3032506/device/rss/rss.xml
