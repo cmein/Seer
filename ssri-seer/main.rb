@@ -8,6 +8,7 @@ This is an offline, small-scale script for building and testing many of Seer's f
 =end
 
 require "rubygems"
+require "bundler/setup"
 require "active_record"
 require "sqlite3"
 require 'yaml'
@@ -22,7 +23,7 @@ require dir+"/core.rb"
 require dir+"/db/migrate.rb"
 
 # ENABLE FOR PROFILING
-require 'ruby-prof'
+# require 'ruby-prof'
 
 # displays feed entries in the console
 def display_feed_entries(argv)
@@ -50,19 +51,19 @@ def display_feed_entries(argv)
 	end
 end
 
-def print_profiler_results
-	# ENABLE FOR PROFILING
-	result = RubyProf.stop
-  # Print a flat profile to text
-  printer = RubyProf::FlatPrinter.new(result)
-  printer.print(File.open('profiler/prof_flat.txt', 'w'), {:min_percent => 0, :print_file => true})
-	printera = RubyProf::GraphPrinter.new(result)
-  printera.print(File.open('profiler/prof_graph.txt', 'w'), {:min_percent => 0, :print_file => true})
-	printerb = RubyProf::CallTreePrinter.new(result)
-	printerb.print(File.open('profiler/prof_tree.txt', 'w'), {:min_percent => 0, :print_file => true})
-	printerc = RubyProf::GraphHtmlPrinter.new(result)
-	printerc.print(File.open('profiler/prof_graph.html', 'w'), {:min_percent => 0, :print_file => true})
-end
+# def print_profiler_results
+# 	# ENABLE FOR PROFILING
+# 	result = RubyProf.stop
+#   # Print a flat profile to text
+#   printer = RubyProf::FlatPrinter.new(result)
+#   printer.print(File.open('profiler/prof_flat.txt', 'w'), {:min_percent => 0, :print_file => true})
+# 	printera = RubyProf::GraphPrinter.new(result)
+#   printera.print(File.open('profiler/prof_graph.txt', 'w'), {:min_percent => 0, :print_file => true})
+# 	printerb = RubyProf::CallTreePrinter.new(result)
+# 	printerb.print(File.open('profiler/prof_tree.txt', 'w'), {:min_percent => 0, :print_file => true})
+# 	printerc = RubyProf::GraphHtmlPrinter.new(result)
+# 	printerc.print(File.open('profiler/prof_graph.html', 'w'), {:min_percent => 0, :print_file => true})
+# end
 
 db_connect # connect to database
 
